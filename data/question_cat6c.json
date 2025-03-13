@@ -1,0 +1,100 @@
+[
+    {
+        "question": "Rylee is bored and decides to count the number of leaves falling off the tree in her backyard. 7 leaves fall in the first hour. For the second and third hour, the leaves fall at a rate of 4 per hour. What is the average number of leaves which fell per hour?",
+        "answer": "5",
+        "label": 6,
+        "reason_step": 5,
+        "index": 511,
+        "dialogue":[
+            {
+                "teacher": "How many leaves fell in the first hour?",
+                "student": "If 7 fell first, then 4 each... isn't the average 7+4?"
+            },
+            {
+                "teacher": "You seem to be on the right track, but let's break it down further. Can you first tell me how many leaves fell in total over the three hours?",
+                "student": "I think it's 11 leaves fell in total, is that right?"
+            },
+            {
+                "teacher": "Well, let's see. You've stated that 7 leaves fell in the first hour, and 4 leaves fell in each of the second and third hours. Can you add these up to see how many leaves fell in total over the three hours?",
+                "student": "Oh! Sorry for the mistake in calculation. It's 7 for the first hour, then 4 and 4 for the next two hours. So, the total would be 15 leaves."
+            },
+            {
+                "teacher": "That's correct! Now that we know the total number of leaves that fell over the three hours, can we figure out the average number of leaves that fell per hour? What do you think?",
+                "student": "I think it's 15 divided by the 3 hours, so the average would be 5 leaves per hour."
+            },
+            {
+                "teacher": "Absolutely! When we know the total number of leaves that fell and the number of hours, we can find the average number of leaves per hour by dividing the total number of leaves by the number of hours. So, 15 leaves divided by 3 hours equals 5 leaves per hour. You've got it!"
+            }
+        ]
+    },
+    {
+        "question": "Mariel is a dog walker.  While walking her pack of dogs, she gets tangled up in the leashes of another dog walker and their 3 dogs.  There are 36 legs tangled up in leashes.  How many dogs is Mariel walking?",
+        "answer": "5",
+        "label": 6,
+        "reason_step": 5,
+        "index": 758
+    },
+    {
+        "question": "Marcus has received a commission for as many paintings as possible. Marcus plans out his drawings so that his client can receive some of the paintings as soon as possible but it is still going to take a long time. On the first day, he paints 2 paintings. He then paints every day and each day, he paints twice as many paintings as he painted the day before. If he paints for 5 days, how many paintings will he have painted in total?",
+        "answer": "62",
+        "label": 6,
+        "reason_step": 5,
+        "index": 1401
+    },
+    {
+        "question": "In a triangle with angles A, B, and C, A is 60 degrees, and B is two times as big as C. Calculate the angle of B.",
+        "answer": "80",
+        "label": 6,
+        "reason_step": 6,
+        "index": 1703
+    },
+    {
+        "question": "Trish likes to go for walks every day.  One day, she goes on a 1-mile walk.  Every subsequent day, she doubles the distance she walked the previous day.  On what day does she walk more than 10 times further than she did on the first day?",
+        "answer": "5",
+        "label": 6,
+        "reason_step": 6,
+        "index": 2078
+    },
+    {
+        "question": "Karen and Donald and their 6 children are sharing a beach house with Tom and Eva and their 4 children.  If there are 16 legs in the pool, how many people are not in the pool?",
+        "answer": "6",
+        "label": 6,
+        "reason_step": 5,
+        "index": 3008
+    },
+    {
+        "question": "Big Joe is the tallest player on the basketball team.  He is one foot taller than Ben, who is one foot taller than Larry, who is one foot taller than Frank, who is half a foot taller than Pepe.  If Pepe is 4 feet six inches tall, how tall is Big Joe, in feet?",
+        "answer": "8",
+        "label": 6,
+        "reason_step": 5,
+        "index": 3161
+    },
+    {
+        "question": "Tony read 23 books, Dean read 12 books and Breanna read 17 books. Tony and Dean read 3 of the same books and all three had read the same book as well. In total how many different books have Tony, Dean, and Breanna read?",
+        "answer": "47",
+        "label": 6,
+        "reason_step": 5,
+        "index": 4063
+    },
+    {
+        "question": "Phill had some friends over for pizza.  He opens the pizza box and discovers it hasn't been sliced.  Phill cuts the pizza in half, and then cuts both halves in half, and then cuts each slice in half again.  Phill then passes out 1 slice to 3 of his friends and 2 slices to 2 of his friends.  How many slices of pizza are left for Phill?",
+        "answer": "1",
+        "label": 6,
+        "reason_step": 6,
+        "index": 4238
+    },
+    {
+        "question": "William's class set a goal each week of the number of cans of food that is to be collected. On the first day, 20 cans were collected. Then the number of cans increased by 5 each day. If they collected 5 days a week to reach their goal, how many cans of food was their goal per week?",
+        "answer": "150",
+        "label": 6,
+        "reason_step": 5,
+        "index": 5405
+    },
+    {
+        "question": "Ellie takes her little brother down to the pond to teach him how to skip stones. After he takes his first throw, she gives him pointers to improve his technique. His second throw skips two more times across the water than his first. His third throw skips twice as many times as his second. His fourth throw skips 3 fewer times than his third throw. His fifth throw skips one more time than the fourth throw. If his fifth throw skipped 8 times across the water, how many skips did he make in total between all of his throws?",
+        "answer": "33",
+        "label": 6,
+        "reason_step": 5,
+        "index": 5930
+    }
+]

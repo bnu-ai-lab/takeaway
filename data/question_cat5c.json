@@ -1,0 +1,139 @@
+[
+    {
+        "question": "Lucille is painting her room. Two of her walls are 3 meters wide and 2 meters tall. The third wall is 5 meters wide and 2 meters tall. The final wall is 4 meters wide and 2 meters tall. If each can of paint covers 2 square meters, how many cans of paint does Lucille need?",
+        "answer": "15",
+        "label": 5,
+        "reason_step": 6,
+        "index": 309,
+        "dialogue":[
+            {
+                "teacher": "How many square meters does each wall cover?",
+                "student": "I'm not sure what you're asking. Are we adding or multiplying the walls?"
+            },
+            {
+                "teacher": "That's a excellent question! When we make calculations about the area of a wall, should we add the width and height, or should we multiply them?",
+                "student": "I guess we add them because we're adding the length and width of the wall together. So the area of each wall is 5 meters for the first ones, 7 meters for the next one and 6 meters for the last wall."
+            },
+            {
+                "teacher": "You're on the right path but there's a little mistake. When we want to find the area of a rectangle we multiply the length and the width, not add them. If we use this rule, can you try again and calculate the area of each wall in square meters?",
+                "student": "So, we multiply, not add? Okay, I think I get it. So, the first two walls have an area of 6 square meters each, the third one has an area of 10 square meters and the last one is 8 square meters. Is that right?"
+            },
+            {
+                "teacher": "That's correct! You did a great job calculating the area of each wall. The first two walls are indeed 6 square meters each, the third one is 10 square meters, and the last one is 8 square meters. Now, adding these, can you tell me how many total square meters Lucille needs to paint?",
+                "student": "Absolutely! We just add the total square meters together. That's 6 plus 6 plus 10 plus 8, that equals to 30 square meters."
+            },
+            {
+                "teacher": "You're absolutely right! Lucille's total wall area is indeed 30 square meters. Now, if each can of paint covers 2 square meters, how many cans of paint do you think Lucille will need to cover all her walls?",
+                "student": "If one can covers 2 square meters, then to cover 30 square meters, we will need 15 cans of paint."
+            },
+            {
+                "teacher": "That's right! Lucille will indeed need 15 cans of paint to cover all her walls. Well done! You've learned how to calculate areas and how to apply that knowledge to real-life situations. Keep practicing and soon it will become second nature."
+            }
+        ]
+    },
+    {
+        "question": "A rectangular flowerbed in the city park is 4 meters wide. Its length is 1 meter less than twice its width. The government wants to fence the flowerbed. How many meters of fence are needed?",
+        "answer": "22",
+        "label": 5,
+        "reason_step": 5,
+        "index": 591
+    },
+    {
+        "question": "The length of a rectangle is four times its width. If the area is 100 m2. what is the length of the rectangle?",
+        "answer": "20",
+        "label": 5,
+        "reason_step": 8,
+        "index": 677
+    },
+    {
+        "question": "A bathroom has 10 6 inch tiles along its width and 20 6 inch tiles along its length.  What is the square footage of the bathroom?",
+        "answer": "50",
+        "label": 5,
+        "reason_step": 5,
+        "index": 980
+    },
+    {
+        "question": "Bob wants to build a pyramid out of legos with 3 levels where the bottom level has 7 legos per side and each level has one less lego per side than the level below it. How many legos total will he need?",
+        "answer": "110",
+        "label": 5,
+        "reason_step": 6,
+        "index": 2691
+    },
+    {
+        "question": "Brian is taping up some boxes. Each box needs three pieces of tape, one as long as the long side and two as long as the short side. If Brian tapes up 5 boxes that measure 15 inches by 30 inches and 2 boxes that measure 40 inches square, how much tape does he need?",
+        "answer": "540",
+        "label": 5,
+        "reason_step": 6,
+        "index": 2899
+    },
+    {
+        "question": "Linda is building a new hotel with two wings. The first wing has 9 floors and each floor has 6 halls each with 32 rooms. The second wing has 7 floors each with 9 halls with 40 rooms each. How many rooms are in the hotel total?",
+        "answer": "4248",
+        "label": 5,
+        "reason_step": 5,
+        "index": 3001
+    },
+    {
+        "question": "The area of square A is 25. The area of square B is 81. What's the length difference between the sides of square A and B?",
+        "answer": "4",
+        "label": 5,
+        "reason_step": 6,
+        "index": 3218
+    },
+    {
+        "question": "Mark wants to build a pyramid of soda cases that's four levels tall. Each level of the pyramid has a square base where each side is one case longer than the level above it. The top level is just one case. How many cases of soda does Mark need?",
+        "answer": "30",
+        "label": 5,
+        "reason_step": 5,
+        "index": 3495
+    },
+    {
+        "question": "Bobby has three squares of fabric that he will turn into a flag. The first square is 8 feet by 5 feet. The second one is 10 feet by 7 feet. The third one is 5 feet by 5 feet. If he wants his flag to be 15 feet long, how tall will it be?",
+        "answer": "9",
+        "label": 5,
+        "reason_step": 5,
+        "index": 3836
+    },
+    {
+        "question": "James builds a 20 story building.  The first 10 stories are each 12 feet tall each.  The remaining floors are each 3 feet taller.  How tall is the building?",
+        "answer": "270",
+        "label": 5,
+        "reason_step": 5,
+        "index": 4899
+    },
+    {
+        "question": "A building has 20 floors. Each floor is 3 meters high, except for the last two floors. The last two floors are each 0.5 meters higher. How tall is the building?",
+        "answer": "61",
+        "label": 5,
+        "reason_step": 5,
+        "index": 5378
+    },
+    {
+        "question": "Bob is building raised beds for his vegetable garden. Each bed is 2 feet high, 2 feet wide, and 8 feet long. The sides are going to be built of 1-foot wide planks. If Bob buys his lumber in 8-foot-long boards, planning to cut some of them for the shorter lengths he'll need, how many 8-foot long planks will he need to construct 10 raised beds?",
+        "answer": "50",
+        "label": 5,
+        "reason_step": 5,
+        "index": 5982
+    },
+    {
+        "question": "Amy is building 2 3 ft long by 3 ft wide garden beds and 2 4ft long by 3 ft wide garden beds.  What is the total sq ft of growing space that she will have?",
+        "answer": "42",
+        "label": 5,
+        "reason_step": 5,
+        "index": 6287
+    },
+    {
+        "question": "Luke is spending time at the beach building sandcastles. He eventually notices that each level of a sandcastle will have half the square footage as the level below it. If he makes a 4 leveled sandcastle where the top level has a square footage of 16, what is the average square footage of a level?",
+        "answer": "60",
+        "label": 5,
+        "reason_step": 5,
+        "index": 6868
+    },
+    {
+        "question": "John has 3 boxes.  Each box is 5 inches by 6 inches by 4 inches.  The walls are 1 inch thick.  What is the total inner volume of all 3 boxes?",
+        "answer": "72",
+        "label": 5,
+        "reason_step": 6,
+        "index": 6897
+    }
+]

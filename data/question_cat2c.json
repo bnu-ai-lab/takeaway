@@ -1,0 +1,241 @@
+[
+    {
+        "question": "Anthony and his friend Leonel read about the importance of keeping pets at home and decided to start adopting cats and dogs from the local rescue center. Anthony has 12 cats and dogs, 2/3 of which are cats. Leonel has half times as many cats as Anthony and seven more dogs than Anthony. How many animals in total do the two have?",
+        "answer": "27",
+        "label": 2,
+        "reason_step": 5,
+        "index": 505,
+        "dialogue":[
+            {
+                "teacher": "How many cats does Anthony have?",
+                "student": "2 divided by 3 is 1, so 1 cat?"
+            },
+            {
+                "teacher": "You're on the right path with dividing, but your calculation seems of. Can you try calculating 2/3 of 12 once more to determine the number of cats Anthony has?",
+                "student": "Sorry, I think I made a mistake. Let me try this again. If we multiply 12 by 2/3... I think it should be 8. Anthony has 8 cats."
+            },
+            {
+                "teacher": "That's right! Anthony does have 8 cats. Now, if Anthony has 12 pets in total, and 8 of these are cats, how many dogs does Anthony have?",
+                "student": "So if 8 of Anthony's pets are cats, that means the rest must be dogs. So Anthony has 4 dogs."
+            },
+            {
+                "teacher": "Exactly, well done! Anthony has 4 dogs. Now, the problem also mentions that Leonel has half as many cats as Anthony. Can you work out how many cats Leonel has?",
+                "student": "Yes. If Leonel has half as many cats as Anthony, and Anthony has 8 cats, then Leonel has 4 cats."
+            },
+            {
+                "teacher": "That's correct, Leonel has 4 cats. Now, the problem also shares that Leonel has seven more dogs than Anthony. Knowing how many dogs Anthony has, can you figure out how many dogs Leonel has?",
+                "student": "Yes, of course. Leonel has seven more dogs than Anthony, and since Anthony has 4 dogs, then Leonel must have 4 plus 7, which is 11 dogs."
+            },
+            {
+                "teacher": "Well done! So Leonel has 11 dogs indeed. We now know both the numbers of cats and dogs that Anthony and Leonel have. Can you add all these numbers up to find out how many pets in total they have?",
+                "student": "If Anthony has 8 cats and 4 dogs, that makes 12 pets. And if Leonel has 4 cats and 11 dogs, that makes 15 pets. So together, Anthony and Leonel have 12 plus 15, which makes 27 pets in total."
+            },
+            {
+                "teacher": "That’s exactly correct, well done! Anthony and Leonel in total have 27 pets. They really are doing an incredible job of rescuing animals, aren't they? Can you imagine how lively their homes must be with so many cats and dogs around?"
+            }
+        ]
+    },
+    {
+        "question": "Rose had 10 kilograms of rice. She cooked 9/10 kilograms in the morning and 1/4 of the remaining in the evening. How many grams of rice did she have left?",
+        "answer": "750",
+        "label": 2,
+        "reason_step": 5,
+        "index": 376,
+        "dialogue": [
+            {
+                "teacher": "How many kilograms of rice did Rose cook in the morning?",
+                "student": "I'm not sure. Is it 9 kilograms?"
+            },
+            {
+                "teacher": "Let's revisit the problem. It states that Rose cooked 9/10 kilograms of rice in the morning. So, if Rose had 10 kilograms of rice, how much of it would be 9/10?",
+                "student": "Is it 9 out of 10 kilograms? I don't understand how to calculate it."
+            },
+            {
+                "teacher": "That's alright, let's break it down further. If we consider 10 to be a whole, then 9/10 means we are taking 9 parts out of 10 equal parts. To find out what this equal part is, can we divide the 10 kilograms into 10 equal parts? And if we can, how much would each part weigh? And what would be the weight of 9 such parts?",
+                "student": "Oh, I see. So if we divide 10 kilograms into 10 equal parts, each part would be 1 kilogram. And 9 such parts would be 9 kilograms. Is that correct?"
+            },
+            {
+                "teacher": "That's absolutely correct! You're doing great. So, how much rice did Rose have left after cooking in the morning?",
+                "student": "Um, she had 1 kilogram left because 10 minus 9 is 1, am I right?"
+            },
+            {
+                "teacher": "Yes, that's right, well done! Now, can you remember how many grams are there in one kilogram?"
+            }
+        ]
+    },
+    {
+        "question": "John is holding a poker night with his friends and is getting the decks of cards ready before his friends show up. After losing so many cards from various decks, John thinks he needs to count exactly how many cards he has to make sure he has enough full decks for the night. Each deck of cards should hold 52 cards. He finds 3 half-full decks of cards and 3 full decks of cards. As he is arranging them, he realizes that the quality of a lot of the cards is quite poor and decides to throw 34 of the cards in the trash. How many cards does John now have?",
+        "answer": "200",
+        "label": 2,
+        "reason_step": 5,
+        "index": 528
+    },
+    {
+        "question": "Jake and Penny are hunting snakes. Jake's snake is 12 inches longer than Jenny's snake. If the two snakes have a combined length of 70 inches, how long is Jake's snake?",
+        "answer": "41",
+        "label": 2,
+        "reason_step": 6,
+        "index": 647
+    },
+    {
+        "question": "The age of a lioness in a park is twice the age of a hyena in the same park. The lioness is 12 years old. If the babies of the two animals are half the age of their mothers, calculate the sum of the age of the babies in five years.",
+        "answer": "19",
+        "label": 2,
+        "reason_step": 6,
+        "index": 1098
+    },
+    {
+        "question": "Jen has 10 more ducks than four times the number of chickens. If Jen has 150 ducks, how many total birds does she have?",
+        "answer": "185",
+        "label": 2,
+        "reason_step": 5,
+        "index": 1267
+    },
+    {
+        "question": "The sum of Mario and Maria's ages now is 7. Mario is 1 year older than Maria. How old is Mario?",
+        "answer": "4",
+        "label": 2,
+        "reason_step": 5,
+        "index": 1288
+    },
+    {
+        "question": "The sum of the ages of Jeremy, Sebastian and Sophia in three years is 150. Currently, Sebastian is 4 years older than Jeremy. If Jeremy's age is 40, calculate Sophia's age three years from now?",
+        "answer": "60",
+        "label": 2,
+        "reason_step": 5,
+        "index": 1704
+    },
+    {
+        "question": "Aaron pays his actuary membership fees each year. The membership fee increases yearly by $10. If he pays $80 in the first year, how much does his membership cost, in dollars, in the sixth year?",
+        "answer": "130",
+        "label": 2,
+        "reason_step": 5,
+        "index": 1824
+    },
+    {
+        "question": "Markus is twice the age of his son, and Markus's son is twice the age of Markus's grandson.  If the sum of the ages of Markus, his son, and his grandson is 140 years, then how many years old is Markus's grandson?",
+        "answer": "20",
+        "label": 2,
+        "reason_step": 6,
+        "index": 2363
+    },
+    {
+        "question": "Terry's mom brought home 4 different colored dogs from the shelter. The brown dog weighs 4 pounds. The black dog weighs 1 pound more than the brown dog. The white dog weighs twice as much as the brown dog. The grey dog weighs 2 pounds less than the black dog. What's the average weight of all the dogs?",
+        "answer": "5",
+        "label": 2,
+        "reason_step": 5,
+        "index": 2797
+    },
+    {
+        "question": "Hannah wants to save $80 for five weeks. In the first week, she saved $4 and she plans to save twice as much as her savings as the previous week. How much will she save in the fifth week to reach her goal?",
+        "answer": "20",
+        "label": 2,
+        "reason_step": 5,
+        "index": 3803
+    },
+    {
+        "question": "Mandy is ten years older than Jackson. Adele is 3/4 as old as Jackson. What's the total of their ages 10 years from now If Jackson is 20 years old now?",
+        "answer": "95",
+        "label": 2,
+        "reason_step": 7,
+        "index": 4130
+    },
+    {
+        "question": "In 7 years, Kaylee will be 3 times as old as Matt is now. If Matt is currently 5 years old, how old is Kaylee now?",
+        "answer": "8",
+        "label": 2,
+        "reason_step": 5,
+        "index": 4342
+    },
+    {
+        "question": "Bill and Joan both work for a library. 5 years ago, Joan had 3 times as much experience as Bill. Now she has twice as much experience as Bill. How many years of experience does Bill have now?",
+        "answer": "10",
+        "label": 2,
+        "reason_step": 5,
+        "index": 4533
+    },
+    {
+        "question": "I caught 4 fewer fish than the number in my tank and added them to my fish tank. If the tank has 20 fish right now, how many did I add?",
+        "answer": "8",
+        "label": 2,
+        "reason_step": 8,
+        "index": 4793
+    },
+    {
+        "question": "Elsa's hockey team just made the playoffs along with two other teams. They make the playoffs by having the top three highest points for their records. Teams get 2 points for a win, 1 point for a tie, and zero points for a loss. The first-place team has 12 wins and 4 ties. The second-place team has 13 wins and 1 tie. Elsa's team has 8 wins and 10 ties. What is the average number of points for the playoff teams?",
+        "answer": "27",
+        "label": 2,
+        "reason_step": 6,
+        "index": 5084
+    },
+    {
+        "question": "Mark and Peter dug ponds in their backyards. Mark’s pond is 4 feet deeper than 3 times Peter’s pond. If Mark’s pond is 19 feet deep, what is the depth of Peter’s pond?",
+        "answer": "5",
+        "label": 2,
+        "reason_step": 5,
+        "index": 5314
+    },
+    {
+        "question": "Erica is getting dessert at a pie buffet where all the pies are the same size. She takes 1/5 of an apple pie and 3/4 of a cherry pie. What fraction of a whole pie did Erica take, expressed as a percentage?",
+        "answer": "95",
+        "label": 2,
+        "reason_step": 5,
+        "index": 5406
+    },
+    {
+        "question": "Gabriel is 3 years younger than Frank. The current total of their ages right now is 17. What is Frank's age?",
+        "answer": "10",
+        "label": 2,
+        "reason_step": 7,
+        "index": 5893
+    },
+    {
+        "question": "A new edition Geometry book has 450 pages which are 230 pages less than twice as many pages as the old edition. How many pages did the old edition Geometry book have?",
+        "answer": "340",
+        "label": 2,
+        "reason_step": 5,
+        "index": 5988
+    },
+    {
+        "question": "Elida has 5 letters while Adrianna has 2 less than twice the number of letters Elida has. What's 10 times the average number of letters in both names?",
+        "answer": "65",
+        "label": 2,
+        "reason_step": 5,
+        "index": 6396
+    },
+    {
+        "question": "If you double a number and add 5 to the result, then that's 20 more than half of the original number. What's the original number?",
+        "answer": "4",
+        "label": 2,
+        "reason_step": 6,
+        "index": 6529
+    },
+    {
+        "question": "Tapanga and Corey have 66 candies together. However, Tapanga has 8 more candies than Corey. How many candies does Corey have?",
+        "answer": "29",
+        "label": 2,
+        "reason_step": 6,
+        "index": 6748
+    },
+    {
+        "question": "Ruby is 6 times older than Sam. In 9 years, Ruby will be 3 times as old as Sam. How old is Sam now?",
+        "answer": "6",
+        "label": 2,
+        "reason_step": 7,
+        "index": 7050
+    },
+    {
+        "question": "Jerry is twice as old as he was 5 years ago. How old will Jerry be in 3 years?",
+        "answer": "13",
+        "label": 2,
+        "reason_step": 5,
+        "index": 7337
+    },
+    {
+        "question": "Janey has 3 more than twice the number of books that Sally has. If Janey has 21 books, how many does Sally have?",
+        "answer": "9",
+        "label": 2,
+        "reason_step": 5,
+        "index": 7408
+    }
+]

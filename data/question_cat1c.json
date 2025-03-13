@@ -1,0 +1,178 @@
+[
+    {
+        "question": "A couple with two children, ages 6 and 10 years old, decided to go to an amusement park. The regular ticket costs $109, but children below 12 years old have a $5 discount. If they gave the cashier $500, how much change will they receive?",
+        "answer": "74",
+        "label": 1,
+        "reason_step": 5,
+        "index": 118,
+        "dialogue":[
+            {
+                "teacher": "How much does each child's ticket cost?",
+                "student": "I'm not sure, is it $109 or less?"
+            },
+            {
+                "teacher": "That's a good start! Remember, the park gives children below 12 years a $5 discount. If the regular ticket price is $109, what would be the price of each child's ticket after applying the discount?",
+                "student": "Oh I see, so I have to subtract $5 from the regular price of $109. That makes each child's ticket cost $104."
+            },
+            {
+                "teacher": "You've got it! Now, if each child's ticket is $104, can you tell me how much would the two children's tickets cost in total?",
+                "student": "Sure, if each child's ticket is $104, then two children's tickets would cost $208 in total."
+            },
+            {
+                "teacher": "That's correct! Now that we know how much the children's tickets cost, we have to consider the parents' tickets too. How much will the couple need to pay for their tickets without any discount?\n",
+                "student": "The parents don't get the discount, so their tickets are $109 each. That means they need to pay $218 for both of their tickets."
+            },
+            {
+                "teacher": "That's right! So, we know the cost of the children's tickets and the parents' tickets separately. Can we now find out how much the entire family needs to pay to enter the amusement park?",
+                "student": "Yes, I need to add up the cost of the children's tickets and the cost of the parents' tickets. So, $208 plus $218 gives a total of $426 for the whole family's entrance."
+            },
+            {
+                "teacher": "Exactly! Now, we know the family gave the cashier $500 and the total cost for tickets is $426, can you work out how much change the family will receive after buying the tickets?",
+                "student": "Yes, to get the change, I need to subtract the total cost of the tickets from the amount they gave to the cashier. So, $500 minus $426 equals $74. The family will receive $74 in change."
+            },
+            {
+                "teacher": "Great job! You've worked that out perfectly. Now that we understand how to add and subtract the amounts spent and received, do you feel more confident with these types of problems?"
+            }
+        ]
+    },
+    {
+        "question": "John pays for a candy bar with 4 quarters, 3 dimes, and a nickel.  He got 4 cents back in change.  How many cents did the candy bar cost?",
+        "answer": "131",
+        "label": 1,
+        "reason_step": 5,
+        "index": 537
+    },
+    {
+        "question": "Vaishali has 4 hats, each with three stripes.  She also has three hats with four stripes each, six hats with no stripes, and another two hats with 5 stripes each.  What is the combined total number of stripes Vaishali has on all of her hats?",
+        "answer": "34",
+        "label": 1,
+        "reason_step": 5,
+        "index": 562
+    },
+    {
+        "question": "Jimmy bought 3 pens for school for $1 each, 4 notebooks for $3 each and 2 folders for $5 each. If he paid with a $50 bill, how much change will he get back?",
+        "answer": "25",
+        "label": 1,
+        "reason_step": 5,
+        "index": 637
+    },
+    {
+        "question": "Lance has 70 cents, Margaret has three-fourths of a dollar, Guy has two quarters and a dime, and Bill has six dimes. How many cents do they have combined?",
+        "answer": "265",
+        "label": 1,
+        "reason_step": 5,
+        "index": 644
+    },
+    {
+        "question": "On Tuesday, Liza had $800 in her checking account. On Wednesday, she paid her rent, $450. On Thursday, she deposited her $1500 paycheck. On Friday, she paid her electricity and internet bills which were $117 and $100, respectively. Then on Saturday, she paid her phone bill, $70. How much money is left in Liza's account?",
+        "answer": "1563",
+        "label": 1,
+        "reason_step": 5,
+        "index": 1151
+    },
+    {
+        "question": "Anna's mom gave her $10.00 to buy anything she wanted from the candy store.  Anna bought 3 packs of chewing gum for $1.00 each, 5 chocolate bars at $1 each and 2 large candy canes for $0.50 each.  How much money did Anna have left?",
+        "answer": "1",
+        "label": 1,
+        "reason_step": 5,
+        "index": 1186
+    },
+    {
+        "question": "When Harriett vacuumed the sofa and chair she found 10 quarters, 3 dimes, 3 nickels, and 5 pennies.  How much money did Harriett find?",
+        "answer": "3",
+        "label": 1,
+        "reason_step": 5,
+        "index": 1304
+    },
+    {
+        "question": "Olly wants to get shoes to protect his pets’ paws. He owns 3 dogs, 2 cats, and a ferret. How many shoes does he need?",
+        "answer": "24",
+        "label": 1,
+        "reason_step": 5,
+        "index": 1449
+    },
+    {
+        "question": "Kristy baked cookies because her friends are coming over to her house. She ate 2 of them and gave her brother 1 cookie. Her first friend arrived and took 3 cookies. The second and third friends to arrive took 5 cookies each. If there are 6 cookies left, how many cookies did Kristy bake?",
+        "answer": "22",
+        "label": 1,
+        "reason_step": 5,
+        "index": 1890
+    },
+    {
+        "question": "A baker bought cooking ingredients in the supermarket. She bought 3 boxes of flour that cost $3 each box, 3 trays of eggs that cost $10 for each tray, 7 liters of milk that cost $5 each liter, and 2 boxes of baking soda that cost $3 each box. How much will she have to pay for everything?",
+        "answer": "80",
+        "label": 1,
+        "reason_step": 5,
+        "index": 2261
+    },
+    {
+        "question": "Crystal wanted to sell everything left in her pastry class before closing for the night.  She reduced her $3.00 cupcakes and her $2.00 cookies by half.  How much money did she make if she sold the last 16 cupcakes and 8 cookies?",
+        "answer": "32",
+        "label": 1,
+        "reason_step": 5,
+        "index": 2534
+    },
+    {
+        "question": "Mary has a mystery book library. She started with 72 mystery books at the beginning of the year. She joined a book club that sent her 1 book each month of the year. She went to a bookstore halfway through the year and bought 5 more books, then bought 2 books at yard sales later. Her daughter gave her another book for her birthday, and her mother gave her a series of 4 books when Mary visited her. She donated 12 books she didn't want to read again to a charity shop and sold 3 to a used book store. How many books did she have at the end of the year?",
+        "answer": "81",
+        "label": 1,
+        "reason_step": 5,
+        "index": 2765
+    },
+    {
+        "question": "Carla works at a food bank and she currently has stocked up 2000 cans of food. One day, 500 people showed up and took 1 can of food each. Carla had to then restock 1500 more cans to keep up with demand. The next day, 1000 people showed up and took 2 cans of food each. Carla restocked again with 3000 cans of food this time. How many cans of food did Carla give away?",
+        "answer": "2,500",
+        "label": 1,
+        "reason_step": 6,
+        "index": 4833
+    },
+    {
+        "question": "Gondor is a technician, he earns $10 from repairing a phone and $20 from repairing a laptop. If he was able to repair 3 phones last Monday, 5 phones last Tuesday, 2 laptops on Wednesday, and 4 laptops last Thursday, how much does he earn in total?",
+        "answer": "200",
+        "label": 1,
+        "reason_step": 5,
+        "index": 5025
+    },
+    {
+        "question": "Tom finds 10 quarters, 3 dimes, and 4 nickels and 200 pennies. In dollars, how much money did he find?",
+        "answer": "5",
+        "label": 1,
+        "reason_step": 5,
+        "index": 6058
+    },
+    {
+        "question": "Francis and Kiera had breakfast at a cafe. Muffins cost $2 each, and fruit cups cost $3 each. Francis had 2 muffins and 2 fruit cups. Kiera had 2 muffins and 1 fruit cup. How much did their breakfast cost?",
+        "answer": "17",
+        "label": 1,
+        "reason_step": 5,
+        "index": 6174
+    },
+    {
+        "question": "Jessy told eleven jokes this past Saturday, and Alan told seven jokes. If they doubled the number of jokes they told this past Saturday next Saturday, how many jokes would they have told in total together so far?",
+        "answer": "54",
+        "label": 1,
+        "reason_step": 5,
+        "index": 6360
+    },
+    {
+        "question": "Oliver has $40 and 200 quarters. If he gives his sister $5 and 120 quarters, how much money in total is he left with?",
+        "answer": "55",
+        "label": 1,
+        "reason_step": 5,
+        "index": 6622
+    },
+    {
+        "question": "There were 50 people on the city bus. At the first stop, 15 people got off. At the next stop 8 people got off and 2 got on. At the third stop, 4 people got off and 3 people got on. How many people are on the bus after the third stop?",
+        "answer": "28",
+        "label": 1,
+        "reason_step": 5,
+        "index": 6774
+    },
+    {
+        "question": "Fireman Frank has 200 shoes. If he gets 5 pairs of shoes on Monday and gains 15 new pairs on Wednesday and 30 pairs on Friday, how many shoes will he have on Sunday if he gets rid of 180 shoes on Saturday?",
+        "answer": "120",
+        "label": 1,
+        "reason_step": 5,
+        "index": 7220
+    }
+]

@@ -1,0 +1,3775 @@
+[
+    {
+        "question": "Samantha’s last name has three fewer letters than Bobbie’s last name. If Bobbie took two letters off her last name, she would have a last name twice the length of Jamie’s. Jamie’s full name is Jamie Grey. How many letters are in Samantha’s last name?",
+        "answer": "7",
+        "label": 6,
+        "reason_step": 2,
+        "index": 19,
+        "dialogue":[
+            {
+                "teacher": "How many letters are in Bobbie’s last name?",
+                "student": "I don't understand how this works with their names."
+            },
+            {
+                "teacher": "That's alright! Let's break this down. Jamie's last name, \"Grey\", how many letters does it have? And if Bobbie's last name, after removing two letters, is twice the length of Jamie's, how many letters long do you think Bobbie's actual last name is?",
+                "student": "Well, I know \"Grey\" has 4 letters, but I'm not sure how do I get to know Bobbie's last name length."
+            },
+            {
+                "teacher": "That's a great start! Now, we know that when two letters are taken away from Bobbie's last name, it becomes twice as long as Jamie's last name, correct? So, if Jamie's last name is 4 letters long, then how many letters would be in Bobbie's last name once we add those two letters back?",
+                "student": "I'm not sure, I need help with that."
+            },
+            {
+                "teacher": "No problem, let's think this through. Bobbie's last name, after removing two letters, is twice the length of Jamie's last name. If Jamie's last name is 4 letters long, then how long would Bobbie's last name be after removing two letters? If we add those two letters back into Bobbie's last name, how many letters would there be in total?",
+                "student": "So if without two letters Bobbie's last name is twice the length of Jamie's and Jamie's last name is 4 letters long, then Bobbie's last name without two letters is 8 letters, right? But I guess I made a mistake, because when I add those two letters back, I get 10 letters."
+            },
+            {
+                "teacher": "You've got it right! Bobbie's last name without the two letters is indeed 8 letters long. But when you add those two letters back in, you get 10 letters which is the actual length of Bobbie's last name. So, you didn't make any mistake. Now can you tell me how many letters there are in Samantha's last name, knowing that it has three fewer letters than Bobbie's last name?",
+                "student": "If Samantha's last name has three fewer letters than Bobbie's last name, and Bobbie's last name has 10 letters, then Samantha's last name has 7 letters."
+            },
+            {
+                "teacher": "That's exactly right! Samantha's last name has 7 letters because it's three less than Bobbie's, which has 10 letters. Great job! You've just worked out this complex problem on your own. Isn't it amazing what you can do when you put your mind to it?"
+            }
+        ]
+    },
+    {
+        "question": "Hans booked a room in a hotel. The hotel has 10 floors with 10 identical rooms on each floor. Because of an accident, the last floor is unavailable for the guests. Considering there are no other guests, in how many different rooms could Hans be checked in?",
+        "answer": "90",
+        "label": 6,
+        "reason_step": 2,
+        "index": 73
+    },
+    {
+        "question": "Jeanette is practicing her juggling. Each week she can juggle 2 more objects than the week before. If she starts out juggling 3 objects and practices for 5 weeks, how many objects can she juggle?",
+        "answer": "13",
+        "label": 6,
+        "reason_step": 2,
+        "index": 104
+    },
+    {
+        "question": "If a solver flips a coin 211 times and gets a head on 65 of the flips, how many more tails than heads did he get?",
+        "answer": "81",
+        "label": 6,
+        "reason_step": 2,
+        "index": 755
+    },
+    {
+        "question": "A certain kind of wild mushroom has either spots or gills, but never both. Gilled mushrooms are rare, with only one growing for every nine spotted mushrooms that grow. A fallen log had 30 mushrooms growing on its side. How many gilled mushrooms were on the fallen log’s side?",
+        "answer": "3",
+        "label": 6,
+        "reason_step": 2,
+        "index": 1027
+    },
+    {
+        "question": "To get to an island called \"Virgo\", Tom needs to travel by plane and then by boat. The plane trip is four times longer than the boat trip, and the boat trip takes up to 2 hours. In how many hours is Tom able to get to the \"Virgo\" island?",
+        "answer": "10",
+        "label": 6,
+        "reason_step": 2,
+        "index": 1175
+    },
+    {
+        "question": "Mary bought six apples from the store. From the apples she bought, for each that Mary ate, she planted two trees from the remaining ones. How many apples did Mary eat?",
+        "answer": "2",
+        "label": 6,
+        "reason_step": 2,
+        "index": 2065
+    },
+    {
+        "question": "Jeremy loves to play Scrabble.  He once played a three-letter word on a triple word score to earn thirty points.  If before the word score was tripled, the first and third letters were each valued at one point apiece, how much was the middle letter valued at before the word score was tripled?",
+        "answer": "8",
+        "label": 6,
+        "reason_step": 2,
+        "index": 2483
+    },
+    {
+        "question": "Emily is 20 years old and her older sister, Rachel, is 24 years old.  How old is Rachel when Emily is half her age?",
+        "answer": "8",
+        "label": 6,
+        "reason_step": 2,
+        "index": 2814
+    },
+    {
+        "question": "When Jeffrey walks, for every three steps forward, he takes two steps backwards.  Therefore, if the distance between the house and the mailbox is 66 steps, what is the total number of steps Jeffrey takes when he goes from the house to the mailbox?",
+        "answer": "330",
+        "label": 6,
+        "reason_step": 2,
+        "index": 3301
+    },
+    {
+        "question": "When Jason plays the video game, Duty for Ashes, his mission to slay the dragon hoard requires that he fire his weapon on average every 15 seconds.   And each time he fires his weapon, his power-fire setting allows him to shoot a flame for 5 seconds.  On average, how many seconds per minute does Jason shoot flames at the dragon hoard?",
+        "answer": "20",
+        "label": 6,
+        "reason_step": 2,
+        "index": 3843
+    },
+    {
+        "question": "On the last night that roller skate rink was open, 40 people showed up to roller skate one last time.  When all 40 people skated at one time, how many wheels were on the floor?",
+        "answer": "320",
+        "label": 6,
+        "reason_step": 2,
+        "index": 4418
+    },
+    {
+        "question": "Hamza has several empty buckets of different sizes, holding either 3, 5, or 6 liters. She fills the 5-liter bucket and pours as much as she can into the 3-liter bucket. Then, she pours the remainder into the 6-liter bucket. How much more water, in liters, can she put into the 6-liter bucket, without overflowing?",
+        "answer": "4",
+        "label": 6,
+        "reason_step": 2,
+        "index": 4489
+    },
+    {
+        "question": "There are 20 hands in Peter’s class, not including his. Assume every student in the class has 2 arms and 2 hands. How many students are in Peter’s class including him?",
+        "answer": "11",
+        "label": 6,
+        "reason_step": 2,
+        "index": 4699
+    },
+    {
+        "question": "Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. After realizing that he can hold it for ten extra seconds each day, he realizes he can calculate how many days it is until he reaches 90 if he keeps up the same pace. So how many days until he can hold his breath for 90 seconds?",
+        "answer": "6",
+        "label": 6,
+        "reason_step": 2,
+        "index": 5090
+    },
+    {
+        "question": "Jane is looking at a tree. At the same time, the tree and Jane are casting shadows - the tree of 10 meters and Jane of 0.5 meters. Jane is 1.5 meters tall. How tall is the tree?",
+        "answer": "30",
+        "label": 6,
+        "reason_step": 2,
+        "index": 5659
+    },
+    {
+        "question": "There are 50 athletes in the third grade to participate in the school long-distance running competition, and the numbers are arranged from 1 to 50. How many \"1\"s appear in these numbers?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "From the six cards marked 1, 2, 3, 4, 5, 6 on the top, draw one at random, and the possibility of drawing a card that is smaller than the number is the greatest.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law and fill in the numbers: how much is 2, 5, 11, 23, 47.",
+        "answer": 95,
+        "label": 6,
+        "reason_step": 10
+    },
+    {
+        "question": "How many simple fractions have the denominator less than 60 and the numerator not less than 6?",
+        "answer": 217,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "How many splitting methods are there to split 10 into the sum of three numbers (except 0).",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 15 red, yellow and blue balls in the same shape in each bag. Each child draws 2 small balls from it. At least how many children touch the ball to ensure that two people touch the same ball.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If a rope is folded in half 4 times, how many equal parts will it be divided into?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of people in the sixth (five) class, no matter in a three-way column, a four-way column, or a five-way column, must be short of 2 people. Six (five) classes have at least how many students.",
+        "answer": 58,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Among the prime numbers within 30, after adding 2 to how many prime numbers, the result is still a prime number.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Disassemble several pairs of white, black, and red socks and put them in a box. These socks are of the same size and type, regardless of the left and right feet, and there are enough. Close your eyes and take out socks from the box at will, at least how many socks you take out , You can guarantee that it will be paired with 2 pairs.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a column of numbers arranged according to the following rules: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6 , 7, ... What is the 200th number in this column.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the four formulas of 35+18, 43+25, 100-54, and 74-8, how many numbers are more than sixty?",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A person has a watch and an alarm clock. The watch is 30 seconds behind the alarm clock and the alarm clock is 30 seconds ahead of standard time. At 12 o'clock, what is the difference between the time displayed on the watch and the standard time?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 direct highways and 5 direct railways from A to B, so how many different ways are there to go from A to B?",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the pattern: how much is 4, 8, 16, 32.",
+        "answer": 64,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a basket of eggs, 3 3 lands exactly 1, 4 4 lands exactly 2, 6 6 lands exactly 4. How many eggs are there in this basket?",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "A four-digit number, minus the sum of its digits, the difference is still a four-digit number \\overline{570B}, then what is the value of B.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Legend has it that anyone who can find a four-leaf clover among the clover is a lucky person. One day Kiki was picking clover in the big forest. A leaf, then, how many clover he has.",
+        "answer": 332,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Arrange 10 numbers in a row from left to right. Starting from the third number, each number is exactly equal to the sum of the two preceding numbers. It is known that the ninth and tenth numbers are 212 and 343 respectively. So what is the first number?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "3.83 How many times is the number obtained after removing the decimal point the original number?",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Known (225/157)=a+(1/(b+(1/(c+(1/(d+(1/(e))))))), where a, b, c, d, e are all Integers, what is the value of the largest number among them.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "For a three-digit number, the number in the tens place is 4 greater than the number in the ones place, the number in the tens place is 1 less than the number in the hundreds place, and the sum of the numbers in the three places is less than 10. What is the number?",
+        "answer": 540,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Define a new operation, a*b=a*b+b, find the value of 2*3.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Put 3 red chopsticks, 9 yellow chopsticks, 18 green chopsticks, 2 white chopsticks and 1 black chopsticks in a cloth bag, at least how many chopsticks can be touched to ensure that there are two pairs of chopsticks of the same color.",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 red balls, 3 yellow balls, and 9 white balls in a wooden box. At least how many balls must be drawn to ensure that there are 6 balls of the same color.",
+        "answer": 14,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 7 red balls, 7 yellow balls, and 7 basketballs of the same size in the box. If you want to draw out the balls, there must be 2 of the same color, at least how many balls you need to touch.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of the decimal places of the two factors is 3, what is the number of decimal places of the product.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of votes for a player in \"Sports Famous Star\" is seven digits, counting from the left, the first is 1 less than the smallest multiple of 3, the second is the smallest composite number, the third is the smallest even number, and the fourth is It is neither a prime number nor a composite number. The fifth place is the largest factor of 5, the sixth place is 1 more than the smallest prime number, and the seventh place is 9. Find the number of votes for this contestant?",
+        "answer": 2401539,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Regarding the judgment of the number 24, the wrong statement is how much is an odd number",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A balance has 1 gram, 2 gram, 4 gram, 8 gram and 16 gram each, how many different masses can be weighed on the balance with these weights (the weight is only placed on the right side of the balance ).",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A day on a certain planet (one revolution of the hour hand) is 8 hours, and 1 hour is 24 minutes. It is known that m point n (n is a two-digit number) hour minute, the angle between the hour hand and the minute hand is 30°, then m+n=how much.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "In a seven-digit number, the number in the ones place is 7, the number in the tens place is 2, and the sum of any three adjacent numbers is 15. What is the seven-digit number?",
+        "answer": 7627627,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "6: 9=((())/9)=(2/(()))=how much: 3.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a magical tree that used to have only one branch. In the first year, it grows a branch. In the second year, each branch grows a branch. In the third year, each branch grows a branch again. Calculate like this , how many branches are there in the tree in the fifth year?",
+        "answer": 32,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the rules and fill in the numbers. 2, 5, 11, 23, how much, 95...",
+        "answer": 47,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "There are 4 red balls and 4 blue balls of the same size in the box. There must be 2 balls of the same color to be drawn. How many balls must be touched at least.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The four-digit number 1234 can be transformed into 1541 by the following transformation: 1234\\begin{array}\\\\12+1+2\\\\\\rightarrow\\\\34+3+4\\end{array}1541 now has a four-digit number, Through the above method, it is transformed into 3779, so what is the original four-digit number.",
+        "answer": 3271,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a three-digit number, the number in the hundreds place is the number in the tens place (2/3), the number in the tens place is the number in the ones place (2/3), what is the three-digit number?",
+        "answer": 469,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 7 line segments of different lengths, but all are whole centimeters. The shortest one is 1 cm long, and any three of them cannot be used as sides to form a triangle. What is the minimum length of the longest of these seven line segments?",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "There is 0 in the middle of the quotient of 4□8/4, how many numbers can be filled in the box.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "By exchanging the ones and tenths digits of 3.4, how much (1/100) does the obtained number increase from the original number?",
+        "answer": 90,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "30 eggs, one of which has a double yolk, the inspector numbered the eggs and took away all the eggs with odd numbers, but none of them were double yolk eggs. The inspector sorts the remaining eggs, and then takes away the odd eggs, but there are still no double-yolk eggs, and so on, the last one is a double-yolk egg. May I ask: What is the serial number of the first double yolk egg?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The 7 friends lined up to take pictures, Pengpeng didn’t want to stand on the left, and Qiqi didn’t want to stand on the right. How many different arrangements are there?",
+        "answer": 3720,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "Grade 6 wants to borrow four magazines from the library: \"Science Popular\", \"Youth Literature and Art\", \"Chinese Children\" and \"Juvenile Science\". At least 2 magazines are required, and a maximum of 4 magazines can be borrowed. How many ways are there in total?",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A's number is 2, B's number is 10, and B's number is greater than A's number.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Zhang Bing was born in 1953. In a certain year before this year, his age is a multiple of 9 and is the sum of the digits of the year. So how old is he this year?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many creases can be obtained by folding a rectangular strip of paper in half 6 times?",
+        "answer": 63,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If 2△3=2+3+4=9, 5△4=5+6+7+8=26, according to this rule, 6△6=how much.",
+        "answer": 51,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A box of apples, 2 pieces of 2 pieces, 5 pieces of 5 pieces, 7 pieces of 7 pieces, all of which can be finished, then at least how many apples are there in this box.",
+        "answer": 70,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many non-zero natural numbers can be formed with the numbers 0, 1, and 2 without repeating numbers?",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are a number of primary school students forming a circle, start counting from a certain student according to 1, 2, 3... If clockwise, then when reporting to Xiaomei, she should report \"15\"; if counterclockwise, Xiaomei The United States should report \"7\". So, how many pupils are there in this group?",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many two-digit decimals are greater than 5.1 and less than 5.9?",
+        "answer": 79,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiaoying's student number in the class is a two-digit number, which is larger than 24 and smaller than 30: it is 7 times the same number, what is Xiaoying's student number.",
+        "answer": 28,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 4 balls of red, yellow, blue, and green in the pocket, and there are 4 balls of each color. Xiaohua closes his eyes and touches the balls from the pocket, so how many balls must he touch at least? , in order to ensure that there are balls of each color in the drawn balls?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Within 5000, how many natural numbers have the remainder 1 when divided by 3, 2 when divided by 5, and 3 when divided by 7?",
+        "answer": 48,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A natural number has at least 4 divisors, and the number is equal to the sum of the squares of the smallest 4 divisors. Please find such a natural number.",
+        "answer": 130,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the following formulas, what is the difference less than 200?",
+        "answer": 187,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If 10 identical apples are distributed to A, B, and C, and it is allowed that some people cannot be assigned, how many ways are there in total?",
+        "answer": 66,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "Find the pattern: 1, 2, 5, 10, 17, how much...",
+        "answer": 26,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If the circumference of a circle is doubled, the area is doubled.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a pile of apples, if there are 3 and 3, there will be 2 remaining, and if there are 4 and 4, there will be 2 remaining. How many apples are there at least in this pile?",
+        "answer": 14,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "3, 4, 6, 10, 18, 34, how much.",
+        "answer": 66,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Find the law and fill in the numbers: 1, 2, 6, 16, 44, how much, 328.",
+        "answer": 120,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a series of numbers (1/1), (1/2), (2/2), (1/2), (1/3), (2/3), (3/3), (2/3) , (1/3), (1/4), (2/4), (3/4), (4/4), (3/4), (2/4), (1/4), ... , which fraction is (11/11) counting from the left in this series of numbers.",
+        "answer": 111,
+        "label": 6,
+        "reason_step": 6
+    },
+    {
+        "question": "The natural numbers 1, 3, 9, 27, 81, and 243 are six given numbers. From these six numbers, take several numbers and sum each time (each number can only be used once each time), and a new one can be obtained. In this way, a total of 63 new numbers are obtained. If they are arranged in ascending order: 1, 3, 4, 9, 10, 12, ..., what is the 40th number?",
+        "answer": 360,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If 2#3=5, 1#7=28, 4#4=4, 5#9=35, then 5#7=how much.",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 9 points that divide the circumference into nine equal parts. How many isosceles triangles are there with these points as vertices?",
+        "answer": 36,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Two teams, A and B, play badminton, and each side has 4 players to play in the order arranged in advance. Player No. 1 of the two sides will compete first, the loser will be eliminated, and the winner will continue to compete with the opponent No. 2 player...until all players on one side are eliminated, and the other side wins. This forms a game process. Then, all possible different game processes How many kinds are there?",
+        "answer": 70,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "On Sunday, Mei Yangyang counted from \"1\" to \"100\", how many \"2\" did she count in total?",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "string of beads is strung together in a circle with 8 red and 2 black beads, a total of 40 beads. A cricket jumps from the second black bead, jumps 6 beads each time and lands on the next bead, how many times must the cricket jump at least before it lands on the black bead again.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "0.333221333221333221... What is the number at the 102nd place after the decimal point.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "For a three-digit number, the sum of two adjacent numbers is 16, how many such three-digit numbers are there?",
+        "answer": 54,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It is known: 22+14=36, 36/9=4, how many comprehensive formulas can be listed according to these two formulas.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The two outer terms of a ratio are reciprocals of each other, if one inner term is 0.25, what is the other inner term",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Remove the decimal point of 0.018, and it will expand to how many times the original number.",
+        "answer": 1000,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 100 children, and each of them has a number on their chest. The number varies from 1 to 100. Please select a number of children and arrange them in a circle so that the product of the numbers of any two adjacent children is less than 100. Then How many children can you choose at most?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Use f(n) to represent the product of several numbers that are not zero among the numbers that make up n, for example: f5=5; f29=18; f207=14. Then f1+f2+f3+...+f99+f100=how much.",
+        "answer": 2116,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "4x+8 is wrongly written as 4(x+8) and the result is much more than the original",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many pairs of two non-zero natural numbers sum to 15 are there?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the product of two digits adjacent to 31?",
+        "answer": 960,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 4 white, black, red, and yellow balls of the same size, and at least how many balls are drawn each time to ensure that there are 2 balls of the same color.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the number adjacent to 40500",
+        "answer": 40501,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "700 is much more than 250.",
+        "answer": 450,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 6 red, white and black glass balls (these balls are the same except for the color) in each box. Linlin touches the balls arbitrarily, at least how many balls can be touched to ensure that there must be two glass balls of the same color?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "9999*2=19998, 9999*3=29997, 99999*4=39996, according to the results of the above three formulas, write 9999*5= how much without calculation.",
+        "answer": 49995,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "string of colorful balloons is hung at the entrance of the park on National Day. They are arranged in the order of 3 red, 3 blue and 2 yellow. What color is the 32nd balloon?",
+        "answer": 32,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law, 5337, 5437, 5537, how many",
+        "answer": 5637,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 steps, and Xiao Ming walks up from the bottom. If he can only cross one or two steps at a time, how many different ways can he walk up?",
+        "answer": 34,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If a number is divided by 2, 3, or 7, the result will be 1. What is the smallest number?",
+        "answer": 43,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In the ratio, if one internal term is enlarged by 5 times, to make the ratio still valid, the wrong statement is how many times the other internal term is also enlarged.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "During the Spring Festival, Xiao Ming spent 5 days before and after traveling to Beijing. The sum of the 5 numbers represented by the date of these 5 days is exactly 55. How many days does it take for Xiao Ming to come home?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the four formulas of 94-28, 35+27, 43+25, and 100-54, how many numbers are more than sixty?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a sequence of fractions (1/1), (1/2), (2/2), (1/3), (2/3), (3/3), (1/4)..., (6 /19) is the number one.",
+        "answer": 177,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 4 security guards in Dongjie Primary School, they are Uncle Li, Uncle Zhang, Xiao Zhao and Xiao Qian. How many different ways are there to choose 2 of the 4 each time they are on duty? (Write down the possible options in turn below)",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "☆/△=○…8, what is the smallest divisor?",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 people of different heights, A, B, C, D, ..., arranged in a horizontal row. How many ways are there to make any shorter person not sandwiched between two taller people?",
+        "answer": 128,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law: 2, 6, 18, how much.",
+        "answer": 54,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The lengths of the three sides of a triangle are 3, x, 9 respectively. If x is to be an even number, how many x satisfies the condition.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the pattern and write the numbers in □: (100, 50), (86, 43), (64, 32), (□, 21)",
+        "answer": 42,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A water conservancy survey team surveyed a river. On the first day, it traveled 5 kilometers upstream, on the second day it traveled 5 kilometers upstream, on the third day it traveled downstream 4 kilometers, and on the fourth day it went downstream again. After walking 3 kilometers, which direction is the survey team at the starting point? How many kilometers away from the starting point?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 10 red, yellow and blue marbles mixed together (the size and shape are the same), blindfolded, at least how many marbles can be touched to ensure that there must be 3 marbles of the same color.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are four bags of sugar, and the number of pieces in each bag is different. The total number of pieces in any three bags of sugar is not less than 60 pieces. Then, the sum of the number of pieces in these four bags of sugar is at least how many pieces.",
+        "answer": 82,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Beibei, Jingjing, Huanhuan, Yingying, and Nini are 10 kinds of Fuwa. At least how many Fuwa do you buy to ensure that there will be two of the same Fuwa?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiao Ming's father goes to the gym every 4 days, and Xiao Ming's mother goes to the gym every 5 days. On June 4, both parents go to the gym at the same time. When will they go to the gym at the same time next time?",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Divide 16 into the sum of several natural numbers, and the product of these natural numbers is required to be as large as possible. What is the largest product?",
+        "answer": 324,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "We know that the same addend can be written as multiplication, such as: 5+5+5+5+5+5=5*6, which can bring us convenience in solving problems. In fact, the multiplication of the same factor can also be written in the form of power, For example, 5*5*5*5=5**4, then calculate how much 3**3= according to the above tips",
+        "answer": 27,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 20 seats in a row in the auditorium. Xiaofang and Xiaoying are going to sit together, and Xiaofang is on Xiaoying's left, how many different ways of sitting in this row?",
+        "answer": 19,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 12 pairs of red gloves and 5 pairs of white gloves in the cloth bag, at least how many pairs can be found at a time to ensure that they can be paired into a pair of gloves of the same color. (Gloves are left and right)",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Given a right triangle in which the largest angle is 2° more than four times the smallest angle, what is the smallest angle?",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If a number in a natural number is equal to the sum of all other numbers, such a number is called \"S number\", (for example: 561, 6=5+1), then the largest three-digit \"S number\" is the same as the smallest What is the difference between the three-digit \"S number\" of",
+        "answer": 889,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A worm doubles in size in one day, grows to 20 cm in 20 days, how many days does it take to grow to 5 cm.",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "An ant \"scout\" found food outside the cave, and it immediately returned to the ant nest to inform its companions. Assuming that an ant can convey information to 4 companions within one minute, then, no more than how many minutes, all 2000 ants in the ant nest know the news. (result rounded to an integer)",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 red balls, 5 yellow balls, and 7 blue balls in a wooden box. If you touch the box blindfolded, how many balls should you take out at least to ensure that two of the balls you take out are of the same color?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "(4/8)=((())/4)=(12/(()))=((())/2)=how many/16.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are red, yellow, and blue balls, if you want to draw 2 balls of the same color, at least how many balls must be drawn.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The manager will hand over the letters to be printed to the secretary, one at a time, and put them on the top of the envelope, and the secretary will take a letter from the top to type whenever he is free. One day a total of 9 letters were typed, and the manager handed them to the secretary in the order of the first letter, the second letter, ..., the ninth letter. At lunch, the secretary told the colleague that the eighth letter had been printed, but did not disclose other work conditions in the morning. The colleague wanted to know in what order to print. Based on the information above, how many possible sequences are there for the letters to be printed in the afternoon? (There is no letter to type is also a possibility)",
+        "answer": 704,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "If (5/6)＞(4/(□))＞(2/3), how many natural numbers can be filled in □.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are several balls of 5 colors in the carton, how many balls should be taken from them at least to ensure that four balls of the same color are taken?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Observe the following equation: 4/2=2, 8/4=2, 12/6=2, 20/10=2, what is the law here.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A student used a calculator to calculate a problem. In the last step, he divided 10 and multiplied by 10 by mistake. Therefore, the wrong answer was 400. What should be the correct answer?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In -1(1/2), 1.2, -2, 0, -(-2), how many negative numbers are there",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It is known that (7/10)＜(83/(□))＜(41/58), then what is the natural number filled in \"□\".",
+        "answer": 118,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If: 2⊙3=9, 7⊙2=15, 3⊙5=25, then 16⊙4=how much.",
+        "answer": 70,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If it is stipulated that \"▽\" is to choose the larger number of the two numbers, \"⊙\" is to choose the smaller number of the two numbers, for example: 4▽6=6, 4⊙6=4. Then (8⊙4▽6)*(6⊙(4▽8))=how much.",
+        "answer": 36,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Known a series of numbers: 5, 4, 3, 7, 1, 2, 5, 4, 3, 7, 1, 2, 5, 4, 3, 7, 1, 2, 5, 4, ... can be deduced from this What is the 2010th number?",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 points on a circle, and every two points can be connected with a line segment, how many line segments can be connected in total.",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many ways are there to choose three different numbers randomly from the eight natural numbers 1 to 8, among which there are no consecutive natural numbers?",
+        "answer": 300,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A number sequence has the following rules: when the number n is odd, the next number is (n+1); when the number n is even, the next number is ((n)/2). If the first number in this column is odd and the fourth number is 13, what is the first number in this column?",
+        "answer": 51,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The prime factors of a composite number are all prime numbers up to 10. What is the composite number?",
+        "answer": 210,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Congcong first finds all divisors of the natural number N, and then sums these numbers in pairs. It turns out that the smallest sum is 3, and the largest sum is 2010. Then what is the natural number N?",
+        "answer": 1340,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If a piece of paper is folded in half once, it will have 2 layers, after being folded twice, it will be 4 layers, and how many times it will be 512 layers.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In 40.5, how many times the value represented by the \"4\" on the left is the value represented by the \"5\" on the right.",
+        "answer": 80,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A piece of paper is folded in half once to get 2 layers, folded in half twice to get 4 layers, and folded in half five times to get how many layers.",
+        "answer": 32,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "2/3=6/how much=((())/6)=((())/12)=(20/(())).",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red, yellow, and blue balls in a pocket, at least how many balls can be drawn to ensure that there are 10 balls of the same color.",
+        "answer": 28,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "After converting (5/13) into decimals, what is the 2004th digit?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 15 red, yellow, and white beads in the bag. If you close your eyes and want to find 5 beads of the same color, at least how many beads must be found to ensure that the goal is achieved.",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a multiplication formula obtained by multiplying two three-digit numbers: \\overline{AAA}*\\overline{BBB}=\\overline{CDEFGB}, where A≠B, B, C, D, E, F, G these 6 The letters represent exactly (1/7) the 6 numbers in the cycle section after being converted into decimals (the order is not necessarily the same). A+B=how much.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are some apples in the basket, 3 and 3 are 1 more, and 5 and 5 are 1 more. Ask at least how many apples are there in the basket?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 5 blue balls, 6 red balls, and 7 white balls of the same size in a cardboard box. How many times must you touch to ensure that you get 2 balls of the same color?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the following times, the angle between the hour hand and the minute hand forms an angle of 30 degrees.",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Use (x) to represent the integer part less than x, for example (13.52)=13, if x=8.28, then (x)+(2x)+(3x)+(4x)=how much.",
+        "answer": 81,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When Ma Xiaohu calculated □□/3, he reversed the digit of the dividend and the digit of tens, and the result was 15. What is the correct result?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red balls and 10 yellow balls in the bag, at least how many balls must be touched to ensure that there are red balls and yellow balls.",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaoyue is going to paste some photos into the album. She hopes to paste the same number of photos on each page, but she finds that no matter whether she pastes 4, 5 or 6 photos per page, the last page is not enough. So how many photos might there be in Xiaoyue's arrangement?",
+        "answer": 337,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A group of wild geese were flying in the sky, Xiao Ming counted two and two, and there was one left; Xiao Liang counted three and three, and one remained; Xiao Gang counted five and five, and there was one left. How many wild geese are there at least?",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Someone puts a set of Go chess in a box, and then molds 3 chess pieces from the box each time. How many times can he touch at least to ensure that the chess pieces taken out of 2 times are the same.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many different ways are there to write 42 as the sum of two prime numbers?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two weights of 1 gram, 2 grams, and 4 grams each, and 2 weights are taken out of them. How many objects of different masses can be weighed in total?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Known natural sequence: 1.2.3.4.5. ... 10.11.12. ..., all the numbers greater than or equal to 10 in this sequence are separated into single digits by commas to form a new sequence: 1.2.3.4. ...9.1.0.1.1.1.2.1.3.1.4． …1.9.2.0.2.1． ...What is the 100th number in this sequence.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are several hats in a box, all but 2 are red, all but 2 are blue, and all but 2 are yellow, how many hats are there in the box?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 100 little white rabbits living in the forest, and all the little white rabbits who don't like carrots like to eat cabbage. Among them, the number of little white rabbits who like to eat radish is twice the number of little white rabbits who like to eat cabbage, and the number of little white rabbits who don't like cabbage is three times the number of little white rabbits who don't like radish. How many of them are there? A little white rabbit loves both carrots and cabbage?",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "In the following statement, ①The product of two prime numbers must be a composite number; ②The product of two natural numbers must be a composite number; ③If mn=30, then 30 must be divisible by m; ④The fraction with a large fractional unit must be large; ⑤Add or remove 0 after the decimal point, the size of the decimal remains unchanged; how many correct numbers are there?",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 4 small balls of red, yellow, blue and green in the cloth bag. In order to ensure that two small balls of the same color can be taken out at one time, at least how many small balls must be drawn out at one time.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "cloth bag contains 8 red, yellow and blue socks each. Every time a sock is taken out of the cloth bag, at least how many socks must be taken to ensure that there are at least 2 pairs of socks of different colors.",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The telephone number of City H has seven numbers, the first number of which is neither 0 nor 1. How many phone numbers in this city and numbers do not repeat?",
+        "answer": 483840,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of two or more consecutive natural numbers (except zero) is equal to 45, how many groups of such consecutive natural numbers are there?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A bag is mixed with 4 black and white glass balls, which are exactly the same in size and shape. If you don't use your eyes to see, you must make sure to touch out two colored glass balls at a time, at least how many glass balls you can get out.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 1, 2, 3, 4, four number cards, how many different three-digit numbers can be formed by drawing three of them.",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Grandma Chen sells eggs. On the first day, she sells half and half of the eggs in the basket, and on the second day, she sells half and half of the remaining eggs. At this time, there are still 2 eggs in the basket. How many eggs were there in Grandma Chen's basket?",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "How many consecutive 90s are subtracted from 630, and the result is 0.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "column of numbers: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, ..., in which the natural number n appears n times. Then, what is the remainder of dividing the 1999th number in this column by 5?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When two factors are multiplied, there are two zeros at the end of a factor, and how many zeros are there at the end of the product.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the nine numbers from 1 to 9 in the nine boxes below to make the equation true: □□*□□=□□*□□□=4234 What is the largest of these three two-digit numbers.",
+        "answer": 73,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two groups of numbers A and B, each group is arranged according to a certain rule, and each group has 26 numbers, the first few numbers in group A are arranged like this: 1, 6, 11, 16, 21, ... ; The last few numbers in group B are arranged like this: ..., 110, 115, 120, 125, 130. Then, what is the sum of all the numbers in the two sets of numbers A and B?",
+        "answer": 3406,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "The fifth grade students play games, if there are 5 people in a group, there are 2 more people, and if 3 people are in a group, there are 2 more people. At least how many people in the fifth grade play games?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Use 0, 1, 2, 3 to form different three-digit numbers, how many are there?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the 2013th place after the decimal point in the recurring decimal 0.0{_{3}**(•)}8{_{7}**(•)}.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Between (2/5) and (1/3), how many fractions are there whose numerator is 13?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The current time is 5 o'clock in the afternoon, so what is the time indicated by the hour hand after the minute hand rotates 2004 times.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If 2△3=2+3+4=9, 5△4=5+6+7+8=26, according to this rule 6△5=how much.",
+        "answer": 40,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The following column of numbers is arranged according to certain rules, A= how many 1, 4, 13, 40, 121, A, 1093, ...",
+        "answer": 364,
+        "label": 6,
+        "reason_step": 10
+    },
+    {
+        "question": "Find the rules and fill in the numbers: 0, 100, 300, 600, how much.",
+        "answer": 1000,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In any permutation of 1, 2, 3, ..., 7, 8, how many permutations are there that make two adjacent numbers relatively prime?",
+        "answer": 1728,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "For a three-digit number, after the ones and hundreds digits are swapped, the difference between the subtraction of the new three-digit number and the original three-digit number is not 0, and is a multiple of 4. How many such numbers are there?",
+        "answer": 60,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiao Ming goes from the first floor to the second floor, a total of 8 steps, and he can cross at most three steps at a time, so how many ways does he have to walk from the first floor to the second floor?",
+        "answer": 176,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "32: 4=8: how much=((())/16).",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "For an amateur activity, there is one person left in every group of 8 people. If there is still one person left in a group of 10 people, what is the minimum number of people participating in the activity?",
+        "answer": 41,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "A four-digit number consisting of mutually distinct non-zero digits that sum to 13. How many such four-digit numbers are there?",
+        "answer": 72,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Find the pattern and fill in the numbers: 1, 2, 2, 4, 8, 32, how much.",
+        "answer": 256,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Two people play a matchstick game. The rules of the game are: two people can take turns to remove 1 to 5 matches from a pile of matches, but they must not take them until all the matches are removed. Whoever removes the matches last will win. If there are 55 matches at the beginning, the person who removes the match first can guarantee the win in the game by how many matches are removed for the first time.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a six-digit number, the number in the ones place is 6, the number in the tens place is 4, and the sum of any adjacent three numbers is 17. What is the six-digit number?",
+        "answer": 746746,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the number at the 2010th place of the decimal part of the 8/13 quotient.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Zhang, Wang, Li, and Zhao each bought a sports lottery ticket, and only one of them won the prize. The last three digits of the winning number are exactly a perfect square number (it can be written as the product of two identical integers, such as 225=15* 15=15**2). It is known that the last three digits of Zhang's lottery ticket are 1□7, the last three digits of Wang's lottery ticket are □65, the last three digits of Li's lottery ticket are 4□1, and the last three digits of Zhao's lottery ticket are □80, then the winner What is the last three digits of the number.",
+        "answer": 441,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law, 1, 4, 8, 13, 19, 26, how much.",
+        "answer": 34,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "prime number, plus 6 is a prime number, minus 6 is also a prime number, and this prime number is between 30--50, what is this prime number?",
+        "answer": 37,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "According to 15*15=225, 25*25=625, 35*35=1225, 45*45=2025, it can be calculated how much 65*65=",
+        "answer": 4225,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put 5 balls of each of the five colors of red, green, yellow, blue, and white into a box. At least how many balls are taken to ensure that two balls of the same color are taken.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In an opaque box, there are four balls of the same shape and size in four colors: green, pink, yellow, and red. Touch one ball each time and put it back after touching it. There are 80 touches in total. How many times can you touch a red ball? ．",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The time seen in the mirror is exactly 5:00, what time is it actually?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put 8 balls of each color in a box, and take out at least 4 balls to ensure that you get two balls of the same color.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "At a certain time between 8:00 and 9:00 in the morning, Xiao Ming set off from home to go out to play. At this time, he found that the hour and minute hands on the watch coincided. Sometime between 2:00 and 3:00 in the afternoon, Xiao Ming returned home when he found that the hour and minute hands on the watch were pointing in exactly opposite directions. So how many hours did it take Xiao Ming to go home from the start?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Teacher Zhang was busy with work and did not go home for 5 days. After returning home, he tore off the calendar for these 5 days. The sum of the numbers of these 5 days was 45. Ask: What is the day when Teacher Zhang returns home?",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The sunflower team participates in group activities. If there are no 6 people in a group or every 9 people in a group, there are exactly 3 people left. How many people does this team have at least?",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "(Tang Monk's rosary). Count every 3 beads of the rosary, just count them all; count every 5 beads, and there are 3 beads left at the end; count every 7 beads, and there are 3 beads left; there are more than 100 beads in total. How many beads are there?",
+        "answer": 108,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many simple fractions are there with a denominator of 12?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Three people, Xiao Wang, Xiao Li and Xiao Zhang, stand in a row. How many ways are there in total?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a series of numbers written on the blackboard: 1, 2, 3, ..., 2011, 2012, erase a few numbers arbitrarily, and write the remainder of the sum of the erased numbers divided by 11, such as: erase 8 , 9, 10, 11, 12, because (8+9+10+11+12)/11=4...6, so write 6, and continue this operation until there is only one number left on the blackboard, then this number how many.",
+        "answer": 0,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "To make the quotient of mouth 48/6 have 0 in the middle, how much should be filled in the mouth.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Observe the sequence and complete the sequence: 1, 3, 8, 22, 60, how many, 448.",
+        "answer": 164,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Find the law and fill in the numbers: 1, 8, 27, 64, how much.",
+        "answer": 125,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The teacher brought three wooden boards with numbers 1, 2, and 3 written on them. How many uncountable pieces can Xiaoyue use these wooden boards to spell out?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "\"Mount Tai, Mount Hua, Mount Heng, Mount Heng, and Mount Song\" are the five famous mountains in my country. They are called \"Five Sacred Mountains\". ?",
+        "answer": 1440,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Subtract (1/10) from 1 each time, how many times you subtract to get 0.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "4 good friends take pictures at tourist attractions (regardless of the order of stops), how many different ways of taking pictures?",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 8s are subtracted from 720 to equal 0.",
+        "answer": 90,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "consecutive positive integers, the middle one is a perfect square number, the product of such 3 consecutive positive integers is called \"wonderful number\", what is the greatest common divisor of all \"wonderful numbers\"? (The Ninth China Cup)",
+        "answer": 60,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the natural number that is less than 10000 but is closest to 10000?",
+        "answer": 9999,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It takes Xiaolei 48 seconds to go from the 1st floor to the 4th floor, and Xiaohu takes 96 seconds to go from the 1st floor to the 5th floor. Xiaolei and Xiaohu go upstairs at the same time from the ground floor. When Xiaolei reaches the 19th floor, how many floors does Xiaohu go to?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "There are 2008 lighted lights, each controlled by a pull-wire switch. Now number them sequentially as 1, 2, 3, ..., 2008. Pull the light wires numbered multiples of 2, then pull the light wires numbered multiples of 3, and finally pull the light wires numbered multiples of 5, how many lights are still on after pulling?",
+        "answer": 1004,
+        "label": 6,
+        "reason_step": 7
+    },
+    {
+        "question": "Requirements: The symbol \"&\" is an operation to select the larger of the two numbers, and \"◎\" is the operation to select the smaller of the two numbers. Calculate the following formula: ((7◎3)&5)*(5◎(3&7)).",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "50 chess pieces form a circle, code numbers 1, 2, 3, 4, ... 50, take out every other chess piece, and the number of the last remaining chess piece is required to be number 42, so what number should we start with take it?",
+        "answer": 39,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Insert colored flags around a square field, and each side must insert 15 sides, at least how many sides must be inserted.",
+        "answer": 56,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Dad bought some oranges, the whole family ate more than half of these oranges on the first day, ate the remaining oranges on the second day, and ate the remaining half and more on the third day. There is 1 orange left, how many oranges did Dad buy?",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 6
+    },
+    {
+        "question": "There are 20 gloves of 5 colors with the same specifications (regardless of left and right hands), mixed in the box, feel the gloves from the box at will, at least how many gloves must be touched to ensure that they can be matched into 3 pairs.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 red, green, yellow, and white balls in a cloth bag. Each time a ball is taken out of the cloth bag, the minimum number of balls must be taken out to ensure that there are at least 2 balls of different colors.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Since 12=2*2*3, how many factors of 12 are there?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Without calculation, Kobayashi knows what the remainder of \"3411/7\" is less than.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When Xiao Ming does subtraction, he regards the hundreds digit 8 of the subtrahend as 6, and the tens digit 3 of the subtrahend as 5. The calculated difference is 390. What is the correct difference?",
+        "answer": 610,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 10 points on the plane, and there is no case where three points lie on a straight line. How many line segments can these points be connected to?",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "1 round angle = how many right angles.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of how many 7s are added is 196.",
+        "answer": 28,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "4x+8 is wrongly written as 4(x+4), the result is much more than the original",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Write a 4-digit number arbitrarily, such as 1996, multiply this number by 3456, and the product is A=1996*3456=6898176. Then add the digits of A, record as B=6+8+9+8+1+7+6=45, and then add the digits of B, record as C=4+5=9. If there are several friends, each write a 4-digit number and calculate A, B, and C respectively. After the calculation, as long as the calculation is correct, answer it. No matter what the 4-digit number was originally written, the final answer must be C= 9. why?",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "1*1=1, 2*2=4, 3*3=9, 4*4=16, ..., the product 1, 4, 9, 16, ... in the formula is called a complete square number, between 1 and 100, 100 What is the sum of non-perfect squares among natural numbers?",
+        "answer": 4665,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "What is 0*1*2*...*100 equal to?",
+        "answer": 0,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a plate of fruits, there are 3 and 3 lands, 1 less, 4 and 4 lands, 1 less, 5 and 5 lands, or 1 less. How many fruits are there at least in this plate?",
+        "answer": 59,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "For 324 and 612, add 3 to the first number and subtract 3 from the second number at the same time, this counts as one operation, and the two numbers will be equal after how many operations.",
+        "answer": 48,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are several small balls of three different colors in the pocket (enough), and each time you touch 2 balls, you must ensure that the result of touching 5 times is the same, at least how many times you need to touch.",
+        "answer": 25,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many consecutive 45s are subtracted from 585, and the result is 0.",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "(1/2)+1+1(1/2)+2+2(1/2)+...+49(1/2)+50.",
+        "answer": 2525,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "The students in Class 6 and Class 1 are attending physical activity class. If they are arranged in 3 rows, there will be less than 1 person;",
+        "answer": 59,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "A four-digit number, the number in the thousands place is 5 times the number in the ones place, the number in the hundreds place is equal to the sum of the number in the thousands place and the number in the ones place, and the number in the tens place is equal to the number in the thousands place The difference from the number in the ones place. What is this four-digit number?",
+        "answer": 5641,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the smallest natural number among 8 natural numbers with different divisors?",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "\"Small sticks with lengths of 3cm, 8cm, and 3cm can form an isosceles triangle\"\"(1/5):(1/4) and 4:5 can form a ratio\"\"a**3 must be greater than a** 2 \"Among these three sentences, how many are correct?",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Use the three numbers 1, 2, and 3 each time (only use these three numbers) to form a number, how many integers and decimals can be formed.",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A box contains 10 red balls, 10 white balls and 10 blue balls of the same size. There must be 2 balls of the same color if you want to draw out, at least how many balls must be drawn out.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law and fill in the numbers: 1805, 1905, 2005, how much, 2205.",
+        "answer": 2105,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Subtract 24 from 168, after how many consecutive subtractions, the result is 0.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Dr. Long put 48 crystal balls numbered 1-48 in a box. Oou randomly draws crystal balls from the box. How many crystal balls must he draw at least to ensure that there must be 2 crystal balls with a difference of 4.",
+        "answer": 25,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Into the Wonderful Math Garden Competition, three questions are tested every day. The scores of each question are 0, 1, 2, 3, 4, 5, 6, and 7. There is a group of students whose scores are multiplied by 36, and any two students have each question The scores are not the same, so how many students are there at most in this group?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many cuboids of different shapes can be made from 12 cubes of the same size?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The first 24 digits of π are 3.14159265358979323846264…. Record a1, a2, L, a24 as any permutation of the 24 numbers. Then the product (a1-a2)(a3-a4)L(a23-a24) must be divisible by how many.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A number, I don't know how much it is, 56 divided by its remainder 2, 110 divided by its remainder 2, 137 divided by its remainder 2, what is the largest number.",
+        "answer": 27,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In (1/8), (4/11), (9/15), (11/22), (7/25), (3/16) how many of these fractions can be converted into finite decimals.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Suppose A=1+(1/2)+(1/3)+(1/4)+L+(1/15)+(1/16), what is the integer part of A?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Subtract 0.01 from 1 in a row, how many times in a row, the result is 0.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the group of numbers 3.5, -(7/2), -0.5, 0, -6, π, how many numbers are greater than -2?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "1(5/8) is the smallest prime number when its fractional unit is increased.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the natural numbers less than 5000, how many numbers are divisible by 11 and the sum is 13?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "4/3=((())/(()))=(24/(()))=how much: 12.",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a six-digit number, the number in the ones place is 5, the number in the tens place is 8, the sum of any three adjacent numbers is 20, what is this six-digit number?",
+        "answer": 785785,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Divide a rectangular piece of white paper into 32 equal parts by folding in half, then at least how many times should it be folded in half.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Please answer a nursery rhyme: \"Three digits, it's strange, please guess it. The first two digits are the same, followed by 3 at the end. If you divide by one digit, the remainder is 8. Don't guess. Use your brain , think about it, how much should this number be?\"",
+        "answer": 773,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Scientific discovery: The number of petals, sepals, fruits and other characteristics of plants are very consistent with a peculiar sequence - the famous Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55,... Observe the above sequence carefully, what should be its 12th number.",
+        "answer": 144,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 3 questions in a knowledge contest, and the full score of each question is 7 points. When giving points, only natural numbers 1, 2, ... 7 points can be given. It is known that the product of the scores of each person's 3 questions after participating in the competition is 36, and any two The scores of each question are not exactly the same, so how many people can participate in the competition at most?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaoli has 1 yuan, 5 yuan, and 10 yuan each, how many currency values can be formed.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the largest possible remainder when a number is divided by 4?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the formula △/4=0...☆, what is the maximum value of ☆?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many approximations are there in 2010?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In a pile of peaches, the number of 3 and 3 is 1 more, the number of 5 and 5 is 1 more, and the number of 7 and 7 is still one more. How many peaches are there at least in this pile?",
+        "answer": 106,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 50 children in a certain kindergarten. Now take out 420 comic books and distribute them to them. Try to prove that at least 4 children are assigned as many comic books (every child must be assigned a comic book).",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "To make the quotient of □28/7 have a 0 in the middle, what number should be filled in □.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Yang Yang's home is 700m east of the bookstore, and his school is 1200m west of his home. In what direction is Yang Yang's school located? How far is it from the bookstore?",
+        "answer": 500,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the AD calendar, there is a leap year every four years, each normal year has 365 days, and each leap year has 366 days. 2012 is a leap year, and New Year’s Day is Sunday. Then, how many years will the next New Year’s Day also be Sunday?",
+        "answer": 2017,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 points, 4 points and 5 points on three parallel lines respectively, and the three points not on the same parallel line are not collinear, how many triangles have these points as vertices?",
+        "answer": 205,
+        "label": 6,
+        "reason_step": 11
+    },
+    {
+        "question": "A key can only open one lock. Now there are 4 keys and 4 locks, but I don't know which key will open which lock. How many times will I have to try to match all the keys and locks?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In positive integers less than 10000, exchange the digits in the highest and lowest digits of a number to obtain a new number, and the new number is 1.2 times the original number. What is the sum of all the numbers that satisfy the above conditions?",
+        "answer": 5535,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are enough footballs, basketballs and volleyballs on the playing field. The teacher arranged for 66 students to send these balls back to the sports equipment room, requiring each person to move 1 or 2 balls. Ask at least how many students move the same type and quantity of balls?",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Draw 6 straight lines on a piece of paper, how many points of intersection can there be at most?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many line segments can be connected by 10 points on the same straight line?",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A013A013*A014-A014A014*A013=how much (A means any number from 1 to 9)",
+        "answer": 0,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 steps in front of the post office. It is stipulated that one step can only go up one or two steps. Ask how many ways to go up to the top.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When multiplying two digits by two digits, what is the maximum number of 0s at the end of the product?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "436 is much less than 800.",
+        "answer": 364,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Divide 15 small balls into 4 piles with different numbers. How many different ways are there?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A bag of candy, no matter it is divided equally between 8 children or 11 children, there is only 1 piece left. How many pieces of candy are there at least?",
+        "answer": 89,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 54 poker cards. A and B take turns to take cards. Each person takes at least 1 card and at most 5 cards each time. Whoever gets the last card wins. How to take cards to ensure A's victory?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put 10 balls of each color red, yellow and blue into a bag. At least how many balls are taken to ensure that two balls of the same color are taken.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Which of the following formulas yields 0?",
+        "answer": 0,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the following formulas, what is the formula whose result is greater than 40",
+        "answer": 42,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 points on the circle, connect any two of them. How many different regions can the circle be divided into at most?",
+        "answer": 256,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A book has 100 pages in total, how many times the number \"1\" appears in the page number of this book.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many numbers from 1 to 800 have exactly 4 factors?",
+        "answer": 242,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The following column of numbers is arranged according to certain rules: 3, 12, 21, 30, 39, 48, 57..., then what is the 21st number in this column of numbers?",
+        "answer": 183,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "For a four-digit number, the number in the ones place is 1 less than the number in the hundreds place, the number in the hundreds place is three times the number in the tens place, and the number in the thousands place is half of the number in the hundreds place. This number is greater than 3000 and less than 4000. What is this number?",
+        "answer": 3625,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many kinds of angles with different angles greater than 0 degrees and less than 180 degrees can be spelled out by using the angles of the triangle used by a student.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaoming ate a piece of watermelon (1/9), and Xiaohong also ate a piece of watermelon (1/9). Please explain why they ate different amounts?",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Pick any two of the four number cards 1, 2, 4, and 5 and add them. The probability of their sum is the greatest.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the smallest natural number that is divisible by 225 and is 0, 1 or 2 in each digit except 0?",
+        "answer": 1222200,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 pencils of each of the three colors in the cloth bag (the pens of the three colors are completely mixed in the cloth bag), at least how many pencils can be taken out to ensure that all the pens of the three colors can be taken.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Cars A and B drive from point A to point B at the same time. Car B returns immediately after arriving at point B, and then drives to point B immediately after arriving at point A. In this way, the two cars finally arrive at point B at the same time, and they meet on the way Three times, and the distance between the first meeting point and the second meeting point is 36 kilometers, find the distance between the third meeting point and B?",
+        "answer": 72,
+        "label": 6,
+        "reason_step": 9
+    },
+    {
+        "question": "One key can only open one lock. There are 8 keys and 8 locks. How many trials are needed to match all the locks?",
+        "answer": 28,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two sets of numbers, each set of three numbers. The first group of three numbers has a difference of 2 (for example, 1, 3, 5), and the second group of three numbers has a difference of 3 (for example, 1, 4, 7). If both sets of numbers have 10, then the two sets of numbers have a total How many different collocations.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers 0.4, 0.8, 1.2, 1.6 according to the law, how much.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In multiplication, one factor (not 0) is doubled, and the other factor (not 0) is also doubled, how many times the product is doubled",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the largest remainder when a number is divided by 24?",
+        "answer": 23,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 20 male and female students in a class, at least how many people should be selected to ensure that there are boys and girls among the selected people.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of symmetry axes of a square, an equilateral triangle, and a sector are A, B, and C respectively, then: A**2+B+C=how much.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Among the 2002 numbers of 1, 2, 3, ..., 1999, 2000, 2001, 2002, how many numbers can be selected at most, so that the sum of any 3 numbers among the selected numbers is a multiple of 3.",
+        "answer": 668,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In the natural number whose unit digit is 2, how many square numbers are there?",
+        "answer": 0,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many proper fractions are there with a denominator of 6?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 red balls, 5 yellow balls, and 7 blue balls of the same size in an opaque box. Feel free to draw some balls. If you want the balls to be drawn, there must be three colors. How many balls must be drawn at least?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A father takes his son and daughter on a trip. There is a river on the way, and there is an empty boat at the ferry, which can carry up to 50 kilograms. The father weighs 50 kilograms, and the son and daughter weigh 25 kilograms each. How can they cross the river safely? Please describe the process of crossing the river in words.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "From the 8 numbers 1--8, at least how many numbers must be taken out to ensure that one of them must be a multiple of the other number.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a pile of peaches, 3 and 3 get the last one, 4 and 4 get the last one, and 5 and 5 get the last one. How many peaches are there at least in this pile?",
+        "answer": 61,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Eight natural numbers are arranged in a row, starting from the third number, each number is equal to the sum of the two numbers before it. Given that the first number is 3 and the eighth number is 180, what is the second number. 3, □, □, □, □, □, □180.",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "When Ma Xiaohu was doing an integer subtraction problem, he regarded the 1 in the unit digit of the subtrahend as 7, and the 7 in the tens digit as 1, and the difference was 111. What is the correct answer?",
+        "answer": 57,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "With 4, 3, 5, 6, 12, 15, 18, 20 eight cards, how many multiplication formulas can be displayed.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law: 0, 2, 6, 12, how much, 30, ...",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the following numbers, after \"rounding up\", you get 850,000, which number is closest to 850,000.",
+        "answer": 850099,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Count every 4 pieces of a pile of candies and count 2 pieces, and count every 5 pieces, and there are 3 pieces missing. What is the minimum number of pieces of candy in this pile?",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 21 pieces of chocolate. Five people A, B, C, D, and E ate up the chocolates in turn, but they don't know the order in which they ate them. A said: \"I ate two-thirds of the remaining chocolate.\" B said: \"I ate half of the remaining chocolate,\" said: \"I ate half of the remaining chocolate.\" D said: \"I ate up the rest of the chocolate,\" E said, \"each of us eats a different amount.\" It is known that the amount each person eats is a positive integer. May I ask: How many pieces of chocolate did E eat?",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 4 balls of two colors, yellow and red, and they are placed in the same box. At least how many balls are taken to ensure that 2 balls of the same color are taken.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 5s are subtracted from 150, and the result is 0.",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "83, 75, 67, 59, how much...",
+        "answer": 51,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Write \"1\" on the four sides of a small cube, write \"2\" on one side, and write \"3\" on the other side. Throw the small cube upwards once, and the side with the number written on it will face up after falling. Most likely.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two coins with 2 cents and two coins with 5 cents. Take out one or several coins from them, how many different currency values can be formed.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 28s are subtracted from 1036, the result is 0.",
+        "answer": 37,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 yellow, blue, and red balls in the bag, reach into the bag, and take at least how many balls to ensure that you get 2 balls of the same color.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "1, 4, 9, 16, 25, 36... What is the 37th number from left to right in this row.",
+        "answer": 1369,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "20 black balls and 10 white balls are placed in a cloth bag, at least how many balls are taken out to ensure that there are 5 black balls and 5 white balls.",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 5s are subtracted from 320, the result is 0.",
+        "answer": 64,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "class of natural numbers, starting from the third number, each number is exactly the sum of the previous two numbers, such as 123, 235, etc. How many such three-digit numbers are there?",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law and fill in the numbers: 1, 3, 7, 15, how much.",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The sequence of numbers 1, 2, 3, 4, 5, 6, ... is eliminated. The principle of elimination is: all numbers that can be written as the sum of 3 composite numbers are retained; all numbers that cannot be written as the sum of 3 composite numbers are eliminated. What is the 2004th number in this column after elimination?",
+        "answer": 2017,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the sequence 5, 12, 19, 26..., what number is 2007 from left to right?",
+        "answer": 287,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 pieces of 1 yuan in the bag, 5 pieces of 5 yuan, and two pieces of 10 yuan. If two pieces are drawn randomly, the total amount of money cannot be how many yuan",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the angle obtained by folding a circular piece of paper in half 3 times?",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put 10 equal-sized balls of red, orange, red, green, cyan, blue, and purple into the box, at least how many balls are taken to ensure that there are two of the same color.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In 1, 2, 3, ... 99, 100, how many times does the number 2 appear in total?",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are several eggs in the basket, 3 are taken out each time, and 1 is left at the end; 5 are taken out each time, 3 are left at the end; 7 eggs are taken each time, and 5 are left at the end, what is the minimum number of eggs in the basket ．",
+        "answer": 103,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "On a dark night, there are four people A, B, C, and D who want to cross a bridge, and they only have one flashlight. At most two people can cross the bridge at the same time at the same time, and there must be flashlights when crossing the bridge, so Someone needs to bring a flashlight back and forth between the two ends of the bridge. The flashlight cannot be passed by throwing it. Four people walk at different speeds. If two people walk together, the slower speed shall prevail. It is known that the time for A, B, C, and D to cross the bridge is 2 minutes, 3 minutes, 7 minutes, and 10 minutes respectively. How do you arrange for them all to cross the bridge in the shortest time? How many minutes is this minimum time?",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a pile of oranges, 5 and 5 are 2 more, and 8 and 8 are 2 more. How many oranges are there at least in this pile?",
+        "answer": 42,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "6 children in the kindergarten go to sit on 3 different chairs, how many ways are there?",
+        "answer": 120,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Proof: The sum of 19911991+3 cannot be the product of two consecutive natural numbers.",
+        "answer": 19911994,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "10 years ago, the age of the mother was 7 times that of the daughter, and 10 years later, the age of the mother was twice that of the daughter. What is the age of the mother now?",
+        "answer": 38,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "Xiaohua surrounds a triangle with matches of the same length. One match is used for the first side, 2 matches are used for the second side, and how many matches are needed for the third side.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A piece of rectangular paper is folded in half in the same direction, folded in half, folded in half again...how many rectangles are there when folded in half 4 times?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among (3/15), (4/9), (7/8), (5/14), (3/40), how many of them can be transformed into finite decimals?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 5s are subtracted from 135, and the result is 0.",
+        "answer": 27,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "11*11=121, 111*111=12321, 1111*1111=1234321, 1111111*1111111=how much.",
+        "answer": 1234567654321,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "An eight-digit number, three times the number on the highest digit is the largest single digit in the natural number, the lowest digit is 8, the number on the ones digit is twice the number on the tens digit, and the sum of the digits on the ten million digit and the thousands digit It is 10, and the number in the place of one hundred thousand is half of the smallest two-digit number in the natural number, and the number in the other number is the smallest natural number. Please be smart and write the eight-digit number that meets the requirements.",
+        "answer": 30507048,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the following formulas, what is the formula whose result is greater than 300",
+        "answer": 317,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 cm, 4 cm, 6 cm, and 7 cm long sticks. Choose three sticks to form a triangle. How many triangles can be formed? how many kinds",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Calculation: ((1-(1/2)+(1/3)-(1/4)+…+(1/99)-(1/100))/((1/51)+(1/52 )+...+(1/100))).",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "From the 10 numbers from 1 to 10, how many different ways are there to take two numbers each time to make their sum greater than 10?",
+        "answer": 25,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 stations along a certain railway, and the fares are different from station to station, so how many kinds of fares are there?",
+        "answer": 90,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a plate of apples that takes half and 1 more for the first time, the other half and 2 apples for the second time, 3 more than the remaining half for the third time, and 4 more for the fourth time. The result is 1 left. How many apples are there in this plate?",
+        "answer": 114,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "Put 10 balls of each of the four colors red, green, blue, and white into a bag. At least how many balls are taken to ensure that two balls of different colors are taken.",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 pieces of chocolate in a box, eat at least 1 piece every day, how many different ways to eat until you finish eating.",
+        "answer": 512,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It is known that there is a mathematical symbol △ that makes the following equations true, 2△4=8, 5△3=13, 3△5=11, 9△7=25, then 7△3=how much.",
+        "answer": 17,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "If 20 is represented as the sum of several different odd numbers, then how many different representation methods are there? (The addends are the same, but the order of addition is different, and they are counted as the same representation. For example, 1+19 and 19+1 are counted as the same representation.)",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A column of numbers: 1, 4, 9, 16, 25, 36, 49, 64..., counting from left to right, what is the 100th number.",
+        "answer": 10000,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A pile of apples, 5 apples with 5 lands, 1 left, 6 apples with 6 lands, 1 left, at least how many apples are there in this pile.",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many are 8, 24, 12, 36, 18.",
+        "answer": 54,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Fill in the numbers 1, 2, 2, 4, 8, how many, 256,...",
+        "answer": 32,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many ways are there to pack 10 balls into boxes, each box has the same number of balls?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "To celebrate \"June 1\", a row of colorful balloons is hung next to the school gate, arranged in the order of one yellow, two red and three green. Please think about what color is the 96th colored ball?",
+        "answer": 96,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "7.07 How many times is the 7 in the ones digit the 7 in the percentile.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "All students in Class 6 and 2 stand in a circle and play games. Count clockwise from Xiaojun. Xiaoqiang is 27th. Count counterclockwise. Xiaoqiang is 20th. How many students are there in this class?",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "A, B, and C conduct table tennis training in the form of a group arena. Two players compete in each game, and the other is the referee. At the end of the half-day training, it was found that A had played 15 rounds, B had played 21 rounds, and C had served as referee for 5 rounds. So who was the referee for the third round in the whole training?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Arranging several 0 and 1 in a row (such as 00101, 11111, 10100, etc.) is called \"dragon\", and the total number of 0 and 1 in the dragon is called the length of the dragon. There are no two dragons connected by 1 called \"green dragon\" (such as 00101, 10100). How many dragons of length 10 are there?",
+        "answer": 144,
+        "label": 6,
+        "reason_step": 13
+    },
+    {
+        "question": "432 squares of the same size are put together to form a rectangle. How many different spellings are there?",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red, yellow and white balls of the same size and shape in a bag, at least how many balls must be taken out to get the red ball.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Mix 30 balls of red, yellow, white, and blue in a jar, how many balls must be drawn out of the box to ensure that there are at least 6 balls of the same color? Answer: how much.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Zhang Yue, Wang Hao, and Li Xin want to take a group photo. How many different ways of standing are there? Please write it down.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A book has 320 pages, ask how many times the number \"3\" appears.",
+        "answer": 82,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Write the 20 numbers 1, 2, 3...20 in a row, and add 5 adjacent numbers, how many different sums can be obtained in total?",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a box of apples that counts by 2, 3, 4, and 5 each time, and the count is exactly finished. How many apples are there at least in this basket?",
+        "answer": 60,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Choose any 3 cards from 5 cards with 1, 2, 3, 4, 5 to form a three-digit number, how many of them are not divisible by 3.",
+        "answer": 36,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When a \"little sloppy\" measures an angle with a protractor, he mistakenly regards the scale on the outer circle as the scale on the inner circle and reads 150°. What is the correct degree?",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the interesting knowledge quick answer competition, there are 3 questions, the full score of each question is 7 points, and only natural numbers 1, 2, 3, 4, 5, 6, and 7 points can be given when giving points. It is known that after the competition, the product of the scores of each person's 3 questions is 36, and the scores of each person's 3 questions are different from each other, so how many people can participate in the competition at most?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the hundredth digit after the decimal point of the quotient of 2/3?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "To make the inequality (5/9)<(9/(()))<1 established, how many different natural numbers can be filled in the brackets.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are three weights of different weights, namely 1 gram, 4 grams, and 9 grams. How many items of different weights can be weighed on the balance with only these brick weights?",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If the ratio of the three interior angles of a triangle is 11:5:what, then it must be a right triangle.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When Xiaohong was calculating 5*(4+4), she forgot the parentheses, and the calculated result was much smaller than the correct result",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "2005*(1-(1/2))*(1-(1/3))*(1-(1/4))*...*(1-(1/2005))=how much.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 21 chess pieces that are taken by two people in turn, and each person can only take one or three pieces at a time, and whoever gets the last one wins. A takes first, how many can be taken first to win.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiao Ming's mother bought some peaches for the family. On the first day, the family of three ate half of all the peaches, and on the second day they ate the remaining half. On the third day, they ate one more peach. There are only 2 peaches left. Question: How many peaches did Xiao Ming's mother buy?",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many improper fractions are there with the numerator being 5?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "All four-digit numbers composed of 3, 2, 1, and 0 are multiples of which of the following numbers",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 steps from the first floor to the second floor. Xiao Wu can take one or two steps in one step. How many different ways does he go from the first floor to the second floor?",
+        "answer": 34,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law: 1, 2, 3, 5, 8, 13, how much.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Add a percent sign after 24, and the number will be reduced by how many times",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Observing the rules of 1, 2, 3, 6, 12, 23, 44, x, 164, we can know how much x =.",
+        "answer": 85,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 2 red, 2 white and 2 yellow table tennis balls in the box. You don’t need to reach out to touch the balls. How many balls can be touched to ensure that there is at least one white table tennis ball.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "It is known that A is a prime number, and A+4, A+6, and A+10 are all prime numbers. What is the smallest prime number that meets the conditions?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a kid named Xiao Ming. He is 11 years old and belongs to the dog. But there is an old man who is also a dog. How old is this old man?",
+        "answer": 61,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "For a basket of apples, if you take 8 apples and 8 apples, you will just finish picking them; if you pick 10 apples and 10 apples, you will just pick them all. What is the minimum number of apples in this basket?",
+        "answer": 40,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the sixth grade, there are several students queuing up to do exercises. If there are 3 people in a group, there will be 2 people, 7 people will have 2 people, and 11 people will have 2 people. How many people are there at least in the sixth grade?",
+        "answer": 233,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Class 61 has four students A, B, C, and D standing together to take a photo. Student A just wants to stand on the far left, and the other three can stand anywhere. How many different ways are there in total? (use your favorite method to solve)",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "26*26*26*26*26 does not need to be calculated, in the following results, the correct number can only be",
+        "answer": 11881376,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The robot colors the positive integers starting from 1 from small to large according to the following rules: all positive integers that can be expressed as the sum of two composite numbers are colored red, and natural numbers that do not meet the above requirements are colored yellow. What is the 2013th number if the number in red goes down from small to large.",
+        "answer": 2022,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 4 red balls and 4 blue balls of the same size in the box. If you want to draw out the balls, there must be 2 of different colors. What is the minimum number of balls you need to draw out?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Divide 15 apples into 5 piles, the number of apples in each pile is different, ask how many piles there are in the pile with the largest number.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 15 balls of red, yellow, blue, white, and black, and they are mixed in a ball box. If you are blindfolded, you will be caught. When touching balls in the ball box, at least how many balls must be drawn to ensure that there must be 2 balls of the same color.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In 1999, a young man said: \"My birthday has passed this year, and my age is just the sum of the four numbers in the year I was born.\" When was this young man born?",
+        "answer": 1976,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 12 red, yellow, and blue balls of the same size in the box, and there must be 2 balls of the same color if you want to draw the balls. At least how many balls must be drawn.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 6 steps, and Xiao Ming walks from bottom to top. If he can only cross one or two steps at a time, how many different ways can he walk?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are several books on Xiaofang’s bookshelf, and each time she takes out half of them and puts one back. In this way, she takes it four times in total, and there are still 4 books on the bookshelf. How many books are there on Xiaofang’s bookshelf?",
+        "answer": 34,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "Find the law and fill in the number. 5, 6, 11, 17, 28, how much 73.",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The ratio of the number of male to female teachers in a foreign language school is 4:3, so the number of teachers in this school is impossible.",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fill in the numbers according to the law: 1, 1, 2, 6, how much, 120.",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the changing law of this column and fill in the blanks: 1, 1, 2, 3, 5, 8, how much...",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 red balls, 4 yellow balls and 3 blue balls of the same shape and size, and one ball is drawn out of them at a time, at least how many times, it can be guaranteed that the drawn balls have the same color.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the largest remainder when dividing 2010 by a three-digit number?",
+        "answer": 998,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiao Ming wants to climb 20 steps, and each step climbs 2 or 3 steps. How many different climbing methods are there?",
+        "answer": 114,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "When subtracting 385 from a number, the little sloppy reversed the position of the subtracted tens digit and the ones digit, and the result is 153. So what is the correct result?",
+        "answer": 126,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "18 students were photographed running in a row. Counting from front to back, Liangliang ranked 8th, and counting from back to front, Congcong ranked 6th. How many classmates are there between Liangliang and Congcong?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many different ways are there to put 5 different letters into 3 different mailboxes?",
+        "answer": 243,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If the ones digit of a perfect square number is 5, what is its tens digit?",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A key can open a lock, and the existing 3 keys and 3 locks are mixed up. At least how many times to try to open the lock and the key can be matched.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Uncle Li got a new house. The new house has 4 rooms and 4 keys. He knows that each key can only open one door, but he doesn’t know which key will open which door. Now he wants to open all the 4 closed rooms. door, how many times should he at least try to open it?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 7 pieces of RMB, including 1 dime, 1 dime, 1 pentagon, 2 one yuan, and 2 five yuan. How many different amounts of money can be paid with these banknotes for any payment?",
+        "answer": 71,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "When Xiaohong is 3 years old, her mother's age is the same as Xiaohong's age this year; when her mother is 78 years old, Xiaohong's age is the same as her mother's age this year. How old is mother this year?",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A person shoots 8 shots, hits 4 shots, and what is the number of situations in which exactly 3 shots are connected together in the 4 shots.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A handful of coins are full of 2 cents and 5 cents. This coin has a total of 1 yuan. Ask how many different situations there may be.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "What are the multiples of 2, 3, and 5 at the same time?",
+        "answer": 720,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "2*9=18,22*99=2178,222*9999=221778,2222*9999=22217778,22222*99999=how much",
+        "answer": 2222177778,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 black, yellow and white chopsticks, mix them together and put them together. At least how many chopsticks must be found in the dark to ensure that a pair of chopsticks can be found? (Two of the same color are a pair)",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "50 chess pieces form a circle, number 1, 2, 3, 50 on the chess pieces in a clockwise direction, and then remove every other piece in a clockwise direction until there is only one chess piece left. If the number of the remaining pieces is 42, what is the number of the first piece taken away.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Fill in the appropriate numbers in the brackets according to the law: 3, 11, 20, 30, how much, 53...",
+        "answer": 41,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "1*1=1, 11*11=121, 111*111=12321, 1111*1111=how much.",
+        "answer": 1234321,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When a number is divided by 3, the remainder is 2, when divided by 4, the remainder is 2, and when divided by 5, the remainder is 4. What is the largest number within 500 that meets the conditions?",
+        "answer": 494,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is an array of three numbers: (1, 1, 1), (2, 4, 8), (3, 9, 27)... The sum of the three numbers in the 12th array is greater than that in the 6th array How much is the sum of the three numbers.",
+        "answer": 1626,
+        "label": 6,
+        "reason_step": 7
+    },
+    {
+        "question": "How many 4s are there in 24? How many.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the pattern and fill in the blanks: 1, 1, 2, 4, 7, how much.",
+        "answer": 11,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A, B, C, and D all bought lottery tickets, and only one of them won the prize, and the four digits composed of the last four digits of the winning number (in the same order) are exactly a perfect square number. The four digits are 1□□8, the last four digits of B’s lottery ticket is □□45, the last four digits of C’s lottery ticket is 34□1, and the last four digits of D’s lottery ticket is □□40, then the winning number is What is the four-digit number formed by the last four digits.",
+        "answer": 3481,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 red and 3 blue balls in the box. Now we need 2 balls of the same color. If we don’t know the color of the balls, how many balls should we take out from the box? fulfil requirements?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a basket of eggs, if counted by 6 and 6 lands, there will be one more, if counted by 7 and 7 lands, there will be one more, and if you will count by 8 and 8 lands, there will still be one more. How many eggs are there at least in this basket?",
+        "answer": 169,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the formula that is not equal to 302+197",
+        "answer": 495,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In (4/9), (15/5), (9/21), (7/25), (17/65), how many simple fractions are there?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 colored balls of red, yellow and blue in a pocket, how many times must be taken at least to ensure that two colored balls of the same color are taken out.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the 143 natural numbers from 1 to 143, how many natural numbers are relatively prime to 143?",
+        "answer": 120,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "0.63＞((())/8), the maximum amount that can be filled in the brackets",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are some children, and each of them has at most 3 friends. Among these children, they are either their friends or their friends' friends. How many children do they have at most?",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 10 red and 10 white chopsticks, at least how many chopsticks must be taken to ensure that there is a pair of the same color.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "3*7=21, 33*67=2211, 333*667=222111, so how much is 3333*6667=",
+        "answer": 22221111,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If the addition formula arranged according to a certain rule is 3+4, 5+9, 7+14, 9+19, 11+24, ... then what is the 20th formula?",
+        "answer": 140,
+        "label": 6,
+        "reason_step": 6
+    },
+    {
+        "question": "Odd numbers starting from 1: 1, 3, 5, 7, ... What is the 100th odd number.",
+        "answer": 199,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many consecutive 32s are subtracted from 960, the result is 0.",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "key can only open one lock. Now there are 4 keys and 4 locks, but I don’t know which key will open which lock. How many times can I match all the keys and locks?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Yi Ling's birthday is the fourth Friday in January. Now we know that the sum of all Fridays in January is 80. May I ask when is her birthday?",
+        "answer": 23,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "The sequence 1, 2, 6, 13, 23, 36..., what is the 30th item of this sequence.",
+        "answer": 1248,
+        "label": 6,
+        "reason_step": 6
+    },
+    {
+        "question": "1021 can be divisible by 3 by adding at least one integer.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the pattern, fill in the blanks: 2, 5, 7, 12, 19, 31, how much, 81.",
+        "answer": 50,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "□2/2 If the quotient is a single digit, only how much can be filled in the box.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many 5s are subtracted consecutively from 525, just to complete the subtraction.",
+        "answer": 105,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "4x+8 is wrongly written as 4(x+8), the result is much more than the original.",
+        "answer": 24,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Write 50 as the sum of two prime numbers, how many different representations are there? (As long as the two prime numbers are the same, they are considered to be the same representation.)",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Fangfang read a novel. She read 40 pages on the first day. From the second day on, she read 5 pages more than the previous day. On the last day, she read 80 pages, which was just finished. How many pages does this book have?",
+        "answer": 540,
+        "label": 6,
+        "reason_step": 6
+    },
+    {
+        "question": "Among all prime numbers less than 30, are there two prime numbers whose difference and sum of squares are both prime numbers? If so, how many groups are there? If not, please explain why.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The fractional unit is (1/9), the smallest false fraction is ((())/(())), and the largest true fraction is ((())/(())). How many of these two fractions are there in total? Such fractional units.",
+        "answer": 17,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "A young man finds that his age in 2006 is smaller than the sum of the digits of the year he was born in. 6. Question: How old is this young man this year (2006).",
+        "answer": 19,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Which of the following four numbers is a multiple of 2, 3, or 5",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It is stipulated that ※n represents the product of all even numbers not greater than n, and □n represents the smallest number that cannot be divisible by an integer. For example: ※6=6*4*2=48, □10=3, then □(※x)=13, what is the minimum.",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Line up eight numbers from left to right, starting from the third number, each number is exactly equal to the sum of the two numbers before it, if the fifth number and the eighth number are 18 and 76 respectively, then the number How much is a number.",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "kind of aquatic plant grows very fast, doubling in size every day. If you put one aquatic plant into the pond on the first day, it will grow into two plants on the second day, and four plants on the third day...the pond will be full on the 20th day. On the first few days, these aquatic plants just covered a quarter of the pond.",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "8752 can be divisible by 2, 3, and 5 at the same time.",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "An angle forms a right angle with 360, what is the angle in degrees?",
+        "answer": 54,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are one yuan, two yuan, five yuan, ten yuan, fifty yuan, and one hundred yuan banknotes in your pocket. If you take out 4 of them each time and calculate their amount of money, how many different amounts of money are there?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The 100 athletes are numbered from 1 to 100. If each athlete writes the largest odd factor in his number on the blackboard, what is the sum of the numbers written by all athletes on the blackboard?",
+        "answer": 3344,
+        "label": 6,
+        "reason_step": 25
+    },
+    {
+        "question": "What is the number greater than 50 in the following formula",
+        "answer": 51,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many different decimals can be formed by cards 1, 3, 5, 8 and the decimal point.",
+        "answer": 72,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the 35th number in a series of numbers 1, 2, 2, 3, 3, 3, 4, 4, 4, 4....",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "4.123412341234…, what is the 100th digit after the decimal point",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the rules and fill in the numbers: 0, 1000, 3000, 6000, how much.",
+        "answer": 10000,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the number that cannot be checked for 596+327=923",
+        "answer": 923,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many co-prime numbers can be formed with prime numbers less than 10?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "1.68 How many times is the number obtained after removing the decimal point.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of two prime numbers is 20. How many sets of such prime numbers are there?",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a basket of apples, if you take 2 apples, 3 apples, and 4 apples, there will be one left. How many apples are there in this basket?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many times does the number 9 appear in the answer obtained by subtracting 101011 from 10000000000?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 jackets and 2 pairs of trousers in Xiao Ming's wardrobe. Xiao Ming wants to make a set of clothes, how many different matching methods can be used.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "1+2-3-4+5+6-7-8+9+10-11-12+...+1993+1994-1995-1996+1997+1998.",
+        "answer": 1999,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "Fill in the numbers according to the law: 1, 3, 4, 7, 11, how much, 29.",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "7 (1/(())) is seven out of nine.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If the length of a rectangle is doubled, the width is doubled, and the area is doubled.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of the ones digit and the hundreds digit of a three-digit number is 10, and the ones digit is both an even number and a prime number, and the three-digit number is still a multiple of 42. What is the three-digit number.",
+        "answer": 882,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "For any natural number n, when n is odd, add 121, and when n is even, divide by 2, which counts as one operation. Now, if the three-digit number 241 is operated continuously, will 100 appear during the operation, why?",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 24
+    },
+    {
+        "question": "There are a batch of thin wooden strips with lengths of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 centimeters, and there are enough of them, and 3 wooden strips are appropriately selected as the three sides. How many different triangles are formed.",
+        "answer": 161,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law and fill in the numbers: 0, 1, 4, 15, 56, how much.",
+        "answer": 209,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In (5/4), (23/11), (5/6), (16/27), (1/12), (9/8), what are the true fractions",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Five students have storybooks a, b, c, d, and e respectively. It is known that a is 3 times as much as b, 4 times as much as c, 6 times as much as d, and 9 times as much as e. What is the minimum number of storybooks they have in common? Book.",
+        "answer": 67,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "□□0/30<7, how much can be filled in □□.",
+        "answer": 21,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many apples are there in a basket, 2 are counted by 2 lands, one is missing, 3 are counted by 3 lands, one is missing, 5 are counted by 5 lands, and one is missing, how many apples are there at least in this basket?",
+        "answer": 29,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There are some perfect square numbers whose last three digits are all the same and not 0. What is the smallest of these numbers?",
+        "answer": 1444,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "50 students line up in a row and report their numbers in the order of 2, 4, 6..., then what is the number reported by the last student.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "An electronic watch displays 8:3125 at 8:31:25, so how many times are there when the 5 numbers on this watch are different during the period from 7:00 to 8:00?",
+        "answer": 1260,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "With 1 RMB, 5 RMB, 10 RMB, 50 RMB and 100 RMB each, and 2 RMB and 20 RMB each, how many different amounts can be paid without change.",
+        "answer": 210,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are many fish in a fish tank, and there are 4 species in total. How many fish should be caught at least once to ensure that there are 5 fish of the same species.",
+        "answer": 17,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "6 people line up in a row, with A at the head and B at the end, how many ways are there?",
+        "answer": 96,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 100 tomatoes, and they are respectively numbered 1, 2, 3, 4, ..., 100. After eating a tomato, the sum of the remaining tomato numbers is 4999. What is the number of the eaten tomato?",
+        "answer": 51,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the unit digit obtained by subtracting 9 from the product of 100 multiplications of 2?",
+        "answer": 7,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "When multiplying 3 consecutive natural numbers, what is the largest single digit of the product?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A column of numbers, the first is 15, the second is 40, starting from the third number, each number is exactly the sum of the previous two numbers, what is the remainder when the 2008th number in this column is divided by 3.",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "At 12:00 noon, how many angles are formed by the hour and minute hands?",
+        "answer": 360,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 0s are there at the end of the product of 1*2*3...*48*49*50?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 different positive integers, the product of any two of them is a multiple of 12, what is the minimum value of the sum of these 5 numbers?",
+        "answer": 62,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is at most 1 intersection point when two straight lines intersect, at most 3 intersection points when three straight lines intersect, and at most 6 intersection points when four straight lines intersect. Like this, if ten straight lines intersect, what is the maximum number of intersection points",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "In 3.03, how many times the 3 on the left is the 3 on the right.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The Xishuangbanna Circus is performing in the \"Jianghai Fengqing Garden\". Elephants line up to enter the arena. The elephants have more feet than the sum of their trunks and tails. 10. How many elephants are there in total?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Fill in the numbers according to the law: how much is 275,365,455.",
+        "answer": 545,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Sequence: (1/1), (2/1), (1/2), (3/1), (2/2), (1/3), (4/1), (3/2), (2/3), (1/4), ---, what is the number item of the fraction (1991/1949) in this sequence.",
+        "answer": 7757840,
+        "label": 6,
+        "reason_step": 7
+    },
+    {
+        "question": "One factor (except 0) is reduced to its ((())/(())), and the other factor (except 0) is expanded to its multiple, and the product remains unchanged.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are seven cards: 1, 1, 2, 3, 9, 9, 9, 3 of which can be arranged into three-digit numbers. If card 9 can be regarded as 6 after being rotated, how many even numbers are there?",
+        "answer": 38,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the natural numbers 1-10, how many prime numbers are there?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "\"Wulang's conjecture\": Given any natural number, if it is an even number, divide it by 2, if it is an odd number, multiply it by 3 and add 1, and calculate the result like this, you guess What is the result?",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 9
+    },
+    {
+        "question": "There is a sequence of numbers. It is known that the second number is 2, the seventh number is 7, and the sum of any three adjacent numbers is 15. What is the 2013th number in this sequence?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "It is known that three composite numbers A, B, and C are mutually prime, and A*B*C=1001*28*11, so what is the minimum value of A+B+C?",
+        "answer": 222,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a four-digit number. It is known that adding 1 to its tens digit is equal to its ones digit; adding 1 to its ones digit is equal to its hundreds digit. The sum of the number formed by arranging the four-digit number upside down and the original number is equal to 10769, find the four-digit number.",
+        "answer": 1978,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "a, b, c are 3 prime numbers less than 100, how many different prime number expressions are there that make a+b=c hold true?",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 3 roads from A to B, and 4 roads from B to C. How many ways are there to go from A to C?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A coachman is driving a carriage. There are 4 people sitting in the cart. Each person is carrying 4 bags. Each bag contains 4 big cats. Each big cat has 4 kittens. Each cat has 4 kittens. 4 mice as dry food, ask: How many legs are there in total, who is the best in our team?",
+        "answer": 8014,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "From the fifty numbers of 1, 2, 3, ..., 50, take out a number of numbers so that the sum of any two of them cannot be divisible by 7, then how many numbers can be taken out at most.",
+        "answer": 23,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a three-digit number, the number in the tens place is equal to the sum of the number in the ones place and the number in the hundreds place; the sum of the number in the ones place and the number in the tens place is equal to 8; the number in the hundreds place After exchanging the numbers in the ones place with each other, the resulting three-digit number is 99 greater than the original number. Find the three-digit number.",
+        "answer": 253,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a new operator \"○\" which makes the following equations true: 5○3=12, 3○5=4, 8○4=20, 3○4=5. Calculate the value of 7○2 according to this law.",
+        "answer": 19,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the maximum possible remainder when a two-digit number is divided by 9?",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A, B, C, and D represent different numbers in 0-9. If \\overline{BCD}+\\overline{CCD}=\\overline{ADDD}, then \\overline{ACBA}+\\overline{BAC}+\\overline {BA}=how much.",
+        "answer": 1997,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Subtract 8 continuously from 232, and it will be 0 as many times as you subtract.",
+        "answer": 29,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Among the numbers 1-50, how many times does the number 4 appear?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiao Ming was not serious when doing his homework. He regarded the 6 in the subtrahend as 0, and the 1 in the subtrahend as 7. The result became 137. Do you know the correct answer?",
+        "answer": 191,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "15 students line up in a row facing the teacher, starting from the first one, report the number in the order of 1, 2, 3, 4, ..., the teacher asks, the students whose number is a multiple of 2 turn backwards, and then ask to report Students whose numbers are multiples of 3 turn backwards. How many people are facing the teacher at this time?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Using three pieces of paper with 1, 3, and 7 written on them, how many different three-digit numbers can be formed?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Estimate how much the answer of 12*63 may be correct",
+        "answer": 756,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many triangles can be formed with 7 sticks of the same length?",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In a ratio, the product of two outer terms is the smallest composite number, one of which is (1/5), and what is the other inner term.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "For an angle of 50 ゜, if one side of it is rotated how many ゜, a flat angle can be obtained.",
+        "answer": 130,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "(1, 1, 1), (2, 4, 9), (3, 9, 17), (4, 16, 25)...are composed of numbers arranged according to certain rules and order, try to find the 100th group number What is the sum of the three numbers in .",
+        "answer": 10893,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "After squaring the 1999 digits composed of 1999 3s, how many digits in the resulting number are odd numbers.",
+        "answer": 1999,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "key is matched with a lock, and the careless uncle confuses 5 keys with 5 locks. How many times can they be matched at most before the corresponding key and lock can be found?",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The two inner items are the reciprocal of each other, one of the outer items is 5, and the other is the reciprocal of how much",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Four students in a study group circled three adjacent numbers on a column in the calendar. Calculate their sums to be 33, 45, 49, 54 respectively, which one is definitely wrong?",
+        "answer": 49,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 single-color balls of four colors: red, yellow, blue, and white, and they are mixed and put into a cloth bag. Then at least how many balls must be drawn to ensure that there are four colors in the drawn balls.",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Observe a series of numbers: 3, 8, 13, 18, 23, 28, .... According to this rule, what is the smallest integer greater than 2004 in this sequence.",
+        "answer": 2008,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "pocket contains 10 black balls, 7 white balls and 4 red balls. At least how many balls can be drawn to ensure that there are 2 balls of the same color.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The sequence 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... is called the Fibonacci sequence. How many even numbers are there in the first 2004 numbers of the Fibonacci sequence?",
+        "answer": 668,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 15 consecutive natural numbers, and each time a rectangle is used to frame 4 consecutive natural numbers, how many different ways are there in total?",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The number of Bear's room is a three-digit number, the number in the hundreds place is the ones digit (2/3), the number in the tens place is the smallest even number, and the number in the ones place is the reciprocal of (1/6), guess one Guess what the number of Bear's room is.",
+        "answer": 406,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Regulations: The symbol \"△\" means to choose the larger number among the two numbers, and \"○\" means to choose the smaller number among the two numbers. For example, 5△2=5, 3○6=3, then ((8○3)△5)*(4○7)=how much.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A two-digit tens digit is greater than a ones digit 6. Swap the tens and ones digits, and the resulting two-digit number is much smaller than the original one.",
+        "answer": 54,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the pattern: 7*9=63,77*9=693,777*9=6993,77777*9=how much.",
+        "answer": 699993,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How much is 801-565= obtained from 565+236=801",
+        "answer": 236,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "50 is much more than 5.",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the multiple of a three-digit number composed of 2, 3, and 7?",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Arbitrarily add parentheses in the formula 9+8-7*6/5+4-3*2/1, so that the calculation result N is a natural number, what is the minimum value of N?",
+        "answer": 1,
+        "label": 6,
+        "reason_step": 8
+    },
+    {
+        "question": "Among the 30 natural numbers 1, 2, 3, ... 30, how many numbers can be taken at most, so that the sum of any two different numbers among the taken out numbers is not a multiple of 9.",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The product of two inner terms is the smallest prime number, one outer term is (1/25), and the other outer term is what.",
+        "answer": 50,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the maximum remainder when a number is divided by 77?",
+        "answer": 76,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When a natural number is divided by 2, the remainder is 1. After adding 1 to this number, the remainder is 2 when divided by 3. This number is exactly divisible by subtracting 1 and dividing by 5. What is the smallest natural number?",
+        "answer": 31,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "From a total of 16 integers from 1 to 16, at least how many numbers can be taken to ensure that there are two numbers, one of which is twice the other.",
+        "answer": 12,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Using the three numbers 1, 2, 3 and a decimal point, how many different two-digit decimals can be formed? how many",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many two-digit decimals are there that are greater than 0.3 and less than 0.5?",
+        "answer": 19,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "There is an 8-digit number, the first 5 digits of which are the same, and the last 3 digits are the same. When these numbers are added together, the sum obtained is exactly a two-digit number composed of the fifth and sixth digits from the left. What is the 8-digit number.",
+        "answer": 22222555,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many sectors can a semicircle be divided into with a central angle of 30°?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law of the following numbers and fill in the blanks: 2, 8, 32, 128, 512, how many, ...",
+        "answer": 2048,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Find the law and fill in the numbers: 1, 4, 3, 8, 5, 12, 7, how much.",
+        "answer": 16,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Suppose (1/37), (1/143), (1/271) are transformed into recurring decimals, and their recurring section lengths are m, n, k respectively (that is, their recurring sections have m, n, k bits respectively ), then m+n+k=how much.",
+        "answer": 14,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are several consecutive odd numbers starting from 1 on the blackboard: 1, 3, 5, 7, 9, 11, 13... If the sum of these odd numbers is 400, what is the last odd number?",
+        "answer": 39,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "2⊕3=2+22+222=246, 3⊕2=3+33=36 ask: 1⊕4=how much.",
+        "answer": 1234,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In the illustration of a mathematics book, there are 100 parallelograms, 80 rectangles, and 40 rhombuses. What is the minimum number of squares in the illustrations in this book.",
+        "answer": 20,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "From the six numbers 1 to 6, how many ways are there to take two numbers each time to make their sum greater than 6?",
+        "answer": 9,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many numbers within 50 have only 4 different factors?",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put some duckweed in a pond, the growth rate of duckweed is very fast, and the sleeping area of the water surface covered by duckweed always doubles the area of the water surface covered by the previous day. On the 24th day after stocking, the water surface of the pond was just completely covered. When the water surface covers 25%, it is the first day after stocking.",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Estimating 772/8, taking 772 as a number, can make the estimated result closer to the exact value.",
+        "answer": 800,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red socks, 8 blue socks, 6 green socks and 4 white socks in a bag. You can touch the socks from the bag with your eyes closed. You can only touch one at a time. At least one pair of these socks is the same color?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red, yellow, blue and white beads each, packed in a bag, in order to ensure that there are two beads of the same color, how many beads should be drawn at least?",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A series of numbers is known: 2, 5, 8, 11, 14, ..., 44, ..., from the previous series, we can know that 44 is the number in this series of numbers.",
+        "answer": 15,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of students in a certain class is between 45 and 50. If there are three and three numbers, there will be one more student; four four and four students will also have one more student. How many students are there in this class?",
+        "answer": 49,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 10 red, yellow and blue balls with exactly the same shape in the bag. Each child can only touch one ball out of the bag. Only by how many children touch the ball can there be two touches. The balls are the same color.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Please choose three numbers from 1, 2, 3, 4, 5, 6, 7, 8, 9 so that their sum is 15. How many choices are there at most?",
+        "answer": 8,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In order to prepare for the game, the badminton players bring some shuttlecocks for training, whether it is the number of 2 by 2, the number of 3 by 3, or the number of 5 by 5, they are all counted exactly. How many badmintons do the team members bring at least?",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 2 jackets and 3 pairs of pants, how many different ways to wear them",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 8 steps, and Xiao Ming walks up from the bottom. If he can only cross one or two steps at a time, how many different ways can he walk up?",
+        "answer": 34,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "When a number is divided by 3, the remainder is 2, when divided by 4, the remainder is 3, and when divided by 5, the remainder is 4. What is the smallest number?",
+        "answer": 59,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "How many cuboids of different shapes can be formed by stacking 60 identical cubes.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "x is a natural number greater than 2, among (1/(x)), x**2, x, what is the largest x**",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "0.375=(9/(()))=(6/(()))=how much: 8.",
+        "answer": 3,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are four small rods whose lengths are 3 cm, 4 cm, 5 cm, and 8 cm. How many different triangles can be formed by choosing three of them.",
+        "answer": 2,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "How many consecutive 6s are subtracted from 240, and the result is 0.",
+        "answer": 40,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of people in a class is between 40 and 50 people. If there are 8 people in each group, there will be 5 more people in one group; if there are 12 people in each group, there will be 3 groups with 1 less person in each group. How many students are there in this class.",
+        "answer": 45,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Take 7 different numbers from 1 to 9 and require their sum to be 36. How many different ways are there?",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 5 red, yellow and blue balls in a bag, how many balls are taken each time to ensure that there are 2 balls of the same color.",
+        "answer": 4,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "In division, the dividend is reduced by 10 times, and the divisor is increased by 10 times, what is the quotient.",
+        "answer": 100,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "All the students in class 5 and 1 go on an autumn outing. If there are 15 people or 9 people, there will be more than 2 people. How many people are there in this class?",
+        "answer": 47,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "The smallest multiple of a number is 32, how many factors does it have.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The numbers 1447, 1005, and 1231 have some common characteristics. Each number is a four-digit number starting with 1, and there are exactly two numbers in each number that are the same. How many such numbers are there?",
+        "answer": 432,
+        "label": 6,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiao Ming was born in 2000, and his zodiac belongs to the dragon. From this, it can be inferred that people born in how many years must also belong to the dragon.",
+        "answer": 2012,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Some numbers such as 22, 131, 484, 3663, 7997...Reading from left to right is the same as reading from right to left. We call these numbers symmetrical numbers. How many symmetrical numbers are there in the four-digit number?",
+        "answer": 90,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "100 people stand in a row and count \"1, 2\" from left to right, those who report \"1\" walk away, and the rest continue to count \"1, 2\". Go on like this until the last person is left. If you want to be the last person, what number from left to right should you stand on?",
+        "answer": 64,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Between 0 o'clock and 12 o'clock, how many times the hour hand and the minute hand on the clock face are at an angle of 60 degrees.",
+        "answer": 22,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "(5/9)<(8/(□))<1 How many suitable natural numbers can be filled in □.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "From the 10 numbers of 1, 2, 3, 4, ..., 10, any number of numbers can be selected, and it can be guaranteed that two numbers can be found among these numbers, so that one of the numbers is a multiple of the other.",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "(5/12)＜((())/18)＜(3/5), what is the maximum integer that can be filled in the brackets.",
+        "answer": 10,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "If (1/8)＜(4/(□))＜(1/3), how many natural numbers can be filled in □.",
+        "answer": 19,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The ones digit of a multi-digit number is 8, and the ones are shifted to the first digit of the number, and the order of other digits remains unchanged, and a new multi-digit number is obtained, which is 8 times the original number, and the original number is the smallest How much should be.",
+        "answer": 1012658227848,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "Starting from 19, write a number every 6 numbers to get 19, 26, 33, 40,... Then, in this column of numbers, what number is 103?",
+        "answer": 13,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "A kind of aquatic plant doubles its growth every day, and it takes 16 days to cover the entire water surface of the pond. What is the day when it grows to 1/4 of the pond surface?",
+        "answer": 14,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "The number of the first question is greater than 40.",
+        "answer": 41,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Children play games, if there are 3 people, 5 people or 6 people, the whole class happens to be empty, how many people are there at least in this version?",
+        "answer": 30,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are 2 roads from A to B, and 3 roads from B to C, so how many ways are there to go from A to C?",
+        "answer": 6,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two sets of numbers, Group A: 1, 3, 5, 7, 9...37; Group B: 2, 4, 6, 8, 10, ... 38, choose one number from Group A and one number from Group B Add, etc. How many different sums do you get?",
+        "answer": 37,
+        "label": 6,
+        "reason_step": 5
+    },
+    {
+        "question": "A barrel of oil, after 6 kg is used, the remaining 6 kg is more than what was used. How many kg is the barrel of oil originally?",
+        "answer": 18,
+        "label": 6,
+        "reason_step": 1
+    },
+    {
+        "question": "Put 3 balls of each of the four colors A, B, C, and D in the same box, and at least how many balls must be taken out of the box at a time to ensure that two balls of the same color are taken.",
+        "answer": 5,
+        "label": 6,
+        "reason_step": 1
+    }
+]

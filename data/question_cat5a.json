@@ -1,0 +1,3182 @@
+[
+    {
+        "question": "Every hour past noon shadows from a building stretch an extra 5 feet, starting at zero at noon.  How long are the shadows from the building 6 hours past noon in inches?",
+        "answer": "360",
+        "label": 5,
+        "reason_step": 2,
+        "index": 240,
+        "dialogue":[
+            {
+                "teacher": "How long are the shadows from the building 6 hours past noon in inches?",
+                "student": "Does that mean the shadow keeps getting longer? How does it work?"
+            },
+            {
+                "teacher": "Correct, the shadow does keep getting longer as the sun moves across the sky. Each hour, the shadow grows by 5 feet. So, what do you think will be the length of the shadow 6 hours after noon?",
+                "student": "The shadow will be 30 feet long."
+            },
+            {
+                "teacher": "That's right! Now, we need to change feet into inches because the question asks for the length of the shadow in inches. Since each foot has 12 inches, how would we find out how many inches 30 feet is?",
+                "student": "I'm not sure. What do I do to change feet into inches?"
+            },
+            {
+                "teacher": "Good question! To convert feet to inches, you multiply the number of feet by 12, because there are 12 inches in a foot. So, if we have 30 feet, what would we multiply 30 by to find the number of inches?",
+                "student": "I see, so I should multiply 30 by 12. But I am not sure what is the result of that."
+            },
+            {
+                "teacher": "That's okay, let's do it step by step. What is 10 times 12? And then, can we use that to find out what 30 times 12 is?",
+                "student": "10 times 12 is 120. But, I'm not sure how to use that to find 30 times 12."
+            },
+            {
+                "teacher": "That's alright. Think about this: if 10 times 12 is 120, then how would 30 - which is three times 10 - times 12 look like? Can we just do three times 120? What does that give us?",
+                "student": "Oh, I get it. So, 3 times 120 would be 360. So, the shadow is 360 inches long."
+            },
+            {
+                "teacher": "Excellent job! You have correctly converted the length of the shadow from feet to inches. So yes, 6 hours past noon, the shadow from the building would be 360 inches long. Can you see now how we worked through each part step by step to reach the final answer?"
+            }
+        ]
+    },
+    {
+        "question": "A flagpole is 12 feet tall. It breaks, folding over in half, such that what was the tip of the flagpole is now dangling two feet above the ground. How far from the base, in feet, did the flagpole break?",
+        "answer": "7",
+        "label": 5,
+        "reason_step": 2,
+        "index": 786
+    },
+    {
+        "question": "John carves a giant marble rectangular prism 8 meters tall with a 2-meter square base.  It has a density of 2700 kg per cubic meter.  How much does it weigh?",
+        "answer": "86,400",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1128
+    },
+    {
+        "question": "Each wall of a 3 sided shower has 8 tiles running the width of the wall and 20 tiles running the height of the wall.  How many tiles are in the shower?",
+        "answer": "480",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1182
+    },
+    {
+        "question": "Tony has a piece of quilt that is 6 feet by 24 feet. If he wants to turn it into a square and use all the fabric, how long is each side of the square?",
+        "answer": "12",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1203
+    },
+    {
+        "question": "Mark made a chalkboard that is 3 feet wide. It is 2 times as long as it is wide. What is the area of the chalkboard?",
+        "answer": "18",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1330
+    },
+    {
+        "question": "You draw a rectangle that is 7 inches wide. It is 4 times as long as it is wide. What is the area of the rectangle?",
+        "answer": "196",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1490
+    },
+    {
+        "question": "Bob is building a garden on his land, and he wants it to be fenced in to keep out varmints. The garden is a rectangular plot 225 feet long by 125 feet wide. He also wants to have a small 3-foot wide gate to walk through and a larger 10-foot wide gate to move his gardening equipment through. How much fencing is Bob going to need to fence in his garden, taking into account the two gates?",
+        "answer": "687",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1511
+    },
+    {
+        "question": "Linda is repainting her bedroom. The wall area is 600 sq. ft. If a gallon of paint can cover 400 sq. ft., how many gallon cans of paint will Linda have to buy if she wants to do two coats?",
+        "answer": "3",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1669
+    },
+    {
+        "question": "The coach of a football team asked his players to do six laps of the field. The field is in the shape of a rectangle of length 100 m and width 50 m. What is the distance each player will run, in meters?",
+        "answer": "1800",
+        "label": 5,
+        "reason_step": 2,
+        "index": 1875
+    },
+    {
+        "question": "A volcano erupts and spews ash into the sky. The ash cloud spreads out in a diameter eighteen times as far as the distance it shot up into the sky. If the ashes erupted three hundred feet into the sky, what was the radius of the ash cloud in feet?",
+        "answer": "2700",
+        "label": 5,
+        "reason_step": 2,
+        "index": 2115
+    },
+    {
+        "question": "Holden's current master bedroom is 309 sq ft and his master bath is 150 sq ft.  If he wants to add a home office/personal gym divided space that is twice as large as his bedroom and bathroom, how much sq ft will this new room have?",
+        "answer": "918",
+        "label": 5,
+        "reason_step": 2,
+        "index": 2550
+    },
+    {
+        "question": "Cynthia wants floor-to-ceiling curtains made with an additional 5\" of material so it will pool at the bottom. If her room is 8 feet tall, how long will the curtains need to be?",
+        "answer": "101",
+        "label": 5,
+        "reason_step": 2,
+        "index": 2976
+    },
+    {
+        "question": "Jack needs to mop the bathroom and the kitchen. If the bathroom floor is 24 square feet and the kitchen floor is 80 square feet, and Jack can mop 8 square feet per minute, how many minutes does he spend mopping?",
+        "answer": "13",
+        "label": 5,
+        "reason_step": 2,
+        "index": 3183
+    },
+    {
+        "question": "Joy has 250 feet of tape. She wants to wrap the tape around a field that is 20 feet wide and 60 feet long. How much tape will Joy have left over after wrapping tape around the field once?",
+        "answer": "90",
+        "label": 5,
+        "reason_step": 2,
+        "index": 3970
+    },
+    {
+        "question": "A window is made up of 8 glass panes. Each pane has a length of 12 inches and a width of 8 inches. What is the area of the window?",
+        "answer": "768",
+        "label": 5,
+        "reason_step": 2,
+        "index": 4161
+    },
+    {
+        "question": "Alice is planting bushes around three sides of her yard. If each side is 16 feet long, and each bush fills 4 feet, how many bushes does she need to buy?",
+        "answer": "12",
+        "label": 5,
+        "reason_step": 2,
+        "index": 4321
+    },
+    {
+        "question": "Taipei 101 in Taiwan is 1,673 feet tall with 101 floors. Suppose the first to 100th floors have height each equal to 16.5 feet, how high is the 101st floor?",
+        "answer": "23",
+        "label": 5,
+        "reason_step": 2,
+        "index": 5083
+    },
+    {
+        "question": "John starts climbing a very steep hill.  He travels 1 foot vertically for every two feet horizontally.  His elevation increases from 100 feet to 1450 feet.  How far does he move horizontally, in feet?",
+        "answer": "2700",
+        "label": 5,
+        "reason_step": 2,
+        "index": 6092
+    },
+    {
+        "question": "The area of a triangle is 32cm**2, the base is 8cm, and the height is cm.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Take a rectangle with a length of 16 cm and a width of 12 cm and cut out the largest square. What is the perimeter of the largest square cut out?",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Plant radishes in a triangular vegetable field with a base length of 18 meters and a height of 6 meters. If 12 kilograms of radishes are harvested per square meter, how many kilograms of radishes can be harvested in this field?",
+        "answer": 648,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Uncle Wang surrounded a rectangular vegetable field with a fence against the wall. The length of this vegetable field is 7 meters and the width is 5 meters. What is the minimum length of fence required to enclose this vegetable field?",
+        "answer": 17,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A wire can enclose a square with a side length of 9 cm. If it is changed to enclose an equilateral triangle, how many centimeters is the side length of the equilateral triangle?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiaoqiao’s cloakroom is exactly a square with a side length of 3m. Xiaoqiao’s parents’ bedroom is four times the size of the cloakroom. How big is Xiaoqiao’s parents’ bedroom?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A hemispherical container with a radius of 3 cm is filled with water, and poured into a conical container with a bottom radius of 3 cm, just enough to fill the conical container. Find the height of the conical container.",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiao Ming inserts a bamboo pole into the water, the part that enters the water is 30 cm, then he turns the bamboo pole upside down, and then inserts it into the water, the part that is not wetted by this time is 40 cm, how many decimeters is this bamboo pole long?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "How many square bricks are needed to pave 76.8 square meters of ground with square bricks with a side length of 0.8 meters?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The volume of a cone is 126 cubic centimeters, the area of the base is 42 square centimeters, and what is the height in centimeters.",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Make 25 sections of cylindrical ventilation pipes with tin, each section is 1 meter long, and the diameter of the bottom circle is 0.2 meters, how many square meters of tin is needed?",
+        "answer": 314,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the perimeter of a square is 4 cm, what is the length of its side in cm?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "When a stone is completely placed in a cuboid tank, the water level rises by 5 cm. The bottom of the sink is 65 cm long and 20 cm wide. What is the volume of this stone in cubic centimeters?",
+        "answer": 6500,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The base of a parallelogram is 25 cm and the height is the base (4/5). What is its area?",
+        "answer": 500,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A wooden block in the shape of a cuboid is 8 decimeters long, 4 decimeters wide, and 2 decimeters high. Saw it into several small cubes, and then assemble them into a big cube. Find the surface area of the big cube = how much (unit is square decimeter).",
+        "answer": 96,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use 12 small squares with a side length of 1 to build a large rectangle. What is the shortest perimeter of this rectangle?",
+        "answer": 14,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Use some small cubes with a side length of 2 cm to form a larger cube. What is the minimum volume of this cube in cubic centimeters?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder is made from a square iron sheet whose side length is 30 cm. What is its lateral area?",
+        "answer": 900,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a rope is 24 meters long, what is the area of the square enclosed by it?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder whose base diameter and height are both 10 decimeters, what is its lateral area in square decimeters?",
+        "answer": 314,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The garden of Xiaopang’s house is rectangular, 20 meters long, and 160 square meters in area. After expansion, the length has doubled. What is the current area?",
+        "answer": 320,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "How many pieces of such small cubes are needed to assemble a large cube with small cubes with side lengths of 4 cm.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the lengths of the two sides of a right triangle are 32 meters and 20 meters respectively, what is the area in square meters?",
+        "answer": 320,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a rectangular playground in the school, which is 28 meters long and 14 meters wide. What is its perimeter in meters?",
+        "answer": 84,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a batch of wall bricks, each brick is 30 cm long and 25 cm wide. At least how many of these bricks are needed to pave a square?",
+        "answer": 30,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The lengths of the three sides of a right triangle are 10 cm, 8 cm and 6 cm respectively, what is its area in square centimeters",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "An auditorium is 20 meters long, 16 meters wide, and 5 meters high. It is necessary to paint the ceiling and surrounding walls of the auditorium. Excluding the door and window area of 120 square meters, an average of 0.5 kilograms of paint is used per square meter. How many kilograms of paint are needed in total?",
+        "answer": 280,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "There is a mirror with a length of 3 meters and a width of 1 meter. The price of the mirror is 15 yuan per square meter. How much does it cost to install this mirror?",
+        "answer": 45,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "From a rectangle with a length of 19 cm and a width of 13 cm, cut out the largest square, what is the area of the remaining part in square centimeters?",
+        "answer": 78,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the base angle of an isosceles triangle whose apex angle is 50°?",
+        "answer": 65,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the base area of the cylinder and the cone are equal, and the height of the cylinder is 1/6 of the height of the cone, then how many times the volume of the cone is the volume of the cylinder.",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use wire to form a rectangle 8 cm long and 3 cm wide. How long is the wire at least?",
+        "answer": 22,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The product of the upper base and the height of a trapezoid is 44 square centimeters, and the product of the lower base and the height is 66 square centimeters. What is its area?",
+        "answer": 55,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "In a right triangle, if one acute angle is 65°, what is the other acute angle?",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylindrical piece of wood is 9 decimeters high. After cutting into two smaller cylinders, the surface area increases by 36 square decimeters. What is the volume of this piece of wood?",
+        "answer": 162,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "How many different two-digit numbers can be formed with 0, 5, 7, and 8?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a piece of wood with a side length of 20 cm is processed into the largest cylinder, what is the volume of the cut wood in cubic centimeters?",
+        "answer": 1720,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If the base of a parallelogram is 5 cm and the height is 6 cm, what is the area of the triangle with the same base and height?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a row of saplings. The distance between two adjacent trees was originally 2 meters, but now it is changed to 3 meters. If one tree at the starting point does not move, then how far away is another sapling that does not need to be moved?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A fuel tank is 1 meter long, 0.6 meters wide, and 5 decimeters high. If it is filled with gasoline, how many liters of gasoline can it hold?",
+        "answer": 300,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "To celebrate New Year's Day, the school specially made a banner with a length of 9 meters and a width of 2 meters. What is the circumference of this banner?",
+        "answer": 22,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid whose base area is a square has a perimeter of 24 cm and a height of 15 cm, what is its surface area in square centimeters?",
+        "answer": 432,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "What is the area of a parallelogram whose base is 13 cm and whose height is 5 cm?",
+        "answer": 65,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the surface area of a cube whose sum of sides is 60 cm?",
+        "answer": 216,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The two sides of a triangle are 4 cm and 8 cm respectively, how many centimeters can the third side be.",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Stand No. 5 of Huanglong Gymnasium has 52 rows, each row has 35 seats. How many people can this stand hold?",
+        "answer": 1820,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular parallelepiped is a frame surrounded by 84cm long iron wires. It is known that the length is 11cm, the width is 6cm, and the height is cm.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The town center primary school plans to build a teaching building with a length of 106 meters and a width of 32 meters. What is the floor area of the teaching building?",
+        "answer": 3392,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a triangle is 4.8 square meters, its height is 0.8 meters, what is its base in meters",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiao Ming forms a triangle with three small sticks, two of which are 10 cm and 3 cm long respectively. To form a triangle, the third small stick must be at least how many centimeters long.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The farmer uncle wants to spray pesticides on a paddy field 600 meters long and 200 meters wide. It is known that 12 kilograms of pesticides are needed per hectare. How many kilograms of pesticides need to be sprayed on this paddy field?",
+        "answer": 144,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The total length of the No. 5 bus route is 12 kilometers, and the distance between two adjacent stations is 1 kilometer. How many stations are there?",
+        "answer": 13,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of the base of a cone is 4 cm, the volume is 12 cubic cm, what is the height in cm",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the area of a triangle is 1.6 square decimeters and the height is 0.4 decimeters, what is the length of its base?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "In the decoration of large shopping malls, 10 sections of 12-meter-long cylindrical ventilation pipes need to be made, and the circumference of the bottom surface is 30 cm. How many square centimeters of iron sheets are needed at least?",
+        "answer": 360000,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "When the volume of a cone is 36 cubic decimeters, what is the volume of a cylinder with the same base and height?",
+        "answer": 108,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a parallelogram is 1 square meter, the base is 1 meter, and what is the height.",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A chicken farm is a rectangle, one of its long sides is a brick wall, and the other side is surrounded by a fence wall. It is known that the length is 18 meters and the width is 10 meters. Q: How many meters is the total length of the fence?",
+        "answer": 38,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a path 2 meters wide around a square flower bed. If the total area of the path is 64 square meters, what is the area of the middle flower bed in square meters?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The sum of two adjacent sides of a parallelogram is 17 cm. What is the perimeter of the parallelogram in cm?",
+        "answer": 34,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular frame with a length of 12 cm and a width of 7 cm is nailed with thin wooden strips. If it is drawn into a parallelogram, what is its perimeter in cm?",
+        "answer": 38,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the perimeter of the base of a cube is 48 cm, what is its surface area in square centimetres?",
+        "answer": 864,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangle with a perimeter of 24 cm is surrounded by a piece of iron wire. If these wires are used to form a square, what is the area of the square?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A piece of rectangular paper with a length of 28 cm and a width of 16 cm. First cut out the largest square, and then cut out the largest square from the remaining rectangular paper. What is the remaining area in square centimeters? ?",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "How many different four-digit numbers can be formed with 2, 0, 1, and 6?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular open space, the area is 24 square meters, the width is (12/5) meters, how many meters is the length?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Draw the largest circle in a rectangle with a length of 6 cm and a width of 4 cm. What is the radius of the circle in centimeters?",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "cylinder and a cone have the same base and height, and their volumes differ by 16 cubic centimeters. What is the sum of their volumes in cubic centimeters?",
+        "answer": 32,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A circular ornamental fish pond has a circumference of 251.2 meters. What is the radius of this fish pond in meters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut a cube with a side length of 1dm into small cubes with a side length of 1cm, and then arrange these small cubes in a row. What is the length of the cuboid formed?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A total of 28 trees are planted from one end of a boulevard to the other. The distance between every two adjacent trees is 4 meters. How long is this boulevard in meters?",
+        "answer": 108,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of a rectangle is 96 square decimeters, the length is 16 decimeters, and how many decimeters is the width? (solution by equation)",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of the trapezoid is 96 square centimeters and the height is 8 centimeters. What is the sum of the upper and lower bases in centimeters?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the side length of a square with a perimeter of 72 cm?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the base of a parallelogram is 5 decimeters and the height is 3.6 decimeters, what is its area?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The students planted colorful flags along the straight side of the playground, one every 4 meters, a total of 26 flags were inserted, how many meters is the distance from the first colorful flag to the last one.",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The base of a triangle is 6dm and the height is 4.5dm. What is the area of a parallelogram with the same base and height in dm?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a 16 cm long wire is used to form a largest square, what is the side length of this square in cm?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a cylinder of 360 cubic centimeters is processed into the largest cone equal to its base, what is the volume of the cone in cubic centimeters?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the perimeter of a square whose side length is 125 cm?",
+        "answer": 500,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the surface area of the cuboid in square centimeters by gluing two cubes of wood with a side length of 4 cm to form a cuboid?",
+        "answer": 160,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylinder and a cone have the same volume and base area respectively. If the height of the cylinder is 6 cm, what is the height of the cone in cm?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the radius of a circle is doubled, how much will its area be doubled?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The area of a parallelogram is 200 square centimeters, the base is 8 centimeters, what is the height?",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of a square vegetable field is 60 meters, what is the side length of this vegetable field?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There are two rectangles with a length of 4 cm and a width of 2 cm. If you put them together to form a square, what is the perimeter of the square in cm?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular vegetable field is 105 meters long and 45 meters wide. Need to surround this vegetable field with a fence, how long is the fence?",
+        "answer": 300,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the area of a rectangle made by combining 3 squares with a side length of 3 cm",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A wire 24 cm long forms a square, what is the side length of the square in cm",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Dig a cuboid pool with a length of 8 meters, a width of 6 meters, and a depth of 4.5 meters. What is the minimum area of the pool in square meters?",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "For a trapezoid, if the upper base is increased by 4 cm and the lower base is decreased by 4 cm, it becomes a square with side length 10 cm. What is the area of the trapezoid in square centimeters?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The pits of the Terracotta Warriors and Horses in the Mausoleum of the First Qin Emperor are arranged in the shape of a character. The earliest discovered pit is No. 1, which is rectangular, 230 meters long from east to west, and 62 meters wide from north to south. What is the circumference of the No. 1 figurine pit?",
+        "answer": 584,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There are 25 rows of seats in a theater, the first row has 32 seats, and each row at the back has two more seats than the row at the front. How many seats are there in total in this theater?",
+        "answer": 1400,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "The perimeter of a rectangle is 10 centimeters, its width is 2 centimeters, what is its length in centimeters",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of a rectangle is 24 meters, and the ratio of its length to width is 7:5. What is the area of this rectangle in square meters?",
+        "answer": 35,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "If a base angle of an isosceles triangle is 65°, what is its apex angle?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the height and base radius of a cylinder are both 10 decimeters, what is its lateral area in square decimeters?",
+        "answer": 628,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular skating rink is 30 meters long and 20 meters wide, with railings around it. How long is the railing?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "classroom is 10 meters long, 6 meters wide, and 4 meters high. It is necessary to paint the ceiling and surrounding walls of the auditorium. Excluding the door and window area of 20 square meters, an average of 0.5 kilograms of paint is used per square meter. How many kilograms of paint are needed in total?",
+        "answer": 84,
+        "label": 5,
+        "reason_step": 8
+    },
+    {
+        "question": "The sum of the areas of a triangle and its parallelogram with the same base and height is 120m**2, what is the area of the triangle?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of an equilateral triangle is equal to the perimeter of a square with side length 6 cm. What is the side length of this equilateral triangle?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of a triangle is 30 square centimeters, the base is 6 centimeters, what is the height?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The sum of the upper and lower bases of a right-angled trapezoid is 16 cm, and the two sides are 7 cm and 5 cm respectively. What is the area of this trapezoid in square centimeters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a 3*4*5 cuboid, first dye the two adjacent faces red, and then cut it into 60 small cubes of 1*1*1. I would like to ask: How many of these small cubes have exactly one side dyed red?",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The school wants to dig a rectangular swimming pool with a length of 50 meters, a width of 20 meters and a depth of 2 meters. What is the area of the swimming pool in square meters?",
+        "answer": 1000,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the sum of one length and one width of a rectangle is 12 cm, what is its perimeter in cm?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The school playground is rectangular, 100 meters long and 50 meters wide. Once, during physical education class, I ran around the playground for 3 weeks. How many meters did I run in total?",
+        "answer": 900,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a rectangle with a length of 12 cm and a width of 6 cm is drawn into a parallelogram with a height of 10 cm, what is the area of the parallelogram in square centimeters?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The original area of a rectangular green space in Songbai Park is 360 square meters. If we want to increase the width of the green space from the original 8 meters to 32 meters, the length remains unchanged. How many square meters is the expanded green area?",
+        "answer": 1440,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "How many four-digit numbers can be written using the four numbers 0, 0, 1, and 2?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of the base of the cube is 4 square meters, what is the volume in cubic meters",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "(Little Euler seeks the sheepfold). A 100-meter-long fence forms a quadrilateral sheepfold. What is the maximum area of the sheepfold?",
+        "answer": 625,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a piece of wire 72 cm long is used to form a cube frame, what is the volume of the cube in cubic centimeters?",
+        "answer": 216,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Xiaoli's home is 1km away from the north-east 30th direction of the school, and the park is 1km away from the east of the school. How many kilometers.",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a parallelogram is 4.5 square centimeters, and the two adjacent sides are respectively enlarged to twice the original size, find the current area.",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a triangle is 48 square centimeters, its base is 12 centimeters, what is the height of the triangle in centimeters? (column equations to solve problems)",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A piece of land is a right triangle, and the three sides are 6 meters, 8 meters, and 10 meters. What is the area of the land in square meters?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder and a cone have the same volume and the same height. The area of the base of the cylinder is 9 square centimeters, what is the area of the base of the cone in square centimetres?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Using three cuboids whose length, width and height are 5 cm, 3 cm and 4 cm respectively to form a larger cuboid, what is the maximum reduction in surface area in square centimeters?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The furniture factory orders 1,000 square logs, each with a cross-sectional area of 24 square decimeters and a length of 2.5 meters. How many cubic meters are there in total?",
+        "answer": 600,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The volume of the cone is 24cm**3, the area of the base is 12cm**2, what is its height in cm?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut out the largest square from a rectangle with a length of 5 cm and a width of 3 cm. What is the area of the cut square in square centimeters?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a trapezoid is 30 square centimeters. If its upper and lower bases remain the same and its height is tripled, what is its area?",
+        "answer": 90,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of the base of a cone is 3.14 square decimeters and the volume is 6.28 cubic decimeters. What is the height of the cone in centimeters?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A ventilation pipe in the shape of a cuboid is 1 meter long. The side length of the cross section is 4 decimeters, how many square decimeters of iron sheets are needed to make such a ventilation pipe? ..",
+        "answer": 160,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "cylinder has a surface area of 1884 square centimeters and a base radius of 10 centimeters. What is its height in centimeters?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "There is a small square with a side length of 1.5 decimeters. If such 4 small squares are used to form a large square, what is the area of the large square?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The volume of a cuboid is 240 cubic centimeters, the area of the bottom is 48 square centimeters, and the area of the right side is 30 square centimeters. What is its surface area in square centimeters?",
+        "answer": 236,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "A cylinder has a volume of 45 cubic meters and a ground area of 15 square meters. What is its height in meters? ．",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The areas of the three faces of a cuboid passing through a vertex are 6, 8, and 12 square centimeters. What is the volume of the cuboid in cubic centimeters.",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A piece of cuboid wood is 4 decimeters long, 3 decimeters wide, and 2 decimeters thick. According to the needs, now we need to dig out the largest cube of wood from the middle of this piece of wood. What is the surface area of the remaining wood in square decimeters?",
+        "answer": 68,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "A total of 11 trees are planted at both ends of one side of the boulevard. The distance between two adjacent trees is 5 meters. What is the length of the boulevard?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The furniture factory orders 500 square logs, each of which has a cross-sectional area of 2.4 square decimeters and a length of 3 meters. How many square meters are these timbers in total?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the two sides of an isosceles triangle are 4 cm and 8 cm long, what is its perimeter in cm?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the area of an isosceles right triangle is 100 square centimeters, what is the longest side of the triangle in centimeters?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a parallelogram is 8 square decimeters, the height is 2 decimeters, what is its base?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the perimeter of a square is 24 decimeters, what is its area in square decimeters?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a big tree in the park. The students circled the tree 6 times with a 20-meter-long rope, and there is still 1.16 meters left. What is the diameter of the trunk?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cube container with a side length of 4 decimeters is filled with water and then poured into a conical container with a bottom area of 12 decimeters squared. It is just full. What is the height of the cone?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The volume of a cuboid is 600dm**3, the length is 20dm, the width is 15dm, and what is the height.",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Three cubes with volumes of 1, 8, and 27, if their faces are glued together, what is the maximum possible surface area of the resulting three-dimensional figure?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "The gymnasium has a square football field with a side length of 7 meters. Lulu ran 4 laps along the football field. How many meters did he run in total?",
+        "answer": 112,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the volume of a cone is 12 cubic decimeters, what is the volume of three cylinders with the same base and height?",
+        "answer": 108,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Fangfang ran 2 laps along a rectangular runway 120 meters long and 6 meters wide. How many meters did she run in total?",
+        "answer": 504,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Calculation: 1+4+9+16+25+36+...+2704.",
+        "answer": 48230,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The area of a triangle is 35 cm and the height is 5 cm. What is the base of the triangle in cm?",
+        "answer": 14,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Use iron wire to form a cuboid model with a length of 6 decimeters, a width of 4 decimeters, and a height of 5 decimeters. How many decimeters of iron wire are needed at least?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular land is 16 kilometers long and four times as long as it is wide. What is the area of the land in square kilometers?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "child is going to use several small cubes with a side length of 1 cm to make a big cube. He needs at least as many of these small cubes to make a big cube.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length of the football field is 115 meters and the width is 85 meters. Xiao Liang runs 3 laps along the side of the football field, how many meters does he need to run?",
+        "answer": 1200,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A conference room is 12 meters long and 8 meters wide, with a total of 480 floor tiles. How many floor tiles are laid on average per square meter?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut a rectangular piece of paper from the middle, just cut into two squares with side lengths of 12 cm. What is the perimeter of this rectangle?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A right-angled triangular medical bandage with a base of 40 cm and a height of 30 cm. There is a piece of rectangular white cloth with a length of 240 cm and a width of 100 cm.",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "The volume of a cone is 18.84 cubic decimeters, the circumference of its base is 18.84 decimeters, how many decimeters is its height?",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If 4 squares with a perimeter of 16 cm are put together to form a large square, what is the side length of the assembled square in cm?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The school has a flower bed with a length of 17 meters and a width of 8 meters. Flowers are planted in the flower bed. If 12 flowers are planted per square meter, how many flowers can be planted in this flower bed?",
+        "answer": 1632,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use a small cube with an edge length of 3 cm to place a cube, at least how many such small cubes are needed.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The three sides of a right triangle are 5 meters, 4 meters and 3 meters. What is the area of this triangle?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the sum of the sides of a cube is 12 decimeters, what is its volume in cubic decimeters?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the perimeter of a square is 16 decimeters, what is its area?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of a triangle is 42 square centimeters, the height is 12 centimeters, what is the base in centimeters?",
+        "answer": 7,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The side length of a square is 19.5 meters, what is its perimeter in meters?",
+        "answer": 78,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Put flowers on the side of a 96-meter-long road, and the distance between every two potted flowers is 2 meters. How many potted flowers are placed in total?",
+        "answer": 49,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of a trapezoid is 32 square meters and the height is 8 meters. What is the sum of its upper and lower bases in meters?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If one base angle of an isosceles triangle is 45 degrees, what is its top angle?",
+        "answer": 90,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the surface area of a cube is 24 square centimeters, what is the sum of its sides in centimeters?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The volume of a cone is 45 cubic centimeters, how many cubic centimeters less than the volume of a cylinder with the same base and height.",
+        "answer": 90,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid has a base area of 30m**2 and a height of 5m. What is its volume in cubic meters?",
+        "answer": 150,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A square vegetable field has one side against a wall and is surrounded by a 36-meter-long fence. What is the area of this vegetable field?",
+        "answer": 144,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If 6 cubes with side lengths of 2 decimeters are glued together to form a cuboid, what is the maximum reduction in surface area in square decimeters?",
+        "answer": 56,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Given that the circumference of a circle is 31.4 cm, what is its radius in cm?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The lawn at the gate of Shengli Primary School is rectangular, with an area of 810 meters, a length of 30 meters, and a width of 30 meters?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The two adjacent sides of a parallelogram are 6 decimeters and 4 decimeters respectively, and the height of one side is measured as 5 decimeters. What is the area of the parallelogram in square decimeters?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cone has a base area of 60 square centimeters and a height of 12 centimeters, what is its volume in cubic centimeters?",
+        "answer": 240,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a cylinder with a volume of 108 cubic decimeters is cut into the largest cone, what is the volume of the cone?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder and a cone have the same base area and volume respectively. The height of the cone is 12 cm. What is the height of the cylinder in cm?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a base angle of an isosceles triangle is 40°, what is the apex angle?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A 30 cm long iron wire forms an isosceles triangle whose base is 8 cm. What is the length of one side of this isosceles triangle?",
+        "answer": 11,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "An office with a length of 8 meters, a width of 6 meters, and a height of 2 meters needs to be painted. It is known that the doors and windows are 42 square meters in total. How big is the area that needs to be painted (the floor is not painted)?",
+        "answer": 62,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If one base angle of an isosceles triangle is 70°, what is its top angle?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of a rectangle is 420 cm, and the ratio of length to width is 4:3. What is the area of the rectangle?",
+        "answer": 108,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The area of a parallelogram is 120 square centimeters. Its base is 15 cm, what is its height?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A metal cone with a bottom diameter of 60 cm is put into a cylindrical cup with a bottom diameter of 80 cm (the cup contains water), and the water level rises by 3 cm. What is the height of the metal cone in centimeters?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 8
+    },
+    {
+        "question": "The upper and lower bases of the trapezoid are enlarged by 3 times, the height remains the same, and the area is enlarged by how many times",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Draw the largest triangle in a parallelogram with an area of 10 square meters, what is the area of this triangle in square meters?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid mailbox made of iron sheet has a length of 6dm, a width of 5dm, and a height of 8dm. How much dm**2 is the iron sheet needed to make this mailbox?",
+        "answer": 236,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "Close to a fence, use an 18-meter-long bamboo fence to enclose a rectangular (side length is an integer) vegetable field. What is the maximum area of this vegetable field in square meters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a rectangular board with a length of 6 meters and a width of 3 meters. If you want to saw this board into an isosceles right triangle with a side length of 1.5 meters, how many pieces can you saw?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Divide a square colored flag with a side length of 6 decimeters into two rectangular colored flags of equal size, what is the area of each colored flag?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder and a cone have the same volume and the same base area. The height of the cylinder is 12 cm. What is the height of the cone in cm?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Master Wang makes 10 sections of cylindrical ventilation pipes of the same size, each section is 80 cm long, and the radius of the bottom surface is 5 decimeters. How many square meters of iron sheet will be used in total?",
+        "answer": 252,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a parallelogram is 24 square decimeters, its base is 6 decimeters, and its height is decimeters.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "An isosceles trapezoid, the lower base is 65 cm longer than the upper base, and the upper base and one waist are both 5 cm long, what is the perimeter of the trapezoid in cm?",
+        "answer": 85,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A glass fish tank is in the shape of a cuboid, with a length of 5 decimeters, a width of 4 decimeters, and a height of 3 decimeters. How many square decimeters of glass are needed to make this fish tank?",
+        "answer": 74,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "A cuboid disinfection pool covers an area of 15 square meters, the depth of the pool is 0.5 meters, and the maximum capacity of the pool is how many liters of disinfection water.",
+        "answer": 7500,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Fold a square of 1 square decimeter out of paper. How many squares of 1 cm2 can be divided into a square of 1 cm2?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A triangle has three equal sides and each side is 6 cm long. What is the perimeter in cm?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the volume of a cube whose sum of sides is 24 decimeters?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the base of a parallelogram is 6 cm long and its height is twice as high, what is its area in square centimeters?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A room is 15 meters long and 12 meters wide. How many square floor tiles are needed to pave the floor with an area of 9 square decimeters?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the perimeter of a square is 72 cm, what is the length of its side in cm?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cube fish tank without a cover, with a side length of 5 decimeters, how much glass area is needed to make this fish tank?",
+        "answer": 125,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cone model, the base area is 15cm**2, the height is 10cm, what is the volume of this model in cm**3.",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of an isosceles triangle is 80 cm and its base is 12 cm less than twice the length of the waist. What is the length of the base of this triangle?",
+        "answer": 34,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If two cubes with side lengths of 5 cm are put together to form a cuboid, does the surface area change? How much has it changed?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The volume of a cylinder is 3.6 cubic meters, the area of the base is 1.2 square meters, and the height is in meters.",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The upper base of a trapezoid is 12 cm. If the upper base is extended by 3 cm, a parallelogram with an area of 120 cm2 is formed. What is the height of the original trapezoid in cm?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder with a volume of 628 cubic centimeters can be placed in a cube box. What is the volume of this box?",
+        "answer": 800,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The school needs to paint the new classrooms. It is known that the length of the classroom is 8m, the width is 6m, the height is 3m, and the area after deducting doors and windows is 12m**2. If the paint fee is 2.5 yuan per square meter, how much will it cost to paint this classroom?",
+        "answer": 300,
+        "label": 5,
+        "reason_step": 8
+    },
+    {
+        "question": "Cut a cylinder of wood into the largest cone, and the volume of the cut part is 36 cubic decimeters, what is the volume of the cone?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "How many different rectangles and squares are there with a perimeter of 12 cm?",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the diameter of the base of the cylinder is tripled and the height is tripled, how many times is the volume enlarged?",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a cylinder with a base diameter of 5 cm and a height of 12 cm is cut into two half cylinders along the diameter, what is the increase in surface area?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A parallelogram and a rectangle have the same area. It is known that the length of the rectangle is 18 cm, the width is 10 cm, and the base of the parallelogram is 15 cm. What is its height in cm?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Grandpa Wang’s family has a rectangular vegetable field with a length of 8 meters and a width of 4 meters. How long should the fence be at least to surround the three sides of the vegetable field?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of the parallelogram is 360 cm**2, and the height is 18 cm. What is the base of the parallelogram in cm?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a triangle is 15 square centimeters, the base is 5 centimeters, what is the height?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The product of the upper base, lower base and height of a trapezoid is 60 square centimeters and 100 square centimeters respectively. What is the area of the trapezoid in square centimeters?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder with a base circumference of 25.12 cm is a square when its sides are expanded. If it is cut in half along the diameter of the base, how many square centimeters will its surface area increase?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut a cylinder into the largest cone. The volume of the cone is 24 cubic decimeters. What is the volume cut off?",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the two adjacent sides of a parallelogram are 12 cm and 8 cm respectively, and the height of one side is 10 cm, what is the area of the parallelogram in square centimeters?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "room is 24 decimeters long and 32 decimeters wide. Now it is necessary to lay bricks on the floor of the room. It cannot be wasted. What is the maximum side length of square bricks?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a rectangle whose length and width are 10 cm and 8 cm respectively is drawn into a parallelogram whose height is 9 cm, what is the area in square centimeters?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The two sides of an isosceles triangle are 2cm and 5cm long respectively, how many centimeters of rope are needed to enclose this isosceles triangle?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The diameter of a circle is 8 decimeters, what is its radius?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a trapezoid is 40m**2, the sum of the upper and lower bases is 16m, what is the height?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "rope is 64 cm long and it forms a rectangle with a length of 19 cm. What is its width in cm? (solution by equation)",
+        "answer": 13,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of the cross section of a certain type of water pipe is 157 cm, what is the radius of this water pipe in cm? (π takes 3.14)",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the side length of a square is 7 cm, what is its perimeter in cm?",
+        "answer": 28,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A square vegetable greenhouse with a side length of 60 meters. If 8 loofah seedlings can be planted per square meter, how many loofah seedlings can be planted in this greenhouse?",
+        "answer": 28800,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a rectangle is 90 square centimeters. If its length and width are reduced to one-third of the original. What is the area.",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "rope with a length of 188.4 cm is wrapped around the trunk of a big tree exactly twice, and there is nothing left. What is the diameter of the big tree?",
+        "answer": 30,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The base of the triangle is 8cm, the height is 4cm, what is the area in cm**2.",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "1 square meter is more than 1 square centimeter",
+        "answer": 9999,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The school playground is a rectangle, 35 meters long and 15 meters wide. If Uncle Li runs around the playground 5 times every morning, how many meters should Uncle Li run at least every day?",
+        "answer": 500,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The park needs to build a wall with a length of 15 meters, a thickness of 4 cm, and a height of 3 meters. If 525 bricks are used per cubic meter, how many bricks will be used for this wall?",
+        "answer": 945,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If two cubes with side lengths of 4 decimeters are glued together to form a cuboid, the surface area of the cuboid is less than the surface area of the two cubes by how many square decimeters.",
+        "answer": 32,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular test field has 4.2 hectares, its length is 420 meters, what is its width in meters?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A square flower bed has a perimeter of 16 meters, what is its area in square meters?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "cuboid goldfish bowl is 12 decimeters long, 6 decimeters wide, and 8 decimeters high. The front glass is accidentally broken. What is the area of the glass used for repair?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a cylindrical steel is processed into a conical part with a maximum volume of 360 cubic centimeters, what is the volume of the cut part in cubic centimeters?",
+        "answer": 720,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylinder and a cone have the same base and volume, the height of the cylinder is 3 decimeters, and the height of the cone is how many decimeters.",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the area of a triangle with a base of 12 cm and a height of 0.4 cm?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a cube with a side length of 1 decimeter is stacked with small cubes with a side length of 1 cm, how many pieces are needed?",
+        "answer": 1000,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "sprinkler truck travels 50 meters per minute, the width of sprinkling water is 9 meters, and the sprinkler truck runs for 6 minutes, how much area can it sprinkle water on?",
+        "answer": 2700,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a rectangular vegetable field with a length of 10 decimeters and a width of 6 decimeters. One side is against a wall. A fence is built around it. How many decimeters is the minimum?",
+        "answer": 22,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A square has a diagonal of 16 centimeters, what is the area of the square in square centimetres?",
+        "answer": 128,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the base of a parallelogram is doubled and the height is doubled, its area will be doubled.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A building has 25 floors, and each floor is 2.84 meters high. How many meters is this building about?",
+        "answer": 71,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylindrical steel with a length of 9 decimeters is cut into two sections, and the surface area increases by 100 square centimeters compared to the original one. What is the original volume of the cylindrical steel?",
+        "answer": 4500,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Put a gold border on the edge of a round dart board with a diameter of 50 centimeters. The joint of the gold border is 3 centimeters. How many centimeters should the gold border be at least?",
+        "answer": 160,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "cuboid has a length of 15 cm, a width of 12 cm, and a height of 10 cm. What is its surface area in square centimeters?",
+        "answer": 900,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A classroom is 10 meters long, 6 meters wide, and 3 meters high. The classroom doors, windows and blackboards have a total area of 36 square meters. If the top surface and surrounding walls of the classroom are to be painted, how many square meters is the painted area?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "There is a rectangular colored paper with a length of 56 cm and a width of 24 cm. Cut it into small squares of the same size. What is the maximum side length of these small squares in cm?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid stone is 10 decimeters long, 3.5 decimeters wide, and 2 decimeters thick. If the stone weighs 4.5 kilograms per cubic decimeter, how many kilograms does the stone weigh?",
+        "answer": 315,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the number of all two-digit numbers that have exactly 4 divisors in the natural numbers.",
+        "answer": 30,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular piece of land is drawn on the map with a scale of 1:200. The circumference of this circle is 24 cm, and the actual ratio of length to width is 5:3. How many square meters is the actual area of this piece of land?",
+        "answer": 135,
+        "label": 5,
+        "reason_step": 8
+    },
+    {
+        "question": "A cylindrical swimming pool has a bottom diameter of 20 meters and a depth of 3 meters. Ceramic tiles are pasted on the bottom and sides of the swimming pool. If 50 tiles are used per square meter, how many tiles will be used?",
+        "answer": 25120,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "A circular island has a diameter of 80 meters, a circular flower bed with a diameter of 10 meters in the middle, and lawns elsewhere. What is the lawn area?",
+        "answer": 49455,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length of a side of an isosceles right triangle is 2 cm, what is the area of the triangle?",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field is 8 meters long and 5 meters wide. If one side of the vegetable field is against a wall, how many meters should the fence be at least to surround the vegetable field?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A 4-meter-long rope goes around a square table exactly, what is the area of the square table in square meters?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder and a cone, the radius of the base of the cylinder is twice that of the cone, and the height of the cylinder is (1/2) that of the cone. If the volume of the cone is 15 cubic decimeters, what is the volume of the cylinder?",
+        "answer": 90,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut a cylinder into the largest cone. The volume of the cut part is 30 cubic centimeters. What is the volume of the cone?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Put a square iron block with a side length of 6dm into a cylindrical container, and the water level rises by 4cm after being completely submerged. If a conical lead block is placed in a cylindrical container, the water level rises by 1.5cm after being completely submerged. Find this The volume of the conical lead block.",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a sidewalk with a width of 6 meters and an area of 720 square meters. For the convenience of walking, the width of the road should be increased to 18 meters, and the length remains unchanged. What is the area of this sidewalk after widening?",
+        "answer": 2160,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular picture frame is 12 decimeters long and 8 decimeters wide. Wrap it around its edge with a ribbon, how long is the ribbon at least?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A trapezoid has an area of 120 square decimeters and a height of 8 decimeters. What is the sum of the upper and lower bases of this trapezoid?",
+        "answer": 30,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the side length of a square is 3 decimeters, what is its area?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Uncle Wang pays great attention to physical exercise. He runs 5 laps around the community every day, 1000 meters per lap. How many kilometers does Uncle Wang run every day?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangle is 30 meters long and 16 meters wide. The base of a parallelogram equal to its area is 20 meters. What is the height in meters?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "After cutting a small cuboid with a volume of 32 cm from a cuboid, the remaining part is exactly a cube with a side length of 4 cm. What is the surface area of this cube.",
+        "answer": 128,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "Dad wants to add an aluminum alloy frame to the photo frame with a length of 25 cm and a width of 10 cm. What is the minimum length of aluminum alloy needed?",
+        "answer": 70,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the side length of a cube is reduced by 2 times, its volume will be reduced by that many times.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangle is 8 cm long and 3 cm wide, what is the perimeter of the rectangle in cm?",
+        "answer": 22,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field has a perimeter of 36 meters and a ratio of length to width of 1:2. What is the area of the vegetable field in square meters?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "If the area of a parallelogram is 56 square centimeters, what is the area of a triangle with the same base and height as it?",
+        "answer": 28,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The volume of a cone is 20 cubic meters, the height is 4 meters, what is the area of the base in square meters?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "After cutting a small cuboid with a volume of 108 cubic centimeters from a cuboid, the remaining part is a cube with side length 6 cm. What is the surface area of this cuboid in square centimetres?",
+        "answer": 288,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "A cuboid is 5dm long, 4dm wide, and 8dm high, what is its surface?",
+        "answer": 184,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A rectangular concrete floor has a perimeter of 30 meters and its length and width are prime numbers. How many square meters is this concrete floor?",
+        "answer": 26,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of the rectangle is 32 cm, and the ratio of length to width is 5:3. Find the area of the rectangle?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "The perimeter of a rectangle is 360 meters, and the ratio of length to width is 2:1, what is the area of the rectangle?",
+        "answer": 7200,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "If the side length of a square increases by 4 cm, how many centimeters does its perimeter increase?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid, if its length is shortened by 2 cm, becomes a cube with side lengths of 2 cm. What is the surface area of this cuboid?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The sum of the upper and lower bases of a trapezoid is 24cm, and the height is 10cm. What is its area in cm**2.",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The sum of the upper and lower bases of an isosceles trapezoid is 30 cm and its waist is 10 cm. What is the perimeter of this trapezoid?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Use a 64 cm long iron wire to form a square, and paste white paper on it, at least how many square centimeters of paper are needed.",
+        "answer": 256,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field is 36 meters long and 12 meters longer than its width, surrounded by a fence. How big is this vegetable patch?",
+        "answer": 864,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the radius of a circle is doubled, its area will be equal.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length of a cuboid is 35 cm, the width is the length (4/5), and the height is the width (3/4). What is the volume of this cuboid in cubic centimeters?",
+        "answer": 20580,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If the radius and height of the base of a cone are tripled, how many times will its volume be enlarged?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A square playground has a side length of 200 meters. Xiao Fang runs around the playground every day. How many meters does Xiao Fang run every day?",
+        "answer": 800,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaofang enlarges a square with an area of 4 square centimeters at a ratio of 2:1. What is the area of the enlarged square in square centimeters? how many square centimeters",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length of two adjacent sides of an isosceles triangle is 3 cm and 6 cm respectively, what is the perimeter of this isosceles triangle in cm",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the base of a parallelogram is 12 cm and the area is 96 cm2, what is its height in cm?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "In an obtuse triangle, the largest angle is 110°, the smallest angle is 20°, what is the other angle?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of the upper and lower bases of a trapezoid is 16dm, the height is 10dm, what is its area dm**2.",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The height of a parallelogram is 6 decimeters and the base is 1 meter. What is its area?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "How much does the hour hand rotate clockwise around \"O\" from \"12\" o'clock to \"2\" o'clock.",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Rotate a square along the straight line where one of its sides is located to obtain a cylinder with a base circumference of 25.12 cm. What is the area of this square in square centimeters?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "An isosceles triangle is formed by an iron wire with a length of 18dm. If the length of the waist is 5dm, what is the length of the base in decimeters?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a circle is 8π decimeters2. Draw the largest square in this circle. What is the area of this square?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of an equilateral triangle is 30 meters, the height is the base (4/5), what is the area of the triangle in square meters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A rectangular parking lot is 110 meters long and 50 meters wide. What is the area of the parking lot in square meters?",
+        "answer": 5500,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of a right triangle is 90 cm, and the ratio of the lengths of the three sides is 13:12:5, what is its area in square centimeters?",
+        "answer": 270,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "The surface area of a cube is 216 square centimeters. If it is sawed into 8 small cubes of equal volume, what is the surface area of each small cube in square centimeters?",
+        "answer": 54,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangle with an area of 300 square centimeters has a length of 20 centimeters and a width of 20 centimeters.",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The diameter of the small circle is (1/4) of the diameter of the large circle, and the area of the large circle is equal to the area of the small circle.",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the area of a square with a perimeter of 36 cm",
+        "answer": 81,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A square pool without a cover has a side length of 5 meters measured from the inside. If the inside of the pool is covered with waterproof paint, how many square meters is the painted area?",
+        "answer": 125,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaohua ran 2 laps around a square pond with a side length of 12 meters. How many meters did he run in total?",
+        "answer": 96,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut a 4-meter-long cylindrical log into 5 small logs, and the surface area increases by 8 square decimeters. What is the original volume of the log?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The side of the pyramid is a triangle, the height of this side is 66m, and the area is 3960m**2. What is the length of the base of this side.",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The volume of a cylinder is 54m**3. Then, what is the volume of the cone with the same base and height in m**3.",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the width of a rectangular tablecloth is 8 decimeters and its length is 2 decimeters, what is the area in square decimeters?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the side length of a cube is 3.5 cm, what is the sum of its side lengths in cm?",
+        "answer": 42,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a cuboid with a length of 6 cm, a width of 4 cm and a height of 3 cm is cut into two cuboids, what is the maximum increase in surface area in square centimeters?",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylindrical tin bucket without a cover, 20cm high. The perimeter of the bottom is 62.8cm. How many square centimeters of iron sheet does this bucket need at least?",
+        "answer": 1570,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The perimeter of an isosceles trapezoid is 24 cm, its upper base is 2 cm long, and its lower base is 8 cm long. What is the length of the waist of this isosceles trapezoid?",
+        "answer": 7,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The fire brigade built a training wall with a length of 8 meters, a width of 0.25 meters and a height of 2 meters. If 525 bricks are used per cubic meter, at least how many bricks are needed for this wall?",
+        "answer": 2100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A measurement team stood a 3-meter-long bamboo pole upright on the ground and measured the shadow length as 1.2 meters. At the same time, it measured the shadow length of a water tower as 7.2 meters. How many meters is the height of this water tower?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field is 8 meters long and 5 meters wide. One side is against a wall and three sides are surrounded by fences. How many meters of fences are needed at least?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The height of a parallelogram and a trapezoid are both 6 cm, the lower base of the trapezoid and the base of the parallelogram are both 10 cm, the lower base of the trapezoid is 3 cm larger than the upper base, how much less is the area of the trapezoid than the area of the parallelogram?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "There is a cylindrical chimney with sections of 160 cm, and its lateral area is 5024 cubic centimeters. What is the radius of the base of the chimney?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is half the perimeter of a rectangle with a length of 5 cm and a width of 3 cm?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the radius of a circle is 10 cm, what is the area of the circle?",
+        "answer": 314,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A 100 cm long iron wire is used to form a rectangle whose length is 1.5 times its width. What is the width of this rectangle in cm?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The volume of a cone is 50 cm**3, what is the volume of a cylinder with the same base and height in cm**3.",
+        "answer": 150,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the perimeter of a rectangle whose length is 15 cm and width is 10 cm?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylindrical steel bar with a length of 2 meters is cut into three sections, and the surface area is increased by 24 square centimeters compared with the original one. What is the volume of this cylindrical steel in cubic centimeters?",
+        "answer": 1200,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "∠1, ∠2, ∠3 are the three angles of a triangle. Given that ∠1=80°, ∠2=54°, find ∠3.",
+        "answer": 46,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The sum of the upper and lower bases of the trapezoid is 10 meters, the area is 100 square meters, what is the height?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a cone with a base diameter of 6 cm and a height of 8 cm is divided into two blocks of exactly the same shape and size, the surface area will increase by how many square centimeters compared to the original one.",
+        "answer": 48,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylinder and a cone have the same base area and the same volume. The height of the cylinder is 18 cm, what is the height of the cone in cm.",
+        "answer": 54,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A room is 8 meters long, 5 meters wide, and 3 meters high. If you paste wallpaper on the four walls of the room, excluding doors and windows of 10 square meters, the wallpaper is 12.5 yuan per square meter. How much is the wallpaper in total?",
+        "answer": 850,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "The base and area of the triangle and the parallelogram are equal. It is known that the height of the parallelogram is 5 cm. What is the height of the triangle in cm?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Make a triangular exhibition board with an area of 160 square decimeters. If the height of the exhibition is 10 decimeters, what is the length of the bottom side of the exhibition board in decimeters?",
+        "answer": 32,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "What is the volume of a square wire frame surrounded by 12 meters long wire?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the base and height of a triangle are tripled, how many times will its area be enlarged?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylinder is surrounded by a square paper with a side length of 8 cm. What is the lateral area of the cylinder?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid carton with a length of 5.2 decimeters, a width of 4 decimeters, and a height of 3.5 decimeters, how should it be placed on the table to occupy the smallest table area? How many square decimeters?",
+        "answer": 14,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If a cylinder with a base diameter of 3 cm and a height of 6 cm is cut into two half cylinders along the base diameter, how many square centimeters will the total surface area increase?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A triangular nursery is 75 meters long and 32 meters high, with an average of 80 seedlings per square meter. How many seedlings can be grown in this nursery?",
+        "answer": 96000,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A piece of wire is 90 cm long. After making a square frame with a side length of 16 cm, how many centimeters are left?",
+        "answer": 26,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A milk carton is 7 cm long, 4 cm wide, and 12 cm high. How many square centimeters of cardboard are needed to make such a milk carton?",
+        "answer": 320,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A rectangle with a ratio of length to width of 5:4 is surrounded by an 18-meter-long iron wire. What is the area of the rectangle in square meters?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "The median length of a trapezoid is 20 meters and the height is 30 meters. What is the area of the trapezoid in square meters?",
+        "answer": 600,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The processing plant needs to process 80 rainwater pipes. The cross-section of each rainwater pipe is a square with a side length of 10 cm and a length of 2 meters. How many square meters of iron sheets are needed?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "rectangular parallelepiped iron sheet with a width of 16 decimeters, cut off a square with a side length of 4 decimeters from its four corners, and then weld it into a rectangular parallelepiped box without a cover. If the volume of this box is 786 cubic decimeters , so how many square decimeters is the original area of this iron sheet?",
+        "answer": 521,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "Two identical trapezoids can be put together to form a parallelogram with a base of 32 cm and a height of 15 cm. What is the area of each trapezoid?",
+        "answer": 240,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Using a piece of square paper with a side length of 40 cm, cut out the largest circle, what is the area of the remaining part?",
+        "answer": 344,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The school conference room is paved with square tiles with a side length of (3/5) meters, and exactly 100 tiles are used. What is the area of the conference room in square meters?",
+        "answer": 36,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the lengths of the two sides of a right triangle are 3 cm and 5 cm, and they are rotated around the axes of 3 cm and 5 cm respectively, what is the volume of the two cones obtained?",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the two sides of an isosceles triangle are 4 cm and 10 cm long, what is the length of the other side in cm?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a rectangular flower bed in the school with an area of 12 square meters. Now double its length and 5 times its width. What is the area of the new flower bed in square meters?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "44 cm long iron wire is used to form a rectangle (the length and width are both integer centimeters), what is the largest area of the enclosed rectangle?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The upper base of the trapezoid is 4 decimeters, the lower base is 9 decimeters, and the area is 65 square decimeters. Find the height of the trapezoid.",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A cylinder and a cone have the same base radius and height, respectively, and their volume difference is 36 cubic decimeters. What is the volume of the cylinder in cubic decimeters?",
+        "answer": 54,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "To make two cylindrical ventilation pipes with a length of 120cm and a bottom diameter of 20cm, at least how many square centimeters of iron sheets are needed.",
+        "answer": 15072,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length of a rectangle is 4 cm and the width is half the length. What is the area of the rectangle?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "In a triangle, ∠1=64°, ∠2=36°, ∠3=how much.",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A green belt is built on both sides of the road, each green belt is 200 meters long and 5 meters wide. How many square meters is the total area of the green belt?",
+        "answer": 2000,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular colored flag is equal in area to a triangular colored flag. It is known that the length of the rectangular colored flag is 8 decimeters and the width is 5 decimeters. If the height of the triangular colored flag is 10 decimeters, what is the length of its base?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut a piece of rectangular paper with a length of 48 cm and a width of 30 cm into a square of the same size without any residue. What is the maximum length of the side of the square in cm?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A block of iron is put into a cube water tank with a side length of 10 cm, and the water level rises by 2 cm (the water does not overflow), what is the volume of the block of iron? (Only the column formula does not count)",
+        "answer": 200,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The area of a square with a side length of cm is 64 square meters.",
+        "answer": 800,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A circle is formed by a wire with a length of 628 cm. What is the diameter of the circle in cm?",
+        "answer": 200,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut the largest square out of a rectangular paper with a length of 10 cm and a width of 6 cm. What is the perimeter of this square in cm?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut out the largest square from a rectangular paper with a length of 4 decimeters and a width of 3 decimeters. What is the area of the cut square in square centimeters?",
+        "answer": 900,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the radius of the base of a cylinder is tripled, what is the multiple of its volume?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A parallelogram garden has a base of 25 meters and a height of 5 meters. On average, 50 flowers are produced per square meter, so how many flowers can this land produce in total?",
+        "answer": 25000,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Cut out a cuboid block with a length of 8m, a width of 6m and a height of 3m to create a largest cube. What is the volume of the cube in m**3.",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The base of a triangle is 15cm long and its area is 150cm**2. What is its height in cm?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "One side of a square is 8 decimeters, and the side of the other square is twice as long. What is the perimeter of the other square?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "piece of steel with a side length of 6 decimeters is melted and cast into a rectangular steel with a cross section of 18 square decimeters. How many decimeters is the length of the rectangular parallelepiped steel?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "For a square, if its opposite sides are shortened by 16 centimeters, its area is reduced by 512 square centimeters. What is the perimeter of the original square?",
+        "answer": 128,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Fill a cylindrical container with a height of 15 cm with water, and then pour all the water into a conical container with the same bottom. What is the height of the water surface in cm?",
+        "answer": 45,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the base of a cuboid is a square with side length 8 cm and height 5 cm, what is the sum of its sides in cm?",
+        "answer": 84,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cube fuel tank, the side length measured from the inside is 5 decimeters, if the fuel weighs 0.8 kg per liter, how many kilograms of fuel can this tank hold at most?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "In Hexi Village, there is a parallelogram-shaped experimental field with a base length of 600 meters and a height of 250 meters. On average, 1.2 tons of rice can be harvested per hectare. How many tons of rice can be harvested in this field?",
+        "answer": 18,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The lengths of two sides of an isosceles triangle are 3 cm and 7 cm respectively, what is the perimeter of the triangle in cm?",
+        "answer": 17,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use 4 squares with a side length of 8 cm to form a large square. What is the perimeter of this large square in cm?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the two sides of an isosceles triangle are 3 cm and 6 cm long, what is the length of the third side in cm?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "In a circular open space with a diameter of 60 meters, a circular pool with a radius of 10 meters is planned to be built in the center of it, and the rest is paved with turf green space. What is the area of the turf green space in square meters?",
+        "answer": 2512,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "Xiaohu wants to cut a circular piece of paper with an area of 50.24cm**2, and he needs to prepare a square piece of paper with the smallest area of cm**2.",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a cube gift box with a side length of 22 cm. How many square decimeters of wrapping paper should be used to wrap this gift box?",
+        "answer": 2904,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular garden is 20 meters long and 9 meters wide. What is its circumference.",
+        "answer": 58,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "cylindrical piece of wood has a base area of 6.5 square centimeters. If it is cut into 3 cylinders, how many square centimeters will the surface area of the wood increase?",
+        "answer": 26,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a classroom with a length of 8 meters and a width of 6 meters with ceramic tiles on the floor. Each tile is a parallelogram with a base of 4 decimeters and a height of 2.5 decimeters. How many such tiles are needed to cover the floor of this classroom?",
+        "answer": 480,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A rectangle has a width of 26 meters and is 8 meters less than its length. What is the circumference in meters?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "To draw a circle with a circumference of 25.12 cm, what is the distance between the two feet of the compass in cm?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of an isosceles triangle is 40 cm, and the length of the waist is twice the length of the base. What is the length of the waist in cm?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A building has 25 floors, each floor has 24 windows, and each window has 4 panes of glass. How many panes of glass does this building have?",
+        "answer": 2400,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "classroom is 15 meters long, 12 meters wide, and 4 meters high. The area of doors and windows occupies 42 square meters. If you want to paint this classroom, how many square meters will the painted area be? (top surface not painted)",
+        "answer": 174,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "There is an isosceles triangle, one of the base angles is 80 degrees, what is the apex angle?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid wooden box has a length of 25cm, a width of 20cm, and a height of 12cm measured from the inside. What is the volume of this wooden box in liters?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the radius of the base of the cone is doubled and the height is reduced to (1/2) times the original, then the volume of the cone will be the same.",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The perimeter of a rectangle is 50 meters, and the ratio of length to width is 3:2. What is the area of the rectangle?",
+        "answer": 150,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "- The perimeter of a square is 24 decimeters, what is the length of its sides?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylinder and a cone have the same base area and height. If the area of the base of the cylinder is 9 square decimeters and the height is 2 decimeters, what is the volume of the cone in cubic decimeters?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a rectangle with 420 small squares in length and 240 small squares in width. If the vertex of each small square is called a grid point, how many grid points (including both ends of the diagonal line) pass through the diagonal line connecting the rectangle.",
+        "answer": 61,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the area of a triangle is 4 square meters, what is the area of a parallelogram with the same base and height?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the apex angle of an isosceles triangle is 80°, what is the base angle?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If a cylinder with a diameter of 4 cm and a height of 5 cm is cut into two half cylinders along the diameter of the bottom, how much is the surface area increased in square centimeters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut a cube with a side length of 1 meter into small cubes with a side length of 10 cm, and then arrange these small cubes in a row. What is the length of the cuboid formed?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If 3 cubes with sides of 4 decimeters are glued together to form a cuboid, how much dm**2 is the surface area reduced?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid swimming pool is 50 meters long, 40 meters wide, and 3 meters deep. Paint the bottom and surrounding areas of the pool. If 100 grams of paint is used per square meter, how many kilograms of paint are needed to paint the pool?",
+        "answer": 254,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "The base of a parallelogram is 40 cm and the height is 20 cm. What is the area of the triangle with the same base and height?",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cylindrical piece of wood 5 meters long is sawn in half along its diameter to increase its surface area by 20 square decimeters. What is the diameter of this piece of wood.",
+        "answer": 2,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the perimeter of a square is 124 meters, what is its area in square meters?",
+        "answer": 961,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A dustbin is composed of two cubes. The edge length of the small cube is 2 decimeters, the edge length of the big cube is 5 decimeters, and the top of the small cube is open for people to throw garbage. How many square decimeters of iron sheet is needed to make such a dustbin? (Hint: to subtract three 3*2 areas)",
+        "answer": 162,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "24 cars are evenly divided into two rows and parked on both sides of a road. Each car is 4 meters long, and the distance between two cars is 5 meters. How many meters is the length from the front of the first car to the tail of the last car (that is, the length of this road) ?",
+        "answer": 103,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A triangle and a parallelogram have the same area. It is known that the base of the triangle is 6 cm, the height is 5 cm, the base of the parallelogram is 15 cm, what is the height in cm?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The diameter of the bottom surface of a cylindrical ventilation pipe is 20 cm, and the length is 40 cm. To make 20 such ventilation pipes, how many square centimeters of iron sheet should be used at least?",
+        "answer": 50240,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use 3 cubes with edge length of 2cm to form a cuboid, how much will the surface area be reduced in cm**2.",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "How many small cubes with side lengths of 2 cm can be assembled to form a large cube.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cylinder has the same volume as a cuboid with a length of 20 decimeters, a width of 5 decimeters, and a height of 3 decimeters. If the height of the cylinder is 15 decimeters, what is the area of its base?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field is 10 meters long and 6 meters wide, what is its perimeter?",
+        "answer": 32,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The length of a rectangle is 3.2cm, the width is 6.25cm, what is the area in cm**2.",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Wang Xiaohua walked 8 times along a circular flower bed, a total of 1256 meters. What is the radius of this circular flower bed in meters. (π takes 3.14)",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Wang Ping made a plastic chalk box for the class. The length, width and height of this chalk box are 15 cm, 6 cm, and 6 cm. In order to be stronger, he pasted transparent tape on all edges of the chalk box. How many centimeters of tape did he use in total?",
+        "answer": 108,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the perimeter of a square is 2 meters, what is the length of its sides?",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the radius of the cylinder is tripled and the height remains the same, the volume of the cylinder will be increased to how many times its original volume.",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If two cubes with side lengths of 2 decimeters are put together to form a cuboid, the surface area of the cuboid is reduced by the sum of the surface areas of the two cubes by how many square decimeters.",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Paint the surface of a tool box with a length of 50 cm, a width of 40 cm, and a height of 35 cm. What is the area to be painted?",
+        "answer": 10300,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "A long line segment has 11 points including the two endpoints. How many line segments does it include? Given that the distance between two adjacent points is 1 cm, what is the sum of the lengths of all line segments?",
+        "answer": 220,
+        "label": 5,
+        "reason_step": 12
+    },
+    {
+        "question": "A cylindrical iron block with a base radius of 8 cm and a height of 20 cm is cast into a cone whose base is the same as the cylinder. What is the height of the cone in centimeters.",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid whose base is a square with a perimeter of 20 centimeters, if a 4 centimeter length is cut off, it becomes a cube. What is the surface area of the original cuboid?",
+        "answer": 230,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "A square billet with a side length of 4 meters is forged into a rectangular steel with a cross section of 0.8 square meters. How long is the forged steel? (solution with equation)",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangle is 10 meters long and 6 meters wide. If the length increases by 2 meters, how many square meters does the area increase?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the central angles of the two sectors are equal and the radius of the large sector is twice the radius of the small sector, then how many times the area of the large sector is the area of the small sector.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the area of one side of a cube is 10cm**2, put these two cubes together to form a cuboid, what is the surface area of the cuboid in cm**2?",
+        "answer": 100,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid has a volume of 96 cubic meters and a base area of 16 square meters. What is its height in meters?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If the side length of a square is reduced by 2 meters and the area is reduced by 16 square meters, what is the area of the original square?",
+        "answer": 25,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "If a cylinder has a diameter and height of 6 cm and is cut into two half cylinders along the diameter, how many square centimeters will the surface area increase?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Uncle Wang uses a wall to surround a rectangle with a 24-meter rope. What is the maximum area of this rectangle in square meters?",
+        "answer": 72,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Construct a cuboid water tank with a length of 4 meters, a width of 3 meters and a depth of 2 meters. If the four walls and the bottom of the pool are to be pasted with square tiles with a side length of 2dm, how many pieces of such tiles should be used at least?",
+        "answer": 1000,
+        "label": 5,
+        "reason_step": 9
+    },
+    {
+        "question": "A cylinder and a cone with the same base and height. The volume of the cylinder is 9 cubic centimeters. What is the sum of their volumes?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the length of a rectangle is increased by 4 cm and the width remains the same, what is its perimeter and the perimeter of the original rectangle?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The circumference of the base of a cylinder is 12.56 cm, and the height is 8 cm. If it is cut into two equal halves along the height, how many square centimeters will the surface area increase?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If one acute angle of a right triangle is 30°, what is the measure of the other acute angle?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a square vegetable field, and the length of the surrounding fence is 36 meters. What is the area of this vegetable field?",
+        "answer": 81,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A triangle and a parallelogram have the same base and the same area, the height of the parallelogram is 6 cm, what is the height of the triangle in cm",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular lawn is 30 meters long and 15 meters wide. One side is against a wall, and the other three sides are surrounded by fences. What is the minimum meter of the fence?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A can is cylindrical. Its bottom surface is 31.4 cm in circumference and 15 cm in height. Label paper is to be pasted around it. What is the area of the label paper in square centimeters?",
+        "answer": 471,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "It is known that a cuboid has a volume of 78 cubic decimeters and a base area of 6 square decimeters. What is its height?",
+        "answer": 13,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut out the largest square from an iron plate with a length of 8 cm and a width of 5 cm. What is the perimeter of this square in cm?",
+        "answer": 20,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A piece of conical wood with a base diameter of 10 cm and a height of 15 cm is cut from the apex along the height into two pieces of the same shape and size. How much does the surface area increase?",
+        "answer": 150,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Roll a piece of paper 9 decimeters long and 3 decimeters wide into a cylinder. What is the lateral area of the cylinder in square centimetres.",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A square pool has a circumference of 60 meters, what is the length of its sides?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A parallelogram with an area of 24 square centimeters, if its base is tripled and its height doubled, what is its current area in square centimeters?",
+        "answer": 144,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A commodity box is a cube with a side length of 6 cm. If a trademark is pasted around the box, what is the maximum square centimeter of the area where the trademark can be pasted?",
+        "answer": 144,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular flower bed is 5 meters long and 3 meters wide. Xiaojun walked around the flower bed once, how many meters did he walk in total?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The sum of the upper and lower bases of a trapezoid is 24 meters, and the height is 5 meters. What is the area?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "triangular paddy field has a height of 60 meters and a base 1.5 times the height. What is the area of the paddy field in square meters?",
+        "answer": 2700,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "I am an isosceles triangle, my top angle is 96°, what is one of my base angles?",
+        "answer": 42,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the radius and height of the base of a cylinder are tripled, what is the multiple of its volume?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The sum of the two bases of a trapezoid is 12 cm and the height is 14 cm. What is the area in square centimeters?",
+        "answer": 84,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the side length of a square is 10 decimeters, what is the perimeter in decimeters?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The length and width of a rectangle are both prime numbers, and the circumference is 32 cm. What is the maximum area of the rectangle in square centimeters?",
+        "answer": 55,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangle has a perimeter of 24 cm and a width of 6 cm, what is the length?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The area of a parallelogram orchard is about 4 hectares, its base is 800 meters, how many meters is its height?",
+        "answer": 50,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid has a base area of 90 square centimeters and a height of 0.8 decimeters, what is its volume in cubic centimeters?",
+        "answer": 720,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Dad bought Xiaohong an isosceles triangle kite. The base angle of one of them is 70°, what is the top angle?",
+        "answer": 40,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The side length of a square is 15 centimeters, what is its area in square centimetres?",
+        "answer": 225,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cuboid has a length of 12 cm, a width of 10 cm, and a height of 8 cm. What is the area of the largest face of this cuboid?",
+        "answer": 120,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Our flat-top classroom is 8.5 meters long, 6 meters wide and 4 meters high. The classroom doors, windows and blackboards have a total area of 35 square meters. If it costs 8 yuan per square meter, how much will it cost to paint this classroom?",
+        "answer": 1056,
+        "label": 5,
+        "reason_step": 6
+    },
+    {
+        "question": "A cuboid has a volume of 3.6 cubic decimeters and a base area of 20 square centimeters, what is its height in centimeters?",
+        "answer": 180,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cube gift box with a side length of 10 cm, how many square centimeters of wrapping paper should be used to wrap this gift box?",
+        "answer": 600,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cube box without a lid, the sides are 8 cm long. At least how many square centimeters of cardboard is needed to make this cube box.",
+        "answer": 320,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cube has a base area of 25 square meters and a volume of 125 cubic meters, what is its height in meters",
+        "answer": 5,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "On Sunday, Wang Yu and Zhao Qiang measured the shadow length of a 1.5-meter-long bamboo pole in the square, and the shadow length was 1 meter. At the same time, they also measured the shadow length of a big tree on the square, which was 4 meters. How tall is the tree?",
+        "answer": 6,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "What is the volume of a cone whose base radius is 6 cm and height is 5 cm?",
+        "answer": 60,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "There is a warehouse with a length of 25 meters, a width of 10 meters and a height of 3 meters. How many cubic meters of goods can this warehouse store at most?",
+        "answer": 750,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Two cylinders and cones have the same base area and volume respectively. The height of the cylinder is 4 cm. What is the height of the cone?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A 16 cm wire surrounds a rectangle, if its length and width are prime numbers, what is its area in square centimeters?",
+        "answer": 15,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Cut a trapezoid into a parallelogram and a triangle. The upper base of the trapezoid is 5 decimeters, the lower base is 8 decimeters, and the height is 7 decimeters. What is the area of the cut parallelogram?",
+        "answer": 35,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A rectangular vegetable field, the sum of its length and width is 8 meters, what is the perimeter of this rectangular vegetable field in meters?",
+        "answer": 16,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "In a right triangle, ∠1 and ∠2 are both acute angles. If ∠1=33°, then ∠2=how many degrees.",
+        "answer": 57,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Find a cassette and measure its length, width, and height. If 12 tapes are packed in one box, how to design the box? Write down 3 options that you are satisfied with. (measured length 7, width 11, height 1.5)",
+        "answer": 1206,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The perimeter of a rectangular desk is 40 decimeters, the width is 8 decimeters, and how many decimeters is the length?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "If the area of a triangle is 48cm**2 and the height is 8cm, what is the corresponding base in cm?",
+        "answer": 12,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "The perimeter of a rectangle is 18 cm, the length is 5 cm, and the width is in cm.",
+        "answer": 4,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cuboid wooden block with a length of 2.5m, a width of 0.9m, and a height of 1.2m is placed on a flat ground. What is the maximum area in square meters?",
+        "answer": 3,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Xiaoqiang walked 20 times along an equilateral triangle flower bed. One side of this flower bed is 3 meters long. How many meters did Xiaoqiang walk in total?",
+        "answer": 180,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "There is a square orchard with an area of 1 hectare. If its sides are extended by 200 meters, how many hectares will the area of the orchard be increased?",
+        "answer": 8,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "The dance room of the youth activity center is 36 meters long and 25 meters wide. To lay a 3cm thick wooden floor, how many square meters of wood should be used at least?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A 96 cm wire is folded into a square frame, what is the side length of the square in cm? (column equation solution)",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Divide a square with a perimeter of 36 cm into two rectangles of the same size, what is the perimeter of one of the rectangles in cm?",
+        "answer": 27,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "The diameter of the circular fountain pool on the square is 20m, what is its radius in m?",
+        "answer": 10,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "Use 84 cm wire to form a right triangle, the ratio of the length of this triangle is 3:4:5. What is the area of this triangle?",
+        "answer": 294,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "parallelogram parking lot is 24 meters high and the base is three times the height. What is the area of this parking lot?",
+        "answer": 1728,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A cube fish tank with a side length of 30 cm, the height of the existing water is 20 cm, now put stones to make it completely submerged, and the water level rises to 25 cm, how many cubic centimeters are the stones put in?",
+        "answer": 4500,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A rectangular vegetable field is 60 meters long and long (3/5) wide. How many square meters does this vegetable field have?",
+        "answer": 2160,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "Put two identical cuboids whose length, width, and height are 9 cm, 7 cm, and 4 cm respectively to form a large cuboid. What is the minimum surface area of this large cuboid?",
+        "answer": 382,
+        "label": 5,
+        "reason_step": 7
+    },
+    {
+        "question": "A rectangular garden covering an area of 6 hectares is 300 meters long. If a fence is built around it, what is the total length of the fence in kilometers?",
+        "answer": 1,
+        "label": 5,
+        "reason_step": 5
+    },
+    {
+        "question": "From a piece of rectangular paper with a length of 15 cm and a width of 9 cm, cut out the largest square and turn it into a small rectangle. Then cut a largest square from this small rectangle, what is the perimeter of this square in centimeters?",
+        "answer": 24,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "In triangle ABC, ∠A=35°, ∠B=113°, ∠C=how much.",
+        "answer": 32,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "A base angle of an isosceles triangle is 32°, what is its apex angle?",
+        "answer": 116,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "How many square decimeters of glass is needed to make a cube glass aquarium (without cover) with a side length of 4 decimeters?",
+        "answer": 80,
+        "label": 5,
+        "reason_step": 1
+    },
+    {
+        "question": "If 6 cubic decimeters are cut off from a cylinder, it is exactly a cone. What is the volume of the cylinder?",
+        "answer": 9,
+        "label": 5,
+        "reason_step": 2
+    },
+    {
+        "question": "A cube with a side length of 4 decimeters, how many pieces can be sawed into small cubes with a side length of 1 decimeter?",
+        "answer": 64,
+        "label": 5,
+        "reason_step": 2
+    }
+]
